@@ -7,8 +7,9 @@
 ただし、プロジェクトのビルドの方法は以下に説明があります。プロジェクトがリリース可能な状態まで進んだ時点で、パッチのダウンロードが可能になる予定です。
 
 ご質問、ご提案、プレイテスト用の当ビルドについては以下のリンクを参照下さい！
-[リズム天国プラス　ツイッター](https://x.com/rhytngkplus)
-[Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
+
+・[リズム天国プラス　ツイッター](https://x.com/rhytngkplus)
+・[Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
 **（質問などRhythm Heaven Advanceより移植されたものについてはこちらで発言しても構いませんが、リズム天国プラス独自の内容に関する質問はこのdiscordサーバーではお控えください！）**
 
 ## インストール方法
