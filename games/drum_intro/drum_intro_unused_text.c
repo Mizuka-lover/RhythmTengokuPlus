@@ -7,44 +7,44 @@
 
 const char D_0805d438[] =
     "\n"
-    "Oh, hi there.\n"
-    "I'm Samurai Drummer";
+    "あ、　どうも。\n"
+    "ドラム侍です。";
 
 const char D_0805d458[] =
-    "Do you like drums?\n"
-    "I guess you don't hate them,\n"
-    "that's good at least\n"
-    "Want me to help you play?";
+    "タイコは　お好きですか？\n"
+    "キライじゃないですよね。\n"
+    "では、　私が　いろいろと\n"
+    "お世話しますね。";
 
 const char D_0805d4b4[] =
-    "Let me give you a lecture.\n"
-    "...Relax! Don't worry!\n"
-    "Just follow along,\n"
-    "it'll be a fun one!";
+    "簡単なレクチャーを\n"
+    "してさしあげます。\n"
+    "まぁ、　気をラクにして\n"
+    "おつきあいください。";
 
 const char D_0805d508[] =
-    "First off, Lesson 1.\n"
-    "I'll play you a pattern,\n"
-    "and you copy after me.";
+    "さっそく　レッスン　１　です。\n"
+    "私が見本をやりますから\n"
+    "マネしてくださいネ。";
 
 const char D_0805d554[] =
     "\n"
-    "Okay! Here we go!";
+    "では、　いきます。";
 
 const char D_0805d568[] =
-    "Give it a shot\n"
-    "When you're ready!";
+    "\n"
+    "はい、　どうぞ。";
 
 const char D_0805d57c[] =
-    "Alright, I'm kidding!\n"
-    "Sorry about that.";
+    "いまのは、　冗談です。\n"
+    "ごめんなさい。";
 
 const char D_0805d5a4[] =
-    "I'll try to make sure\n"
-    "you'll have a good time\n"
-    "Just try your best.";
+    "でも、　出来るように\n"
+    "精一杯　お世話しますので\n"
+    "がんばってみてください。";
 
 const char D_0805d5ec[] =
     "\n"
-    "See you the next lesson.\n"
-    "Goodbye!";
+    "では、　次回をお楽しみに。\n"
+    "さようなら。";

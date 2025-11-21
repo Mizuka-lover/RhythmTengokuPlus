@@ -6,28 +6,24 @@
 
 
 const char D_0805e42c[] =
-    "Hi there!\n"
-    "I'm Samurai Drummer";
+    "どうも！\n"
+    "ドラム侍です。";
 
-const char D_0805e444[] = "How have you been?";
+const char D_0805e444[] = "お元気でしたか？";
 
-const char D_0805e458[] = 
-    "This lesson, let's play along\n"
-    "with a short music track.";
+const char D_0805e458[] = "今回は、　短い曲に合わせて実際に演奏してみましょう。";
 
-const char D_0805e490[] = 
-    "Listen closely,\n"
-    "then repeat after me.";
+const char D_0805e490[] = "私の演奏をよくきいて、　マネしてくださいネ。";
 
-const char D_0805e4c0[] = "I'll get right to it.";
+const char D_0805e4c0[] = "さっそくですが、　いきます。";
 
 const char D_0805e4e0[] =
-    "No, that's wrong!\n"
-    "Listen to me again.";
+    "ちがう！\n"
+    "よくきいてネ。";
 
 const char D_0805e4f8[] =
-    "No, that's not right!\n"
-    "Listen to me very carefully.";
+    "ちがうんです！\n"
+    "よく、　よ～くきいてネ。";
 
 const char *const D_0805e520[] = {
     D_0805e4c0,
@@ -38,11 +34,11 @@ const char *const D_0805e520[] = {
 
 const char D_0805e530[] =
     "\n"
-    "Your turn.";
+    "あなたの番です。";
 
 const char D_0805e544[] =
     "\n"
-    "Good, you've got it now!";
+    "さあ、　いまいちど！";
 
 const char D_0805e55c[] =
     "\n"
@@ -61,7 +57,7 @@ const char D_0805e584[] =
 
 const char D_0805e58c[] = "";
 
-const char D_0805e590[] = "Good, you've got it now!";
+const char D_0805e590[] = "おぉ、　すぐできましたね！";
 
 const char D_0805e5ac[] = "なかなか　のみこみが早いですね！";
 

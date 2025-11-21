@@ -275,7 +275,6 @@ script rat_race_sub_08a1bb78
     rat_race_event09 2
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     set_marking_criteria 2
     spawn_cue CUE_DASH
     rest 12
@@ -312,7 +311,6 @@ script rat_race_sub_08a1bb78
     rat_race_event0D 0
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     set_marking_criteria 2
     spawn_cue CUE_DASH
     rest 12
@@ -349,7 +347,6 @@ script rat_race_sub_08a1bb78
     rat_race_event09 1
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     set_marking_criteria 2
     spawn_cue CUE_DASH
     rest 12
@@ -428,7 +425,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -484,7 +480,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -535,7 +530,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -586,7 +580,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -642,7 +635,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -705,7 +697,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -749,7 +740,6 @@ script script_rat_race_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -851,7 +841,6 @@ script script_rat_race_practice
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -913,7 +902,6 @@ script script_rat_race_practice
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -979,7 +967,6 @@ script script_rat_race_practice
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6

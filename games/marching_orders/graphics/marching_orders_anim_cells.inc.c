@@ -809,8 +809,8 @@ AnimationCel marching_orders_cel050[] = {
 
 // [D_088f1156]
 AnimationCel marching_orders_cel051[] = {
-    1,
-    0x40f8, 0x81f0, 0x0095
+    /* Len */ 1,
+    /* 000 */ 0x40f8, 0x81f0, 0x0095
 };
 
 // [D_088f115e]
@@ -822,30 +822,31 @@ AnimationCel marching_orders_cel052[] = {
 
 // [D_088f116c]
 AnimationCel marching_orders_cel053[] = {
-    2,
-    0x40f8, 0x81e8, 0x1235,
-    0x00f8, 0x4008, 0x1239
+    /* Len */ 2,
+    /* 000 */ 0x40f8, 0x81e8, 0x1099,
+    /* 001 */ 0x00f8, 0x4008, 0x11c6
 };
 
 // [D_088f117a]
 AnimationCel marching_orders_cel054[] = {
-    1,
-    0x40f8, 0x81e8, 0x1220
+    /* Len */ 2,
+    /* 000 */ 0x40f8, 0x81e8, 0x1091,
+    /* 001 */ 0x00f8, 0x4008, 0x11c4
 };
 
 // [D_088f1188]
 AnimationCel marching_orders_cel055[] = {
-    3,
-    0x40f6, 0x81e5, 0x1226,
-    0x40f6, 0x8005, 0x122a,
-    0x40fe, 0x8005, 0x124a
+    /* Len */ 2,
+    /* 000 */ 0x40f6, 0x81e9, 0x10d1,
+    /* 001 */ 0x00f6, 0x4009, 0x11c2
 };
 
 // [D_088f1196]
 AnimationCel marching_orders_cel056[] = {
-    2,
-    0x40f6, 0x81e5, 0x122e,
-    0x00f6, 0x4005, 0x1232
+    /* Len */ 3,
+    /* 000 */ 0x40f6, 0x81e5, 0x10cd,
+    /* 001 */ 0x00f6, 0x4005, 0x11c8,
+    /* 002 */ 0x80f6, 0x0015, 0x11d2
 };
 
 // [D_088f11aa]

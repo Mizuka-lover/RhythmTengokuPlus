@@ -306,18 +306,17 @@ script script_bunny_hop_main
     start_perfect_campaign
     rest 24
     enable_pause_menu
-    bunny_hop_event03 D_0805ccb8
+    bunny_hop_event03 D_0805ccb7
     rest 24
     rest 24
     rest 24
     rest 24
     rest 24
-    rest 24
-    rest 24
-    bunny_hop_event03 D_0805cc80
     rest 24
     rest 24
     bunny_hop_event03 D_0805ccc5
+    rest 24
+    rest 24
     rest 24
     rest 23
     bunny_hop_event03 D_0805cc80

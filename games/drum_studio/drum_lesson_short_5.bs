@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_short_5, script_drum_lesson_short_5_entr
 @ Drum Lesson (Short 5) - Data
 
 text D_0805fea0
-    .ascii "Listen to my pattern, then\n"
-    .ascii "repeat when you're ready.\n"
-    .ascii "I'll show it to you again\n"
-    .asciz "if you stop playing."
+    .ascii "よくきいてマネしてね。\n"
+    .ascii "好きなタイミングでどうぞ。\n"
+    .ascii "演奏を止めると、\n"
+    .asciz "お手本がきけるヨ！"
 endtext
 
 
@@ -56,9 +56,9 @@ return
 
 text D_0805ff7c
     .ascii "\n"
-    .ascii "Now, let's add a crash cymbal!\n"
-    .ascii "Hit it with [R, and time it with\n"
-    .asciz "the bass drum here."
+    .ascii "１カ所、音がふえるヨ！\n"
+    .ascii "わかるかな？\n"
+    .asciz "ヒント：Rボタン"
 endtext
 
 
@@ -71,8 +71,9 @@ return
 
 text D_0805ffe4
     .ascii "\n"
-    .ascii "Now for a new snare beat.\n"
-    .asciz "Listen carefully and go for it!\n"
+    .ascii "さらに１カ所、\n"
+    .ascii "音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 
@@ -89,10 +90,10 @@ return
 
 
 text D_08060080
-    .ascii "Let's add a tom beat.\n"
-    .ascii "Remember, you can use\n"
-    .ascii "either [A or Right on [D\n"
-    .asciz "for the snare.\n"
+    .ascii "またまた１カ所、\n"
+    .ascii "音がふえるヨ！\n"
+    .ascii "わかるかな？\n"
+    .asciz "ヒント：十\字ボタン右"
 endtext
 
 
@@ -112,9 +113,9 @@ return
 
 text D_08060148
     .ascii "\n"
-    .ascii "Now let's squeeze in one more\n"
-    .ascii "snare right before the end.\n"
-    .asciz "This should be easy!\n"
+    .ascii "そしてまたなんと！\n"
+    .ascii "１カ所、音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 
@@ -135,10 +136,10 @@ return
 
 
 text D_08060220
-    .ascii "We're not done yet!\n"
-    .ascii "Add one more snare beat\n"
-    .ascii "at the end, and we'll\n"
-    .asciz "wrap up this lesson!"
+    .ascii "\n"
+    .ascii "これまたなんと！！\n"
+    .ascii "１カ所、音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 

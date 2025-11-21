@@ -1,49 +1,49 @@
 
 <img width="1535" height="1370" alt="image" src="https://github.com/user-attachments/assets/ffbfed42-a33c-4206-babf-9cfb250e39e8" />
 
-# Rhythm Heaven Advance:
-This is the newest and latest version of Rhythm Heaven Advance, based on the WIP decompilation of Rhythm Tengoku.
-"Rhythm Heaven Advance" is the brand new and improved translation patch for Rhythm Tengoku, translating all the text and graphics to be as faithful as possible to the original source, while making changes befitting a localization.
-This project (as well as the decompilation itself) **is a Work In Progress!**, meaning its not yet complete, therefore no download link is available.
-However, instruction on how to build the decomp, therefore the project, are available below. And when theres enough of the project done to felicitate a release, a patch dowload will be available.
+# リズム天国プラス:
+これはGBAゲームである「リズム天国」の非公式機能追加プロジェクト「リズム天国プラス」です。このプロジェクトは、先述ゲームの非公式英語翻訳プロジェクト「Rhythm Heaven Advance」およびその一部である「Rhythm Heaven Advance Plus」に追加される新機能を日本語版のリズム天国に移植したものとなります。
+このプロジェクトは、現在**進行中**です！つまり、未完成もしくは不安定であるためパッチ等のダウンロードリンクは提供されていません。
+ただし、プロジェクトのビルドの方法は以下に説明があります。プロジェクトがリリース可能な状態まで進んだ時点で、パッチのダウンロードが可能になる予定です。
 
-For any questions, suggestions, or playtesting builds check out the [Rhythm Heaven Advance discord server](https://discord.gg/8PET8w8PU8)!
-The Advance team is currently looking for proofreading of the translated script!
-So if you know japanese and wanna help out you're more than welcome!
-If you have any Musical or Voice Acting experience, the Advance team is planning on reworking the Japanese audio and songs to be in English, so any help in the regard is welcome aswell!
+ご質問、ご提案、プレイテスト用の当ビルドについては以下のリンクを参照下さい！
+[リズム天国プラス　ツイッター](https://x.com/rhytngkplus)
+[Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
+**（質問などRhythm Heaven Advanceより移植されたものについてはこちらで発言しても構いませんが、リズム天国プラス独自の内容に関する質問はこのdiscordサーバーではお控えください！）**
 
-## Installation
+## インストール方法
 
-To install the project, you need access to a Linux terminal. If you are on Windows 10 or 11, you can access a Linux terminal easily by installing **WSL (Windows Subsystem for Linux)**. If you are already on Linux, you can skip to the **Installing Dependencies** section. Otherwise, follow this guide to install WSL:
+このインストールのプロジェクトにはLinuxターミナルにアクセスする必要があります。もしWindows 10やWindows 11をご使用であれば、**WSL (Windows Subsystem for Linux)**を使用することで簡単にインストール可能です。既にLinuxをご使用であれば、**「依存関係のインストール」**セクションまでスキップしても構いません。WSLを使用するのであれば、以下のガイドに従ってください：
 
-#### Installing WSL
+#### WSLのインストール
 
-To install WSL, first open up either a Command Prompt or Windows PowerShell window as an administrator. Run the command `wsl --install` to automatically install WSL defaulting to the Ubuntu distribution. Once the process finishes, restart your computer to finish the installation.
+まず、コマンドプロンプトもしくはPowershellを管理者として実行します。
+`wsl --install` と入力して実行すると、UbuntuディストリビューションをデフォルトとしてWSLが自動的にインストールされます。この手順が終わったら、デバイスを再起動することでインストールを終了します。
 
-*Note: you will need to have virtualization enabled in your BIOS settings to use WSL, so if you encounter issues, check how to boot into BIOS and enable virtualization for your computer. For any other issues with installation, you can refer to the [official installation guide](https://docs.microsoft.com/en-us/windows/wsl/install).*
+*注：WSLを使用するにはBIOS設定で仮想化機能を有効にする必要があります。問題が発生した場合は、BIOS起動方法を確認し、お使いのコンピュータで仮想化機能を有効にしてください。その他のインストールに関する問題については、[Microsoft公式インストールガイド](https://docs.microsoft.com/ja-jp/windows/wsl/install)を参照してください。*
 <br>
-Once WSL is installed, upon opening it you will be prompted for a username and password. Note that when typing in the password, the characters will not show up, not even as asterisks, so type carefully as you will need to remember your password.
+WSLのインストールに成功し、起動するとユーザー名、パスワードの入力、パスワードの確認が求められます。パスワードを入力する際、キーボード上で文字を入力してもアスタリスク等は表示されないため入力は慎重に行ってください。また、内容を忘れないようにしてください。
 
-Once you've created a user, you should run two more commands to finish setting up your terminal. First, run `sudo apt update`, and then after this command has finished, run `sudo apt upgrade`. These commands will require you to enter your password. When prompted with `Do you want to continue? [Y/n]`, simply enter `y`. After doing this, WSL should be fully set up and ready to use.
+ユーザーを作成したら、ターミナルの設定を完了するために最後にいくつかコマンドを入力する必要があります。まず、`sudo apt update`と入力し実行、完了したら次に`sudo apt upgrade`と入力し実行します。これらのコマンドは途中でパスワードを求めてくるのでその都度パスワードを入力してください。もし`Do you want to continue? [Y/n]`と表示されたら`y`とだけ入力し、Enterキーを押してください。これで、WSLの設定は完了しました。
 <br>
-It is also recommended to mount WSL to a drive letter to access your WSL filesystem from Windows more easily. To do this, follow [this guide](https://github.com/HackerN64/HackerSM64/wiki/Mounting-WSL-to-Drive).
+また、WindowsからLinuxのファイルにアクセスするためにドライブ文字を設定しておくと便利です。もし行う場合は、[このサイト（英語）](https://github.com/HackerN64/HackerSM64/wiki/Mounting-WSL-to-Drive)を参照してください。
 
-If you are not familiar with the Linux terminal, a helpful command to know is `cd` which will change the current working directory. `cd ~/` will take you to your home directory, where it is recommended to store the repository. Additionally, copy and pasting in the WSL terminal is done through right-clicking instead of Ctrl+C / Ctrl+V, so to paste commands from this guide into your terminal, simply copy them with Ctrl+C, and then right click in your terminal to paste.
+もしLinuxターミナルについて詳しくなければ、覚えておくべき重要なコマンドは`cd`です。これは現在自分のいるディレクトリから移動するためのコマンドです。`cd ~/`でホームディレクトリへ移動することができます。リポジトリを保存するのにこのホームディレクトリが推奨されています。そして、WSLターミナルでのコピー&ペーストはCtrl+CとCtrl+Vではなく右クリックで行います。そのため、このガイドのコマンドをターミナルに貼り付けるには、Ctrl+Cでコピーした後、ターミナル内で右クリックして貼り付けてください。
 
 
-#### Installing Dependencies
+#### 依存関係のインストール
 
-To install the required dependencies for the project, first run this command:
+プロジェクトに必要な依存関係をインストールするには、まず次のコマンドを実行してください：
 
 `sudo apt install build-essential binutils-arm-none-eabi git libpng-dev ffmpeg`
 
-After this, you should also run this command:
+その後このコマンドも実行する必要があります：
 
 `sudo ln -s /proc/self/mounts /etc/mtab`
 
-This command can help with issues with WSL when installing devkitPro. It is not always necessary to run, and may throw an error. If it does error, don't worry and just move on to the next step.
+このコマンドは、devkitProのインストール時にWSLで発生する問題の解決に役立ちます。必ずしも実行する必要はなく、エラーが発生する場合もあります。エラーが発生しても心配せず、次の手順に進んでください。
 
-After this, you will need to install devkitPro. This process is very involved, so just run all these listed commands in this order, entering your password when prompted:
+その後、devkitProをインストールする必要があります。このプロセスは非常に複雑ですので、表示されるパスワードを求められたら入力しながら、以下のコマンドを記載された順序で全て実行してください：
 
 `wget https://apt.devkitpro.org/install-devkitpro-pacman`
 `chmod +x ./install-devkitpro-pacman`
@@ -54,37 +54,37 @@ After this, you will need to install devkitPro. This process is very involved, s
 `sudo dkp-pacman -Sy`
 `sudo dkp-pacman -S gba-dev`
 
-After running the final command, press enter and then type `y` to finish installing.
+最後までコマンドを実行し終えたら、Enterキーを押して`y`と入力します。これで依存関係のインストール
 
 
-#### Cloning the Repository
+#### リポジトリのクローン
 
-Now you are ready to clone the repository. First, navigate to your home directory with `cd ~/` and then run this command:
+このプロジェクトをクローンする用意が整いました。ではまず、`cd ~/`を実行してホームディレクトリに移動した後以下のコマンドを実行してください：
 
-`git clone https://github.com/RHAdvance/RhythmHeavenAdvance.git rt`
+`git clone https://github.com/Mizuka-lover/RhythmTengokuPlus.git rt`
 
-This will clone the repository into a folder named `rt` in your home directory. You can change `rt` to some other name if you wish to name the repository folder something else.
+これでリポジトリが新しく作成された`rt`フォルダーにクローンされます。もしフォルダ名を別の名前にしたい場合は、`rt`を任意の名前に変えることもできます。
 
-Before building the ROM, you will also need to install agbcc, the compiler used for Rhythm Tengoku. Make sure you are still in your home directory, and run
+ROMをビルドする前に、リズム天国で使われているコンパイラーであるagbccをインストールする必要があります。ホームディレクトリにいることを確認して、以下のコマンドを実行します：
 
 `git clone https://github.com/pret/agbcc`
 
-After this, navigate to the agbcc directory with `cd ~/agbcc` and build the compiler by running `./build.sh`. Finally, install the compiler into the Rhythm Heaven Advance repository by running `./install.sh ~/rt`.
+そして、`cd ~/agbcc`と入力してagbccディレクトリへ移動し、コンパイラーを`./build.sh`と入力することでビルドします。そして`./install.sh ~/rt`と入力することでコンパイラーをリズム天国プラスのフォルダーへインストールします。
 
-Lastly, you will need to acquire an unmodified rev0 Rhythm Tengoku ROM in order to build the project. This ROM is not provided, and you must source it yourself. Once you obtain this ROM, rename it to `baserom.gba` and place it in the `rt` directory.
+最後に、オリジナルのリズム天国のROMデータを用意する必要があります。（Rev.0及びRev.1の2バージョンが存在していますが、どちらでも構いません）名前を`baserom.gba`に変更して`rt`ディレクトリに配置してください。
 
 
-#### Building the ROM
+#### ROMのビルド
 
-You are finally ready to build the repository! Navigate to the repository folder with `cd ~/rt`, and build the ROM by running `make -j`. (The `-j` parameter makes the build process able to run on multiple cores of your CPU, heavily speeding up the process.) Once the ROM has finished building, it will output a file at `build/rhythmheavenadvance.gba`! This is your compiled ROM.
+リポジトリをビルドする準備が整いました！`cd ~/rt`でリポジトリのフォルダに移動し、`make -j`と入力することでROMをビルドします。(`-j`パラメータにより、ビルドはCPUの複数コアで実行可能となり、処理速度が大幅に向上します。) ROMのビルドに成功したら、`build/rhythmtengokuplus.gba`（Rev.1のROMを使用した場合は`build/rhythmtengokuplus_rev1.gba`）にROMがビルドされています！これがリズム天国プラスのコンパイルされたROMです。
 
-If you have any other questions or concerns, join the [RHModding discord server](https://discord.com/invite/ps4rq53)!
+その他のご質問や不明点がございましたら、[rhmodding discord server（英語）](https://discord.com/invite/ps4rq53)へどうぞ！（リズム天国の改造関連についてのサーバーです）
 
-## Credits (To Be Added)
+## クレジット（後日追記予定）
 
-#### this project wouldn't be possible without all the incredible people that came together to help out!
+#### Rhythm Heaven Advance及びリズム天国プラスは、協力してくれた以下の素晴らしい人々なしでは実現できませんでした！
 
-Asset Assembly:
+アセット作成:
 + SkyeStage
 + Cash Banooka
 + geometricentric
@@ -99,16 +99,16 @@ Asset Assembly:
 + patataofcourse
 + Nate Candles
 
-Graphic Design:
+グラフィックデザイン:
 + Tailx
 + vincells
 + Borists
 
-Main Programming:
+プログラミング:
 + Itaific
 + ShaffySwitcher
 
-Coding Contributions:
+プログラミング補助:
 + Deni_iguess
 + patataofcourse
 + Arthurtilly
@@ -117,28 +117,26 @@ Coding Contributions:
 + Conhlee
 + MissKnowledge
 
-Translation and Localization:
+翻訳・ローカライゼーション:
 + Mizuka Lover
 + ShaffySwitcher
 + somethingAccurate
 + patataofcourse
 + castle
 
-Localization Support:
+ローカライゼーション補助:
 + Cash Banooka
 + SkyStage
 + RedRobocon
 + ThisIsMyUsername
 
-SFX:
-+ Rhythm Heaven Megamix
+サウンドエフェクト:
++ リズム天国 ザ・ベスト+
 + Cherryberryfaygo
-+ Nabix and all of his family
++ Nabix（そして彼の兄弟姉妹）
 
-Bug Testing:
-Everyone on the Rhythm Heaven Advance discord!
-With special mention to nwqol
+テストプレイ：
+Rhythm Heaven Advanceプロジェクトのdiscordサーバーにいるみんな（特にnqwol氏）
 
-Thank you all for your support!
+皆さんの手助けに感謝します！
 
-Want to be here? Join our [Server!](https://discord.gg/8PET8w8PU8)

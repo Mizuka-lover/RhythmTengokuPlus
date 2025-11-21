@@ -14,7 +14,13 @@ ifeq (,$(wildcard baserom.gba))
 endif
 
 ifneq ($(shell sha1sum -t baserom.gba), $(BASEROM_SHA1)  baserom.gba)
+	ifneq ($(shell sha1sum -t baserom.gba), $(REV1_SHA1)  baserom.gba)
     $(error Provided ROM is not correct)
+	else
+		REV := 1
+	endif
+else
+	REV := 0
 endif
 
 SHELL := /bin/bash
@@ -46,33 +52,30 @@ define print
   $(V)echo -e "$(GREEN)$(1) $(YELLOW)$(2)$(GREEN) -> $(BLUE)$(3)$(NO_COL)"
 endef
 
-# Revision to build (always should be 0 for Advance, even though 1 is available)
-REV ?= 0
 
 ifeq ($(REV), 0)
-    TARGET := rhythmheavenadvance
+    TARGET := rhythmtengokuplus
     TARGET_SHA1 := $(BASEROM_SHA1)
 else
-    TARGET := rhythmheavenadvance_rev1
+    TARGET := rhythmtengokuplus_rev1
     TARGET_SHA1 := $(REV1_SHA1)
-    ifeq (,$(wildcard baserom_rev1.gba))
-        $(error No ROM provided. Please place an unmodified Revision 1 ROM named "baserom_rev1.gba" in the root folder)
-    endif
-
-    ifneq ($(shell sha1sum -t baserom_rev1.gba), $(REV1_SHA1)  baserom_rev1.gba)
-        $(error Provided Revision 1 ROM is not correct)
-    endif
 endif
 
 # Preprocessor defines
 
 # Features: SFX, PLUS, PLAYTEST
-FEATURES ?= 
+FEATURES ?= SFX
 DEFINES := REV=$(REV) $(FEATURES)
 C_DEFINES := $(foreach d,$(DEFINES),-D$(d))
 
-CFLAGS := -mthumb-interwork -Wparentheses -O2 -fhex-asm
+CFLAGS := -mthumb-interwork -Wparentheses -fhex-asm
 CPPFLAGS := -I tools/agbcc -I tools/agbcc/include -I . -iquote include -nostdinc -undef $(C_DEFINES)
+
+ifeq ($(DEBUG), 1)
+	CFLAGS += -ffix-debug-line -O0 -g
+else
+	CFLAGS += -O2
+endif
 
 #---------------------------------------------------------------------------------
 
@@ -102,7 +105,7 @@ ALL_DIRS       := $(BIN) $(ASM_DIRS) $(C_DIRS) $(MUSIC) $(SFX)
 ALL_DIRS       := $(sort $(ALL_DIRS)) # remove duplicates
 BUILD_DIRS     := $(BUILD) $(addprefix $(BUILD)/,$(ALL_DIRS))
 
-LD_SCRIPT := advance.ld
+LD_SCRIPT := tengokuplus.ld
 UNDEFINED_SYMS := undefined_syms.ld
 
 #---------------------------------------------------------------------------------
@@ -150,7 +153,7 @@ default: $(OUTPUT).gba
 clean:
 	$(V)echo clean ...
 	$(V)rm -fr build/asm build/bin build/data build/games build/graphics build/src
-	$(V)rm -f build/advance.ld build/*.elf build/*.map build/*.gba
+	$(V)rm -f build/tengokuplus.ld build/*.elf build/*.map build/*.gba
 
 distclean:
 	$(V)echo full clean ...

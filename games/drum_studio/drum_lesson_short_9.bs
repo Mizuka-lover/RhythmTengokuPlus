@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_short_9, script_drum_lesson_short_9_entr
 @ Drum Lesson (Short 9) - Data
 
 text D_0806090c
-    .ascii "Listen to my pattern, then\n"
-    .ascii "repeat when you're ready.\n"
-    .ascii "I'll show it to you again\n"
-    .asciz "if you stop playing."
+    .ascii "よくきいてマネしてね。\n"
+    .ascii "好きなタイミングでどうぞ。\n"
+    .ascii "演奏を止めると、\n"
+    .asciz "お手本がきけるヨ！"
 endtext
 
 
@@ -55,9 +55,9 @@ return
 
 text D_080609dc
     .ascii "\n"
-    .ascii "Kick each bass twice!\n"
-    .ascii "Think you've got this?\n"
-    .asciz "I'd suggest only using ⑮."
+    .ascii "キックを２回ずつだヨ！\n"
+    .ascii "できるかな？\n"
+    .asciz "ポイント：Bボタンだけで"
 endtext
 
 
@@ -86,10 +86,10 @@ return
 
 
 text D_08060af4
-    .ascii "Now let's do a new snare\n"
-    .ascii "beat, right before the end.\n"
-    .ascii "Careful, though - the bass\n"
-    .asciz "is still the same as before!"
+    .ascii "さらに１カ所、\n"
+    .ascii "音がふえるヨ！\n"
+    .ascii "わかるかな？\n"
+    .asciz "ヒント：キックは前と同じ"
 endtext
 
 
@@ -112,9 +112,9 @@ return
 
 text D_08060be0
     .ascii "\n"
-    .ascii "Let's add another snare\n"
-    .ascii "right after the last one.\n"
-    .asciz "The bass still hasn't changed!"
+    .ascii "またまた１カ所、\n"
+    .ascii "音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 
@@ -138,10 +138,10 @@ return
 
 
 text D_08060cd0
-    .ascii "Okay, let's add a bit more\n"
-    .ascii "snare at the beginning.\n"
-    .ascii "Listen carefully and keep\n"
-    .asciz "the beat steady!"
+    .ascii "\n"
+    .ascii "そしてまたなんと！\n"
+    .ascii "１カ所、音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 
@@ -168,9 +168,9 @@ return
 
 text D_08060de4
     .ascii "\n"
-    .ascii "Another snare beat! It's a\n"
-    .ascii "simple change, but it makes\n"
-    .asciz "things a lot more difficult."
+    .ascii "これまたなんと！！\n"
+    .ascii "１カ所、音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 
@@ -198,10 +198,10 @@ return
 
 
 text D_08060f10
-    .ascii "You're almost done! Now\n"
-    .ascii "another one, at the start.\n"
-    .ascii "It's pretty tricky, but it\n"
-    .asciz "makes it sound great!\n"
+    .ascii "\n"
+    .ascii "またまたなんと！！\n"
+    .ascii "１カ所、音がふえるヨ！\n"
+    .asciz "わかるかな？\n"
 endtext
 
 

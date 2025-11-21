@@ -6,74 +6,66 @@
 
 
 const char D_0805dcb8[] =
-    "Boo!\n"
-    "Game over for you!\n"
-    "Looks like we win!";
+    "ブブー！！\n"
+    "ゲームオーバーです！\n"
+    "ボクたちの勝ちでーす！";
 
-const char D_0805dcf0[] = 
-    "Try taking us\n"
-    "on again, sometime!";
+const char D_0805dcf0[] = "また挑戦してネ！";
 
 const char D_0805dd04[] =
-    "We lose!\n"
-    "You win!";
+    "まいりました！\n"
+    "あなたの勝ちです！！";
 
-const char D_0805dd28[] = 
-    "Come play with us\n"
-    "again, sometime!";
+const char D_0805dd28[] = "また、　あそんでネ！";
 
 const char D_0805dd40[] =
     "\n"
     "\n"
-    "Welcome!";
+    "こんにちわ！";
 
 const char D_0805dd50[] =
-    "We're Ponta and Monkey\n"
-    "The Samurai Drummer\n"
-    "introduced us here\n"
-    "to play with you.";
+    "サルとポン太です。\n"
+    "ドラム侍さんのご紹介で\n"
+    "あそびに来ました。";
 
 const char D_0805dd90[] =
-    "We'll be giving out\n"
-    "the lessons this time!";
+    "今回は　ボクたちが\n"
+    "レッスンしますネ！";
 
 const char D_0805ddb8[] =
-    "Now, without further ado,\n"
-    "let's start practice\n"
-    "by hitting ⑭.";
+    "さっそくですが、\n"
+    "Ａボタンの練習です。";
 
 const char D_0805dde0[] =
-    "Listen closely,\n"
-    "then repeat the pattern!";
+    "よく　きいて\n"
+    "マネしてネ！";
 
 const char D_0805ddfc[] =
-    "This time, Ponta will join in.\n"
-    "Ponta's part can repeated\n"
-    "with Down on ⑯.";
+    "ポン太くんも入ります。\n"
+    "ポン太くんの音は\n"
+    "十\字キーの下で鳴ります。";
 
 const char D_0805de40[] =
-    "Now for a fast part.\n"
-    "Alternating ⑭ and Right on ⑯\n"
-    "will make it much easier.";
+    "次は、　速いやつです。\n"
+    "Ａボタンと十\字キーの右を\n"
+    "交互に押すとラクだヨ。";
 
-const char D_0805de88[] = 
-    "This is the last bit\n"
-    "of practice, as a heads up.";
+const char D_0805de88[] = "練習は　次で最後です。";
 
 const char D_0805dea0[] =
-    "Seem tough, doesn't it?\n"
-    "Good luck on the real thing!";
+    "むずかしいかな？\n"
+    "がんばってネ！";
 
 const char D_0805dec0[] =
-    "Alright! Brace yourself,\n"
-    "it's time to start\n"
-    "our rhythm battle!";
+    "それでは、　ボクたちと\n"
+    "リズムバトルを\n"
+    "してみましょう！";
 
 const char D_0805def8[] =
-    "You have three chances\n"
-    "to beat us for each\n"
-    "pattern.";
+    "各パターンにつき\n"
+    "３回　チャンスが\n"
+    "あります。";
 
 const char D_0805df28[] =
-    "How long can you\n"
-    "keep up with us?";
+    "さて、　どこまで\n"
+    "ついてこれるかな？";

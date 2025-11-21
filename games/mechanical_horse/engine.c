@@ -139,11 +139,9 @@ const s32 D_0805aa20[] = {
 };
 
 // ?
-const s32 D_0805aa40[][2] = {
-    { -0x200, -0x280 },
-    { -0x300, -0x300 },
-    { -0x400, -0x380 },
-    { -0x500, -0x400 }
+const s32 D_0805aa40[] = {
+    -0x200, -0x280, -0x300, -0x300,
+    -0x400, -0x380, -0x500, -0x400
 };
 
 // ? (duration values)
@@ -159,10 +157,10 @@ const s32 D_0805aaa0[] = {
 };
 
 const s32 D_0805aab0[][4] = {
-    { 0x4c, 0x76, 0x93, 0xbd },
-    { 0x4a, 0x71, 0x88, 0xaf },
-    { 0x4f, 0x8f, 0xa2, -0x40 },
-    { 0x45, 0x63, 0x81, 0xa1 },
+    { 0x4c, 0x6c, 0x84, 0xa4 },
+    { 0x48, 0x68, 0x88, 0xa8 },
+    { 0x60, 0x78, 0x90, -0x40 },
+    { 0x5a, 0x6e, 0x82, 0x98 },
 };
 
 // [D_089e8dcc] Buffered Textures List
@@ -235,51 +233,59 @@ struct GraphicsTable gfx_table_mechanical_horse[] = {
 
 
 // [D_089e8e60] Horse Clops (Player)
-struct SongHeader *mechanical_horse_player_horse_sfx[] = {
-    /* WALK */
+struct SongHeader *mechanical_horse_player_horse_sfx[][4] = {
+    /* WALK */ {
         /* 0x00 */ &s_uma_walk1_seqData,
         /* 0x01 */ &s_uma_walk2_seqData,
         /* 0x02 */ &s_uma_walk3_seqData,
-        /* 0x03 */ &s_uma_walk4_seqData,
-    /* TROT */
+        /* 0x03 */ &s_uma_walk4_seqData
+    },
+    /* TROT */ {
         /* 0x00 */ &s_uma_trot1_seqData,
         /* 0x01 */ &s_uma_trot2_seqData,
         /* 0x02 */ &s_uma_trot1_seqData,
-        /* 0x03 */ &s_uma_trot2_seqData,
-    /* CANTER */
+        /* 0x03 */ &s_uma_trot2_seqData
+    },
+    /* CANTER */ {
         /* 0x00 */ &s_uma_canter1_seqData,
         /* 0x01 */ &s_uma_canter2_seqData,
         /* 0x02 */ &s_uma_canter3_seqData,
-        /* 0x03 */ &s_uma_hihin_seqData,
-    /* GALLOP */
+        /* 0x03 */ &s_uma_hihin_seqData
+    },
+    /* GALLOP */ {
         /* 0x00 */ &s_uma_galop1_seqData,
         /* 0x01 */ &s_uma_galop2_seqData,
         /* 0x02 */ &s_uma_galop3_seqData,
         /* 0x03 */ &s_uma_galop4_seqData
+    }
 };
 
 // [D_089e8ea0] Horse Clops (Teacher)
-struct SongHeader *mechanical_horse_teacher_horse_sfx[] = {
-    /* WALK */ 
+struct SongHeader *mechanical_horse_teacher_horse_sfx[][4] = {
+    /* WALK */ {
         /* 0x00 */ &s_uma_walk1_t_seqData,
         /* 0x01 */ &s_uma_walk2_t_seqData,
         /* 0x02 */ &s_uma_walk3_t_seqData,
-        /* 0x03 */ &s_uma_walk4_t_seqData,
-    /* TROT */ 
-        /* 0x04 */ &s_uma_trot1_t_seqData,
-        /* 0x05 */ &s_uma_trot2_t_seqData,
-        /* 0x06 */ &s_uma_trot1_t_seqData,
-        /* 0x07 */ &s_uma_trot2_t_seqData,
-    /* CANTER */
-        /* 0x08 */ &s_uma_canter1_t_seqData,
-        /* 0x09 */ &s_uma_canter2_t_seqData,
-        /* 0x0a */ &s_uma_canter3_t_seqData,
-        /* 0x0b */ &s_uma_hihin_seqData,
-    /* GALLOP */ 
-        /* 0x0c */ &s_uma_galop1_t_seqData,
-        /* 0x0d */ &s_uma_galop2_t_seqData,
-        /* 0x0e */ &s_uma_galop3_t_seqData,
-        /* 0x0f */ &s_uma_galop4_t_seqData
+        /* 0x03 */ &s_uma_walk4_t_seqData
+    },
+    /* TROT */ {
+        /* 0x00 */ &s_uma_trot1_t_seqData,
+        /* 0x01 */ &s_uma_trot2_t_seqData,
+        /* 0x02 */ &s_uma_trot1_t_seqData,
+        /* 0x03 */ &s_uma_trot2_t_seqData
+    },
+    /* CANTER */ {
+        /* 0x00 */ &s_uma_canter1_t_seqData,
+        /* 0x01 */ &s_uma_canter2_t_seqData,
+        /* 0x02 */ &s_uma_canter3_t_seqData,
+        /* 0x03 */ &s_uma_hihin_seqData
+    },
+    /* GALLOP */ {
+        /* 0x00 */ &s_uma_galop1_t_seqData,
+        /* 0x01 */ &s_uma_galop2_t_seqData,
+        /* 0x02 */ &s_uma_galop3_t_seqData,
+        /* 0x03 */ &s_uma_galop4_t_seqData
+    }
 };
 
 // [D_089e8ee0] Lesson BGM
@@ -316,13 +322,13 @@ struct Animation *mechanical_horse_lesson_text_anim[][4] = {
     },
     /* TROT */ {
         /* 0x00 */ anim_horse_text_tot,
-        /* 0x01 */ anim_horse_text_ka,
+        /* 0x01 */ anim_horse_text_tot,
         /* 0x02 */ anim_horse_text_tot,
-        /* 0x03 */ anim_horse_text_ka
+        /* 0x03 */ anim_horse_text_tot
     },
     /* CANTER */ {
         /* 0x00 */ anim_horse_text_pa,
-        /* 0x01 */ anim_horse_text_ta,
+        /* 0x01 */ anim_horse_text_ka,
         /* 0x02 */ anim_horse_text_rap,
         /* 0x03 */ anim_horse_text_pa
     },

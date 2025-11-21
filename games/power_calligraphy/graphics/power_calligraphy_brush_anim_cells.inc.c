@@ -1,16 +1,18 @@
-// Exported by Yanimator
+// do not rename these
 
+// [D_088ebdd4]
 AnimationCel power_calligraphy_brush_cel000[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0x8260
 };
 
+// [D_088ebddc]
 AnimationCel power_calligraphy_brush_cel001[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x0004,
     /* 001 */ 0x80e0, 0x800c, 0x0096,
     /* 002 */ 0x80e0, 0x401c, 0x0104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -18,12 +20,13 @@ AnimationCel power_calligraphy_brush_cel001[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebe14]
 AnimationCel power_calligraphy_brush_cel002[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x1004,
     /* 001 */ 0x80e0, 0x800c, 0x1096,
     /* 002 */ 0x80e0, 0x401c, 0x1104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -31,12 +34,13 @@ AnimationCel power_calligraphy_brush_cel002[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebe4c]
 AnimationCel power_calligraphy_brush_cel003[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x2004,
     /* 001 */ 0x80e0, 0x800c, 0x2096,
     /* 002 */ 0x80e0, 0x401c, 0x2104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -44,12 +48,13 @@ AnimationCel power_calligraphy_brush_cel003[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebe84]
 AnimationCel power_calligraphy_brush_cel004[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x3004,
     /* 001 */ 0x80e0, 0x800c, 0x3096,
     /* 002 */ 0x80e0, 0x401c, 0x3104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -57,12 +62,13 @@ AnimationCel power_calligraphy_brush_cel004[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebebc]
 AnimationCel power_calligraphy_brush_cel005[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x4004,
     /* 001 */ 0x80e0, 0x800c, 0x4096,
     /* 002 */ 0x80e0, 0x401c, 0x4104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -70,12 +76,13 @@ AnimationCel power_calligraphy_brush_cel005[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebef4]
 AnimationCel power_calligraphy_brush_cel006[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x5004,
     /* 001 */ 0x80e0, 0x800c, 0x5096,
     /* 002 */ 0x80e0, 0x401c, 0x5104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -83,12 +90,13 @@ AnimationCel power_calligraphy_brush_cel006[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebf2c]
 AnimationCel power_calligraphy_brush_cel007[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x6004,
     /* 001 */ 0x80e0, 0x800c, 0x6096,
     /* 002 */ 0x80e0, 0x401c, 0x6104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -96,12 +104,13 @@ AnimationCel power_calligraphy_brush_cel007[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebf64]
 AnimationCel power_calligraphy_brush_cel008[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x7004,
     /* 001 */ 0x80e0, 0x800c, 0x7096,
     /* 002 */ 0x80e0, 0x401c, 0x7104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -109,12 +118,13 @@ AnimationCel power_calligraphy_brush_cel008[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebf9c]
 AnimationCel power_calligraphy_brush_cel009[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x0008,
+    /* 003 */ 0x00f8, 0x81ec, 0x0008,
     /* 004 */ 0x80f8, 0x800c, 0x0094,
     /* 005 */ 0x80f8, 0x401c, 0x0103,
     /* 006 */ 0x4018, 0x81ec, 0x0109,
@@ -122,12 +132,13 @@ AnimationCel power_calligraphy_brush_cel009[] = {
     /* 008 */ 0x8018, 0x001c, 0x01d0
 };
 
+// [D_088ebfd4]
 AnimationCel power_calligraphy_brush_cel010[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x1008,
+    /* 003 */ 0x00f8, 0x81ec, 0x1008,
     /* 004 */ 0x80f8, 0x800c, 0x1094,
     /* 005 */ 0x80f8, 0x401c, 0x1103,
     /* 006 */ 0x4018, 0x81ec, 0x1109,
@@ -135,12 +146,13 @@ AnimationCel power_calligraphy_brush_cel010[] = {
     /* 008 */ 0x8018, 0x001c, 0x11d0
 };
 
+// [D_088ec00c]
 AnimationCel power_calligraphy_brush_cel011[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x2008,
+    /* 003 */ 0x00f8, 0x81ec, 0x2008,
     /* 004 */ 0x80f8, 0x800c, 0x2094,
     /* 005 */ 0x80f8, 0x401c, 0x2103,
     /* 006 */ 0x4018, 0x81ec, 0x2109,
@@ -148,12 +160,13 @@ AnimationCel power_calligraphy_brush_cel011[] = {
     /* 008 */ 0x8018, 0x001c, 0x21d0
 };
 
+// [D_088ec044]
 AnimationCel power_calligraphy_brush_cel012[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x3008,
+    /* 003 */ 0x00f8, 0x81ec, 0x3008,
     /* 004 */ 0x80f8, 0x800c, 0x3094,
     /* 005 */ 0x80f8, 0x401c, 0x3103,
     /* 006 */ 0x4018, 0x81ec, 0x3109,
@@ -161,12 +174,13 @@ AnimationCel power_calligraphy_brush_cel012[] = {
     /* 008 */ 0x8018, 0x001c, 0x31d0
 };
 
+// [D_088ec07c]
 AnimationCel power_calligraphy_brush_cel013[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x4008,
+    /* 003 */ 0x00f8, 0x81ec, 0x4008,
     /* 004 */ 0x80f8, 0x800c, 0x4094,
     /* 005 */ 0x80f8, 0x401c, 0x4103,
     /* 006 */ 0x4018, 0x81ec, 0x4109,
@@ -174,12 +188,13 @@ AnimationCel power_calligraphy_brush_cel013[] = {
     /* 008 */ 0x8018, 0x001c, 0x41d0
 };
 
+// [D_088ec0b4]
 AnimationCel power_calligraphy_brush_cel014[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x5008,
+    /* 003 */ 0x00f8, 0x81ec, 0x5008,
     /* 004 */ 0x80f8, 0x800c, 0x5094,
     /* 005 */ 0x80f8, 0x401c, 0x5103,
     /* 006 */ 0x4018, 0x81ec, 0x5109,
@@ -187,12 +202,13 @@ AnimationCel power_calligraphy_brush_cel014[] = {
     /* 008 */ 0x8018, 0x001c, 0x51d0
 };
 
+// [D_088ec0ec]
 AnimationCel power_calligraphy_brush_cel015[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x6008,
+    /* 003 */ 0x00f8, 0x81ec, 0x6008,
     /* 004 */ 0x80f8, 0x800c, 0x6094,
     /* 005 */ 0x80f8, 0x401c, 0x6103,
     /* 006 */ 0x4018, 0x81ec, 0x6109,
@@ -200,12 +216,13 @@ AnimationCel power_calligraphy_brush_cel015[] = {
     /* 008 */ 0x8018, 0x001c, 0x61d0
 };
 
+// [D_088ec124]
 AnimationCel power_calligraphy_brush_cel016[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x7008,
+    /* 003 */ 0x00f8, 0x81ec, 0x7008,
     /* 004 */ 0x80f8, 0x800c, 0x7094,
     /* 005 */ 0x80f8, 0x401c, 0x7103,
     /* 006 */ 0x4018, 0x81ec, 0x7109,
@@ -213,12 +230,13 @@ AnimationCel power_calligraphy_brush_cel016[] = {
     /* 008 */ 0x8018, 0x001c, 0x71d0
 };
 
+// [D_088ec15c]
 AnimationCel power_calligraphy_brush_cel017[] = {
     /* Len */ 9,
     /* 000 */ 0x00e0, 0x81ec, 0x8004,
     /* 001 */ 0x80e0, 0x800c, 0x8096,
     /* 002 */ 0x80e0, 0x401c, 0x8104,
-    /* 003 */ 0x80f8, 0x81ec, 0x8008,
+    /* 003 */ 0x00f8, 0x81ec, 0x8008,
     /* 004 */ 0x80f8, 0x800c, 0x8094,
     /* 005 */ 0x80f8, 0x401c, 0x8103,
     /* 006 */ 0x4018, 0x81ec, 0x8109,
@@ -226,11 +244,13 @@ AnimationCel power_calligraphy_brush_cel017[] = {
     /* 008 */ 0x8018, 0x001c, 0x81d0
 };
 
+// [D_088ec194]
 AnimationCel power_calligraphy_brush_cel018[] = {
     /* Len */ 1,
     /* 000 */ 0x8000, 0x8014, 0xa098
 };
 
+// [D_088ec19c]
 AnimationCel power_calligraphy_brush_cel019[] = {
     /* Len */ 3,
     /* 000 */ 0x0008, 0x4028, 0xa184,
@@ -238,12 +258,14 @@ AnimationCel power_calligraphy_brush_cel019[] = {
     /* 002 */ 0x4018, 0x0020, 0xa21e
 };
 
+// [D_088ec1b0]
 AnimationCel power_calligraphy_brush_cel020[] = {
     /* Len */ 2,
     /* 000 */ 0x8009, 0x8025, 0xa080,
     /* 001 */ 0x8009, 0x401d, 0xa100
 };
 
+// [D_088ec1be]
 AnimationCel power_calligraphy_brush_cel021[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x010d,
@@ -260,6 +282,7 @@ AnimationCel power_calligraphy_brush_cel021[] = {
     /* 011 */ 0x4010, 0x01e8, 0x0238
 };
 
+// [D_088ec208]
 AnimationCel power_calligraphy_brush_cel022[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x110d,
@@ -276,6 +299,7 @@ AnimationCel power_calligraphy_brush_cel022[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec252]
 AnimationCel power_calligraphy_brush_cel023[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x210d,
@@ -292,6 +316,7 @@ AnimationCel power_calligraphy_brush_cel023[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec29c]
 AnimationCel power_calligraphy_brush_cel024[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x310d,
@@ -308,6 +333,7 @@ AnimationCel power_calligraphy_brush_cel024[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec2e6]
 AnimationCel power_calligraphy_brush_cel025[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x410d,
@@ -324,6 +350,7 @@ AnimationCel power_calligraphy_brush_cel025[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec330]
 AnimationCel power_calligraphy_brush_cel026[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x510d,
@@ -340,6 +367,7 @@ AnimationCel power_calligraphy_brush_cel026[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec37a]
 AnimationCel power_calligraphy_brush_cel027[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x610d,
@@ -356,6 +384,7 @@ AnimationCel power_calligraphy_brush_cel027[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec3c4]
 AnimationCel power_calligraphy_brush_cel028[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x710d,
@@ -372,6 +401,7 @@ AnimationCel power_calligraphy_brush_cel028[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec40e]
 AnimationCel power_calligraphy_brush_cel029[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x710d,
@@ -388,6 +418,7 @@ AnimationCel power_calligraphy_brush_cel029[] = {
     /* 011 */ 0x4010, 0x01e8, 0x1238
 };
 
+// [D_088ec458]
 AnimationCel power_calligraphy_brush_cel030[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x710d,
@@ -404,6 +435,7 @@ AnimationCel power_calligraphy_brush_cel030[] = {
     /* 011 */ 0x4010, 0x01e8, 0x2238
 };
 
+// [D_088ec4a2]
 AnimationCel power_calligraphy_brush_cel031[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x710d,
@@ -420,6 +452,7 @@ AnimationCel power_calligraphy_brush_cel031[] = {
     /* 011 */ 0x4010, 0x01e8, 0x3238
 };
 
+// [D_088ec4ec]
 AnimationCel power_calligraphy_brush_cel032[] = {
     /* Len */ 12,
     /* 000 */ 0x40e8, 0x81e8, 0x710d,
@@ -436,6 +469,7 @@ AnimationCel power_calligraphy_brush_cel032[] = {
     /* 011 */ 0x4010, 0x01e8, 0x4238
 };
 
+// [D_088ec536]
 AnimationCel power_calligraphy_brush_cel033[] = {
     /* Len */ 3,
     /* 000 */ 0x4010, 0x0008, 0xa234,
@@ -443,6 +477,7 @@ AnimationCel power_calligraphy_brush_cel033[] = {
     /* 002 */ 0x4008, 0x0000, 0xa226
 };
 
+// [D_088ec54a]
 AnimationCel power_calligraphy_brush_cel034[] = {
     /* Len */ 3,
     /* 000 */ 0x0021, 0x7003, 0xa184,
@@ -450,12 +485,14 @@ AnimationCel power_calligraphy_brush_cel034[] = {
     /* 002 */ 0x4019, 0x300b, 0xa21e
 };
 
+// [D_088ec55e]
 AnimationCel power_calligraphy_brush_cel035[] = {
     /* Len */ 2,
     /* 000 */ 0x800b, 0x9003, 0xa080,
     /* 001 */ 0x800b, 0x5013, 0xa100
 };
 
+// [D_088ec56c]
 AnimationCel power_calligraphy_brush_cel036[] = {
     /* Len */ 5,
     /* 000 */ 0x80d0, 0x8000, 0x4082,
@@ -465,6 +502,7 @@ AnimationCel power_calligraphy_brush_cel036[] = {
     /* 004 */ 0x4010, 0x01e8, 0x4238
 };
 
+// [D_088ec58c]
 AnimationCel power_calligraphy_brush_cel037[] = {
     /* Len */ 4,
     /* 000 */ 0x80d8, 0x8000, 0xa090,
@@ -473,12 +511,14 @@ AnimationCel power_calligraphy_brush_cel037[] = {
     /* 003 */ 0x0000, 0x01f8, 0xa262
 };
 
+// [D_088ec5a6]
 AnimationCel power_calligraphy_brush_cel038[] = {
     /* Len */ 2,
     /* 000 */ 0x80e4, 0xb1f5, 0xa080,
     /* 001 */ 0x80e4, 0x7005, 0xa100
 };
 
+// [D_088ec5b4]
 AnimationCel power_calligraphy_brush_cel039[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x0149,
@@ -493,6 +533,7 @@ AnimationCel power_calligraphy_brush_cel039[] = {
     /* 009 */ 0x4008, 0x01f4, 0x0222
 };
 
+// [D_088ec5f2]
 AnimationCel power_calligraphy_brush_cel040[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x1149,
@@ -507,6 +548,7 @@ AnimationCel power_calligraphy_brush_cel040[] = {
     /* 009 */ 0x4008, 0x01f4, 0x1222
 };
 
+// [D_088ec630]
 AnimationCel power_calligraphy_brush_cel041[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x2149,
@@ -521,6 +563,7 @@ AnimationCel power_calligraphy_brush_cel041[] = {
     /* 009 */ 0x4008, 0x01f4, 0x1222
 };
 
+// [D_088ec66e]
 AnimationCel power_calligraphy_brush_cel042[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x3149,
@@ -535,6 +578,7 @@ AnimationCel power_calligraphy_brush_cel042[] = {
     /* 009 */ 0x4008, 0x01f4, 0x1222
 };
 
+// [D_088ec6ac]
 AnimationCel power_calligraphy_brush_cel043[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -549,6 +593,7 @@ AnimationCel power_calligraphy_brush_cel043[] = {
     /* 009 */ 0x4008, 0x01f4, 0x1222
 };
 
+// [D_088ec6ea]
 AnimationCel power_calligraphy_brush_cel044[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -563,6 +608,7 @@ AnimationCel power_calligraphy_brush_cel044[] = {
     /* 009 */ 0x4008, 0x01f4, 0x1222
 };
 
+// [D_088ec728]
 AnimationCel power_calligraphy_brush_cel045[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -577,6 +623,7 @@ AnimationCel power_calligraphy_brush_cel045[] = {
     /* 009 */ 0x4008, 0x01f4, 0x2222
 };
 
+// [D_088ec766]
 AnimationCel power_calligraphy_brush_cel046[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -591,6 +638,7 @@ AnimationCel power_calligraphy_brush_cel046[] = {
     /* 009 */ 0x4008, 0x01f4, 0x3222
 };
 
+// [D_088ec7a4]
 AnimationCel power_calligraphy_brush_cel047[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -605,6 +653,7 @@ AnimationCel power_calligraphy_brush_cel047[] = {
     /* 009 */ 0x4008, 0x01f4, 0x4222
 };
 
+// [D_088ec7e2]
 AnimationCel power_calligraphy_brush_cel048[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -619,6 +668,7 @@ AnimationCel power_calligraphy_brush_cel048[] = {
     /* 009 */ 0x4008, 0x01f4, 0x5222
 };
 
+// [D_088ec820]
 AnimationCel power_calligraphy_brush_cel049[] = {
     /* Len */ 10,
     /* 000 */ 0x40e8, 0x800c, 0x4149,
@@ -633,6 +683,7 @@ AnimationCel power_calligraphy_brush_cel049[] = {
     /* 009 */ 0x4008, 0x01f4, 0x6222
 };
 
+// [D_088ec85e]
 AnimationCel power_calligraphy_brush_cel050[] = {
     /* Len */ 3,
     /* 000 */ 0x0010, 0x41fc, 0xa19c,
@@ -640,6 +691,7 @@ AnimationCel power_calligraphy_brush_cel050[] = {
     /* 002 */ 0x0020, 0x0004, 0xa263
 };
 
+// [D_088ec872]
 AnimationCel power_calligraphy_brush_cel051[] = {
     /* Len */ 3,
     /* 000 */ 0x000f, 0x51f7, 0xa184,
@@ -647,18 +699,21 @@ AnimationCel power_calligraphy_brush_cel051[] = {
     /* 002 */ 0x401f, 0x11ff, 0xa21e
 };
 
+// [D_088ec886]
 AnimationCel power_calligraphy_brush_cel052[] = {
     /* Len */ 2,
     /* 000 */ 0x8011, 0x91fd, 0xa080,
     /* 001 */ 0x8011, 0x500d, 0xa100
 };
 
+// [D_088ec894]
 AnimationCel power_calligraphy_brush_cel053[] = {
     /* Len */ 2,
     /* 000 */ 0x0000, 0x41fc, 0xa153,
     /* 001 */ 0x80f8, 0x01f4, 0xa1dd
 };
 
+// [D_088ec8a2]
 AnimationCel power_calligraphy_brush_cel054[] = {
     /* Len */ 3,
     /* 000 */ 0x00fe, 0x41f4, 0xa186,
@@ -666,12 +721,14 @@ AnimationCel power_calligraphy_brush_cel054[] = {
     /* 002 */ 0x40f6, 0x01ec, 0xa248
 };
 
+// [D_088ec8b6]
 AnimationCel power_calligraphy_brush_cel055[] = {
     /* Len */ 2,
     /* 000 */ 0x80f8, 0xa1fb, 0xa080,
     /* 001 */ 0x80f8, 0x61f3, 0xa100
 };
 
+// [D_088ec8c4]
 AnimationCel power_calligraphy_brush_cel056[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x0016,
@@ -692,6 +749,7 @@ AnimationCel power_calligraphy_brush_cel056[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ec926]
 AnimationCel power_calligraphy_brush_cel057[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x1016,
@@ -712,6 +770,7 @@ AnimationCel power_calligraphy_brush_cel057[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ec988]
 AnimationCel power_calligraphy_brush_cel058[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x2016,
@@ -732,6 +791,7 @@ AnimationCel power_calligraphy_brush_cel058[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ec9ea]
 AnimationCel power_calligraphy_brush_cel059[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -752,6 +812,7 @@ AnimationCel power_calligraphy_brush_cel059[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088eca4c]
 AnimationCel power_calligraphy_brush_cel060[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -772,6 +833,7 @@ AnimationCel power_calligraphy_brush_cel060[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ecaae]
 AnimationCel power_calligraphy_brush_cel061[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -792,6 +854,7 @@ AnimationCel power_calligraphy_brush_cel061[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ecb10]
 AnimationCel power_calligraphy_brush_cel062[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -812,6 +875,7 @@ AnimationCel power_calligraphy_brush_cel062[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ecb72]
 AnimationCel power_calligraphy_brush_cel063[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -832,6 +896,7 @@ AnimationCel power_calligraphy_brush_cel063[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ecbd4]
 AnimationCel power_calligraphy_brush_cel064[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -852,6 +917,7 @@ AnimationCel power_calligraphy_brush_cel064[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ecc36]
 AnimationCel power_calligraphy_brush_cel065[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -872,6 +938,7 @@ AnimationCel power_calligraphy_brush_cel065[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088ecc98]
 AnimationCel power_calligraphy_brush_cel066[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -892,6 +959,7 @@ AnimationCel power_calligraphy_brush_cel066[] = {
     /* 015 */ 0x00e0, 0x0030, 0x0250
 };
 
+// [D_088eccfa]
 AnimationCel power_calligraphy_brush_cel067[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -912,6 +980,7 @@ AnimationCel power_calligraphy_brush_cel067[] = {
     /* 015 */ 0x00e0, 0x0030, 0x1250
 };
 
+// [D_088ecd5c]
 AnimationCel power_calligraphy_brush_cel068[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -932,6 +1001,7 @@ AnimationCel power_calligraphy_brush_cel068[] = {
     /* 015 */ 0x00e0, 0x0030, 0x2250
 };
 
+// [D_088ecdbe]
 AnimationCel power_calligraphy_brush_cel069[] = {
     /* Len */ 16,
     /* 000 */ 0x80f0, 0x81d8, 0x3016,
@@ -952,6 +1022,7 @@ AnimationCel power_calligraphy_brush_cel069[] = {
     /* 015 */ 0x00e0, 0x0030, 0x3250
 };
 
+// [D_088ece20]
 AnimationCel power_calligraphy_brush_cel070[] = {
     /* Len */ 3,
     /* 000 */ 0x00f8, 0x4020, 0xa1c6,
@@ -959,6 +1030,7 @@ AnimationCel power_calligraphy_brush_cel070[] = {
     /* 002 */ 0x00f0, 0x0018, 0xa272
 };
 
+// [D_088ece34]
 AnimationCel power_calligraphy_brush_cel071[] = {
     /* Len */ 3,
     /* 000 */ 0x00f8, 0x4034, 0xa184,
@@ -966,12 +1038,14 @@ AnimationCel power_calligraphy_brush_cel071[] = {
     /* 002 */ 0x4008, 0x002c, 0xa21e
 };
 
+// [D_088ece48]
 AnimationCel power_calligraphy_brush_cel072[] = {
     /* Len */ 2,
     /* 000 */ 0x80fa, 0x8035, 0xa080,
     /* 001 */ 0x80fa, 0x402d, 0xa100
 };
 
+// [D_088ece56]
 AnimationCel power_calligraphy_brush_cel073[] = {
     /* Len */ 3,
     /* 000 */ 0x00d8, 0x4000, 0x1157,
@@ -979,6 +1053,7 @@ AnimationCel power_calligraphy_brush_cel073[] = {
     /* 002 */ 0x00e8, 0x4008, 0x1155
 };
 
+// [D_088ece6a]
 AnimationCel power_calligraphy_brush_cel074[] = {
     /* Len */ 3,
     /* 000 */ 0x00d8, 0x4000, 0x3157,
@@ -986,6 +1061,7 @@ AnimationCel power_calligraphy_brush_cel074[] = {
     /* 002 */ 0x00e8, 0x4008, 0x3155
 };
 
+// [D_088ece7e]
 AnimationCel power_calligraphy_brush_cel075[] = {
     /* Len */ 3,
     /* 000 */ 0x00dd, 0x4001, 0xa186,
@@ -993,12 +1069,14 @@ AnimationCel power_calligraphy_brush_cel075[] = {
     /* 002 */ 0x40d5, 0x01f9, 0xa248
 };
 
+// [D_088ece92]
 AnimationCel power_calligraphy_brush_cel076[] = {
     /* Len */ 2,
     /* 000 */ 0x80d9, 0xa010, 0xa080,
     /* 001 */ 0x80d9, 0x6008, 0xa100
 };
 
+// [D_088ecea0]
 AnimationCel power_calligraphy_brush_cel077[] = {
     /* Len */ 3,
     /* 000 */ 0x00d8, 0x4020, 0x3159,
@@ -1006,6 +1084,7 @@ AnimationCel power_calligraphy_brush_cel077[] = {
     /* 002 */ 0x00e0, 0x0030, 0x3250
 };
 
+// [D_088eceb4]
 AnimationCel power_calligraphy_brush_cel078[] = {
     /* Len */ 3,
     /* 000 */ 0x00e6, 0x6022, 0xa184,
@@ -1013,12 +1092,14 @@ AnimationCel power_calligraphy_brush_cel078[] = {
     /* 002 */ 0x40de, 0x201a, 0xa21e
 };
 
+// [D_088ecec8]
 AnimationCel power_calligraphy_brush_cel079[] = {
     /* Len */ 2,
     /* 000 */ 0x80d2, 0x8025, 0xa080,
     /* 001 */ 0x80d2, 0x401d, 0xa100
 };
 
+// [D_088eced6]
 AnimationCel power_calligraphy_brush_cel080[] = {
     /* Len */ 8,
     /* 000 */ 0x80dc, 0x81f6, 0x001e,
@@ -1031,6 +1112,7 @@ AnimationCel power_calligraphy_brush_cel080[] = {
     /* 007 */ 0x0014, 0x0016, 0x026e
 };
 
+// [D_088ecf08]
 AnimationCel power_calligraphy_brush_cel081[] = {
     /* Len */ 8,
     /* 000 */ 0x80dc, 0x81f6, 0x101e,
@@ -1043,6 +1125,7 @@ AnimationCel power_calligraphy_brush_cel081[] = {
     /* 007 */ 0x0014, 0x0016, 0x126e
 };
 
+// [D_088ecf3a]
 AnimationCel power_calligraphy_brush_cel082[] = {
     /* Len */ 8,
     /* 000 */ 0x80dc, 0x81f6, 0x201e,
@@ -1055,6 +1138,7 @@ AnimationCel power_calligraphy_brush_cel082[] = {
     /* 007 */ 0x0014, 0x0016, 0x226e
 };
 
+// [D_088ecf6c]
 AnimationCel power_calligraphy_brush_cel083[] = {
     /* Len */ 8,
     /* 000 */ 0x80dc, 0x81f6, 0x301e,
@@ -1067,6 +1151,7 @@ AnimationCel power_calligraphy_brush_cel083[] = {
     /* 007 */ 0x0014, 0x0016, 0x326e
 };
 
+// [D_088ecf9e]
 AnimationCel power_calligraphy_brush_cel084[] = {
     /* Len */ 8,
     /* 000 */ 0x80dc, 0x81f6, 0x401e,
@@ -1079,6 +1164,7 @@ AnimationCel power_calligraphy_brush_cel084[] = {
     /* 007 */ 0x0014, 0x0016, 0x426e
 };
 
+// [D_088ecfd0]
 AnimationCel power_calligraphy_brush_cel085[] = {
     /* Len */ 8,
     /* 000 */ 0x80dc, 0x81f6, 0x501e,
@@ -1091,6 +1177,7 @@ AnimationCel power_calligraphy_brush_cel085[] = {
     /* 007 */ 0x0014, 0x0016, 0x526e
 };
 
+// [D_088ed002]
 AnimationCel power_calligraphy_brush_cel086[] = {
     /* Len */ 3,
     /* 000 */ 0x000b, 0x4005, 0xa184,
@@ -1098,12 +1185,14 @@ AnimationCel power_calligraphy_brush_cel086[] = {
     /* 002 */ 0x401b, 0x01fd, 0xa21e
 };
 
+// [D_088ed016]
 AnimationCel power_calligraphy_brush_cel087[] = {
     /* Len */ 2,
     /* 000 */ 0x8009, 0xb1ff, 0xa080,
     /* 001 */ 0x8009, 0x700f, 0xa100
 };
 
+// [D_088ed024]
 AnimationCel power_calligraphy_brush_cel088[] = {
     /* Len */ 3,
     /* 000 */ 0x00f8, 0x4000, 0x0159,
@@ -1111,6 +1200,7 @@ AnimationCel power_calligraphy_brush_cel088[] = {
     /* 002 */ 0x0000, 0x0010, 0x0250
 };
 
+// [D_088ed038]
 AnimationCel power_calligraphy_brush_cel089[] = {
     /* Len */ 3,
     /* 000 */ 0x00f8, 0x4000, 0x3159,
@@ -1118,6 +1208,7 @@ AnimationCel power_calligraphy_brush_cel089[] = {
     /* 002 */ 0x0000, 0x0010, 0x3250
 };
 
+// [D_088ed04c]
 AnimationCel power_calligraphy_brush_cel090[] = {
     /* Len */ 3,
     /* 000 */ 0x0003, 0x6008, 0xa184,
@@ -1125,12 +1216,14 @@ AnimationCel power_calligraphy_brush_cel090[] = {
     /* 002 */ 0x40fb, 0x2000, 0xa21e
 };
 
+// [D_088ed060]
 AnimationCel power_calligraphy_brush_cel091[] = {
     /* Len */ 2,
     /* 000 */ 0x80f4, 0x91fe, 0xa080,
     /* 001 */ 0x80f4, 0x500e, 0xa100
 };
 
+// [D_088ed06e]
 AnimationCel power_calligraphy_brush_cel092[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x0200,
@@ -1160,6 +1253,7 @@ AnimationCel power_calligraphy_brush_cel092[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed106]
 AnimationCel power_calligraphy_brush_cel093[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x1200,
@@ -1189,6 +1283,7 @@ AnimationCel power_calligraphy_brush_cel093[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed19e]
 AnimationCel power_calligraphy_brush_cel094[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x2200,
@@ -1218,6 +1313,7 @@ AnimationCel power_calligraphy_brush_cel094[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed236]
 AnimationCel power_calligraphy_brush_cel095[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x3200,
@@ -1247,6 +1343,7 @@ AnimationCel power_calligraphy_brush_cel095[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed2ce]
 AnimationCel power_calligraphy_brush_cel096[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x4200,
@@ -1276,6 +1373,7 @@ AnimationCel power_calligraphy_brush_cel096[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed366]
 AnimationCel power_calligraphy_brush_cel097[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1305,6 +1403,7 @@ AnimationCel power_calligraphy_brush_cel097[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed3fe]
 AnimationCel power_calligraphy_brush_cel098[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1334,6 +1433,7 @@ AnimationCel power_calligraphy_brush_cel098[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed496]
 AnimationCel power_calligraphy_brush_cel099[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1363,6 +1463,7 @@ AnimationCel power_calligraphy_brush_cel099[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed52e]
 AnimationCel power_calligraphy_brush_cel100[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1392,6 +1493,7 @@ AnimationCel power_calligraphy_brush_cel100[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed5c6]
 AnimationCel power_calligraphy_brush_cel101[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1421,6 +1523,7 @@ AnimationCel power_calligraphy_brush_cel101[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed65e]
 AnimationCel power_calligraphy_brush_cel102[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1450,6 +1553,7 @@ AnimationCel power_calligraphy_brush_cel102[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed6f6]
 AnimationCel power_calligraphy_brush_cel103[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1479,6 +1583,7 @@ AnimationCel power_calligraphy_brush_cel103[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed78e]
 AnimationCel power_calligraphy_brush_cel104[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1508,6 +1613,7 @@ AnimationCel power_calligraphy_brush_cel104[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed826]
 AnimationCel power_calligraphy_brush_cel105[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1537,6 +1643,7 @@ AnimationCel power_calligraphy_brush_cel105[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed8be]
 AnimationCel power_calligraphy_brush_cel106[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1566,6 +1673,7 @@ AnimationCel power_calligraphy_brush_cel106[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed956]
 AnimationCel power_calligraphy_brush_cel107[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1595,6 +1703,7 @@ AnimationCel power_calligraphy_brush_cel107[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ed9ee]
 AnimationCel power_calligraphy_brush_cel108[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1624,6 +1733,7 @@ AnimationCel power_calligraphy_brush_cel108[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088eda86]
 AnimationCel power_calligraphy_brush_cel109[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1653,6 +1763,7 @@ AnimationCel power_calligraphy_brush_cel109[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edb1e]
 AnimationCel power_calligraphy_brush_cel110[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1682,6 +1793,7 @@ AnimationCel power_calligraphy_brush_cel110[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edbb6]
 AnimationCel power_calligraphy_brush_cel111[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1711,6 +1823,7 @@ AnimationCel power_calligraphy_brush_cel111[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edc4e]
 AnimationCel power_calligraphy_brush_cel112[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1740,6 +1853,7 @@ AnimationCel power_calligraphy_brush_cel112[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edce6]
 AnimationCel power_calligraphy_brush_cel113[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1769,6 +1883,7 @@ AnimationCel power_calligraphy_brush_cel113[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edd7e]
 AnimationCel power_calligraphy_brush_cel114[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1798,6 +1913,7 @@ AnimationCel power_calligraphy_brush_cel114[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ede16]
 AnimationCel power_calligraphy_brush_cel115[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1827,6 +1943,7 @@ AnimationCel power_calligraphy_brush_cel115[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edeae]
 AnimationCel power_calligraphy_brush_cel116[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1856,6 +1973,7 @@ AnimationCel power_calligraphy_brush_cel116[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edf46]
 AnimationCel power_calligraphy_brush_cel117[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1885,6 +2003,7 @@ AnimationCel power_calligraphy_brush_cel117[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088edfde]
 AnimationCel power_calligraphy_brush_cel118[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1914,6 +2033,7 @@ AnimationCel power_calligraphy_brush_cel118[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ee076]
 AnimationCel power_calligraphy_brush_cel119[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1943,6 +2063,7 @@ AnimationCel power_calligraphy_brush_cel119[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ee10e]
 AnimationCel power_calligraphy_brush_cel120[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -1972,6 +2093,7 @@ AnimationCel power_calligraphy_brush_cel120[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ee1a6]
 AnimationCel power_calligraphy_brush_cel121[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -2001,6 +2123,7 @@ AnimationCel power_calligraphy_brush_cel121[] = {
     /* 024 */ 0x0010, 0x0018, 0x026b
 };
 
+// [D_088ee23e]
 AnimationCel power_calligraphy_brush_cel122[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -2030,6 +2153,7 @@ AnimationCel power_calligraphy_brush_cel122[] = {
     /* 024 */ 0x0010, 0x0018, 0x426b
 };
 
+// [D_088ee2d6]
 AnimationCel power_calligraphy_brush_cel123[] = {
     /* Len */ 25,
     /* 000 */ 0x40d8, 0x41e8, 0x5200,
@@ -2059,6 +2183,7 @@ AnimationCel power_calligraphy_brush_cel123[] = {
     /* 024 */ 0x0010, 0x0018, 0x526b
 };
 
+// [D_088ee36e]
 AnimationCel power_calligraphy_brush_cel124[] = {
     /* Len */ 7,
     /* 000 */ 0x8008, 0x41f0, 0x509e,
@@ -2070,6 +2195,7 @@ AnimationCel power_calligraphy_brush_cel124[] = {
     /* 006 */ 0x0010, 0x0018, 0x526b
 };
 
+// [D_088ee39a]
 AnimationCel power_calligraphy_brush_cel125[] = {
     /* Len */ 4,
     /* 000 */ 0x801f, 0x91ef, 0xa090,
@@ -2078,19 +2204,21 @@ AnimationCel power_calligraphy_brush_cel125[] = {
     /* 003 */ 0x0047, 0x11ff, 0xa262
 };
 
+// [D_088ee3b4]
 AnimationCel power_calligraphy_brush_cel126[] = {
     /* Len */ 2,
     /* 000 */ 0x801e, 0xa1fc, 0xa080,
     /* 001 */ 0x801e, 0x61f4, 0xa100
 };
 
+// [D_088ee3c2]
 AnimationCel power_calligraphy_brush_cel127[] = {
-    /* Len */ 3,
-    /* 000 */ 0x801c, 0x8018, 0xa09a,
-    /* 001 */ 0x801c, 0x8028, 0xa00a,
-    /* 002 */ 0x403c, 0x4018, 0xa20c
+    /* Len */ 2,
+    /* 000 */ 0x801c, 0x801c, 0xa09a,
+    /* 001 */ 0x801c, 0x402c, 0xa102
 };
 
+// [D_088ee3d0]
 AnimationCel power_calligraphy_brush_cel128[] = {
     /* Len */ 19,
     /* 000 */ 0x00dc, 0x41fe, 0xb192,
@@ -2114,6 +2242,7 @@ AnimationCel power_calligraphy_brush_cel128[] = {
     /* 018 */ 0x8004, 0x0046, 0xb1d1
 };
 
+// [D_088ee444]
 AnimationCel power_calligraphy_brush_cel129[] = {
     /* Len */ 18,
     /* 000 */ 0x40ec, 0x01fe, 0xb224,
@@ -2136,6 +2265,7 @@ AnimationCel power_calligraphy_brush_cel129[] = {
     /* 017 */ 0x00a5, 0x41f8, 0xb151
 };
 
+// [D_088ee4b2]
 AnimationCel power_calligraphy_brush_cel130[] = {
     /* Len */ 19,
     /* 000 */ 0x40ed, 0x01fe, 0xb224,
@@ -2159,6 +2289,7 @@ AnimationCel power_calligraphy_brush_cel130[] = {
     /* 018 */ 0x00a7, 0x41f8, 0xb151
 };
 
+// [D_088ee526]
 AnimationCel power_calligraphy_brush_cel131[] = {
     /* Len */ 18,
     /* 000 */ 0x40ee, 0x01fe, 0xb224,
@@ -2181,6 +2312,7 @@ AnimationCel power_calligraphy_brush_cel131[] = {
     /* 017 */ 0x8006, 0x0046, 0xb1d1
 };
 
+// [D_088ee594]
 AnimationCel power_calligraphy_brush_cel132[] = {
     /* Len */ 19,
     /* 000 */ 0x40ef, 0x01fe, 0xb224,
@@ -2204,6 +2336,7 @@ AnimationCel power_calligraphy_brush_cel132[] = {
     /* 018 */ 0x8007, 0x0046, 0xb1d1
 };
 
+// [D_088ee608]
 AnimationCel power_calligraphy_brush_cel133[] = {
     /* Len */ 19,
     /* 000 */ 0x40f0, 0x01fe, 0xb224,
@@ -2227,6 +2360,7 @@ AnimationCel power_calligraphy_brush_cel133[] = {
     /* 018 */ 0x8008, 0x0046, 0xb1d1
 };
 
+// [D_088ee67c]
 AnimationCel power_calligraphy_brush_cel134[] = {
     /* Len */ 19,
     /* 000 */ 0x40f1, 0x01fe, 0xb224,
@@ -2250,6 +2384,7 @@ AnimationCel power_calligraphy_brush_cel134[] = {
     /* 018 */ 0x8009, 0x0046, 0xb1d1
 };
 
+// [D_088ee6f0]
 AnimationCel power_calligraphy_brush_cel135[] = {
     /* Len */ 19,
     /* 000 */ 0x40f2, 0x01fe, 0xb224,
@@ -2273,6 +2408,7 @@ AnimationCel power_calligraphy_brush_cel135[] = {
     /* 018 */ 0x800a, 0x0046, 0xb1d1
 };
 
+// [D_088ee764]
 AnimationCel power_calligraphy_brush_cel136[] = {
     /* Len */ 19,
     /* 000 */ 0x40f2, 0x01ff, 0xb224,
@@ -2296,6 +2432,7 @@ AnimationCel power_calligraphy_brush_cel136[] = {
     /* 018 */ 0x800a, 0x0047, 0xb1d1
 };
 
+// [D_088ee7d8]
 AnimationCel power_calligraphy_brush_cel137[] = {
     /* Len */ 19,
     /* 000 */ 0x40f2, 0x01fd, 0xb224,
@@ -2319,6 +2456,7 @@ AnimationCel power_calligraphy_brush_cel137[] = {
     /* 018 */ 0x800a, 0x0044, 0xb1d1
 };
 
+// [D_088ee84c]
 AnimationCel power_calligraphy_brush_cel138[] = {
     /* Len */ 18,
     /* 000 */ 0x40e6, 0x01fe, 0xb224,
@@ -2341,6 +2479,7 @@ AnimationCel power_calligraphy_brush_cel138[] = {
     /* 017 */ 0x80fe, 0x0046, 0xb1d1
 };
 
+// [D_088ee8ba]
 AnimationCel power_calligraphy_brush_cel139[] = {
     /* Len */ 18,
     /* 000 */ 0x40e3, 0x01fe, 0xb224,
@@ -2363,6 +2502,7 @@ AnimationCel power_calligraphy_brush_cel139[] = {
     /* 017 */ 0x80fb, 0x0046, 0xb1d1
 };
 
+// [D_088ee928]
 AnimationCel power_calligraphy_brush_cel140[] = {
     /* Len */ 18,
     /* 000 */ 0x40e1, 0x01fe, 0xb224,
@@ -2385,6 +2525,7 @@ AnimationCel power_calligraphy_brush_cel140[] = {
     /* 017 */ 0x80f9, 0x0046, 0xb1d1
 };
 
+// [D_088ee996]
 AnimationCel power_calligraphy_brush_cel141[] = {
     /* Len */ 19,
     /* 000 */ 0x40e0, 0x01fe, 0xb224,
@@ -2408,6 +2549,7 @@ AnimationCel power_calligraphy_brush_cel141[] = {
     /* 018 */ 0x80f8, 0x0046, 0xb1d1
 };
 
+// [D_088eea0a]
 AnimationCel power_calligraphy_brush_cel142[] = {
     /* Len */ 19,
     /* 000 */ 0x40df, 0x01fe, 0xb224,
@@ -2431,6 +2573,7 @@ AnimationCel power_calligraphy_brush_cel142[] = {
     /* 018 */ 0x80f7, 0x0046, 0xb1d1
 };
 
+// [D_088eea7e]
 AnimationCel power_calligraphy_brush_cel143[] = {
     /* Len */ 19,
     /* 000 */ 0x40df, 0x01fd, 0xb224,
@@ -2454,47 +2597,56 @@ AnimationCel power_calligraphy_brush_cel143[] = {
     /* 018 */ 0x80f7, 0x0045, 0xb1d1
 };
 
+// [D_088eeaf2]
 AnimationCel power_calligraphy_brush_cel144[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb259
 };
 
+// [D_088eeafa]
 AnimationCel power_calligraphy_brush_cel145[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb25a
 };
 
+// [D_088eeb02]
 AnimationCel power_calligraphy_brush_cel146[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb25b
 };
 
+// [D_088eeb0a]
 AnimationCel power_calligraphy_brush_cel147[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb258
 };
 
+// [D_088eeb12]
 AnimationCel power_calligraphy_brush_cel148[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb25c
 };
 
+// [D_088eeb1a]
 AnimationCel power_calligraphy_brush_cel149[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb25e
 };
 
+// [D_088eeb22]
 AnimationCel power_calligraphy_brush_cel150[] = {
     /* Len */ 1,
     /* 000 */ 0x00fc, 0x01fc, 0xb25f
 };
 
+// [D_088eeb2a]
 AnimationCel power_calligraphy_brush_cel151[] = {
     /* Len */ 2,
     /* 000 */ 0x40f8, 0x41ce, 0xa20c,
     /* 001 */ 0x40f8, 0x01ee, 0xa24c
 };
 
+// [D_088eeb38]
 AnimationCel power_calligraphy_brush_cel152[] = {
     /* Len */ 9,
     /* 000 */ 0x00ff, 0x0037, 0xd25d,
@@ -2508,6 +2660,7 @@ AnimationCel power_calligraphy_brush_cel152[] = {
     /* 008 */ 0x00dc, 0x000c, 0xd25d
 };
 
+// [D_088eeb70]
 AnimationCel power_calligraphy_brush_cel153[] = {
     /* Len */ 9,
     /* 000 */ 0x0002, 0x003d, 0xd265,
@@ -2521,6 +2674,7 @@ AnimationCel power_calligraphy_brush_cel153[] = {
     /* 008 */ 0x00dc, 0x01ec, 0xd265
 };
 
+// [D_088eeba8]
 AnimationCel power_calligraphy_brush_cel154[] = {
     /* Len */ 9,
     /* 000 */ 0x0000, 0x003d, 0xd255,
@@ -2534,6 +2688,7 @@ AnimationCel power_calligraphy_brush_cel154[] = {
     /* 008 */ 0x00da, 0x01ec, 0xd255
 };
 
+// [D_088eebe0]
 AnimationCel power_calligraphy_brush_cel155[] = {
     /* Len */ 9,
     /* 000 */ 0x00ff, 0x003d, 0xd257,
@@ -2547,6 +2702,7 @@ AnimationCel power_calligraphy_brush_cel155[] = {
     /* 008 */ 0x00d9, 0x01ec, 0xd257
 };
 
+// [D_088eec18]
 AnimationCel power_calligraphy_brush_cel156[] = {
     /* Len */ 9,
     /* 000 */ 0x00fe, 0x003d, 0xd256,

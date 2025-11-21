@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_long_2, script_drum_lesson_long_2_entry
 @ Drum Lesson (Long 2) - Data
 
 text D_08062d98
-    .ascii "Listen to my pattern, then\n"
-    .ascii "repeat when you're ready.\n"
-    .ascii "I'll show it to you again\n"
-    .asciz "if you stop playing."
+    .ascii "よくきいてマネしてね。\n"
+    .ascii "好きなタイミングでどうぞ。\n"
+    .ascii "演奏を止めると、\n"
+    .asciz "お手本がきけるヨ！"
 endtext
 
 
@@ -65,9 +65,9 @@ return
 
 text D_08062ee0
     .ascii "\n"
-    .ascii "Time to kick things up a notch!\n"
-    .ascii "Add a crash at the start and a\n"
-    .asciz "snare at the end! Let's go!\n"
+    .ascii "シンバルとスネアで\n"
+    .ascii "キメてみよう！\n"
+    .asciz "できるかな？"
 endtext
 
 
@@ -102,9 +102,9 @@ return
 
 text D_08063024
     .ascii "\n"
-    .ascii "Let's change the bass a bit.\n"
-    .ascii "Listen carefully and keep\n"
-    .asciz "the rhythm going!"
+    .ascii "バスドラムを\n"
+    .ascii "チョットかえてみるネ。\n"
+    .asciz "できるかな？\n"
 endtext
 
 
@@ -137,10 +137,10 @@ return
 
 
 text D_08063184
-    .ascii "Last but not least, let's add\n"
-    .ascii "one more bass beat in here.\n"
-    .ascii "We're reaching the end, so\n"
-    .asciz "Let's drive it home now!\n"
+    .ascii "バスドラムを\n"
+    .ascii "もうチョットだけ\n"
+    .ascii "かえてみるネ。\n"
+    .asciz "がんばって！！\n"
 endtext
 
 

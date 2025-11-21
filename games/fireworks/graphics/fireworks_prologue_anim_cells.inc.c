@@ -2,22 +2,21 @@
 
 // [D_088af7a4]
 AnimationCel fireworks_prologue_cel000[] = {
-    1,
-    0x00fc, 0x01fc, 0x0010
+    /* Len */ 1,
+    /* 000 */ 0x00fc, 0x01fc, 0x0010
 };
 
 // [D_088af7ac]
 AnimationCel fireworks_prologue_cel001[] = {
-    1,
-    0x000c, 0xc19d, 0x1100
+    /* Len */ 1,
+    /* 000 */ 0x0000, 0xc18e, 0x1010
 };
 
 // [D_088af7b4]
 AnimationCel fireworks_prologue_cel002[] = {
-    3,
-    0x000c, 0xc19d, 0x1100,
-    0x000c, 0xc1dd, 0x1108,
-    0x000c, 0xc01d, 0x1110
+    /* Len */ 2,
+    /* 000 */ 0x0000, 0xc18e, 0x1010,
+    /* 001 */ 0x0000, 0xc030, 0x1000
 };
 
 // [D_088af7c2]

@@ -66,7 +66,7 @@ void disclamer_scene_start(void *sVar, s32 dArg) {
     isInDisclamer = TRUE;
     haveSeenDisclamer = FALSE;
     gDisclamer->inputsEnabled = FALSE;
-    gDisclamer->timer = 3600;
+    gDisclamer->timer = 100;
 }
 
 

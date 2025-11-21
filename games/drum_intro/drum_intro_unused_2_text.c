@@ -7,59 +7,57 @@
 
 const char D_0805d8d8[] =
     "\n"
-    "With that, let's begin!";
+    "では、　いきます。";
 
 const char D_0805d8ec[] =
     "\n"
-    "Onto the next one!";
+    "次、　いきます。";
 
 const char D_0805d900[] =
     "\n"
-    "This part's in waltz time!";
+    "次は３拍子です。";
 
 const char D_0805d914[] =
     "\n"
-    "Now for the last one!";
+    "じゃ、　ラスト。";
 
 const char D_0805d928[] =
     "\n"
-    "And that's it!";
+    "以上です。";
 
 const char D_0805d934[] =
-    "That was some good practice,\n"
-    "How'd you like it?\n"
-    "Keep it in the back of\n"
-    "your mind for later!";
+    "スタートの練習、\n"
+    "いかがでしたか？\n"
+    "ぜひ、　今後の参考に\n"
+    "してくださいネ！";
 
 const char D_0805d97c[] =
     "\n"
-    "I'll see you next time.\n"
-    "Untill then, bye!";
+    "では、　次回をお楽しみに。\n"
+    "さようなら。";
 
 const char D_0805d9a8[] =
     "\n"
-    "Oh, hi again.\n"
-    "I'm Samurai Drummer";
+    "あ、　どうも。\n"
+    "ドラム侍です。";
 
 const char D_0805d9c8[] =
-    "Well...\n"
-    "I believe that this is\n"
-    "the second time we've met.\n"
-    "Nice to see you again!";
+    "えっと…\n"
+    "今回は２回目ですね。\n"
+    "再会できてうれしいです！";
 
 const char D_0805da00[] =
-    "The start is usually the most\n"
-    "important part in anything.\n"
-    "And I think the same thing\n"
-    "applies when playing music.";
+    "さて、　なにごとも最初が\n"
+    "肝心な場合が多いですね？\n"
+    "演奏なんかも　そうでは\n"
+    "ないでしょうか。";
 
 const char D_0805da5c[] =
-    "Alright, Lesson 2.\n"
-    "Let's practice the\n"
-    "\"start\" of the music.";
+    "レッスン２では\n"
+    "スタートの練習をします。";
 
 const char D_0805da84[] =
-    "Let me count for you.\n"
-    "When the song starts,\n"
-    "press ⑮ and ⑬ together\n"
-    "at the same time.";
+    "私がカウントをするので\n"
+    "曲のアタマでＢボタンと\n"
+    "Ｒボタン（肩ボタン）を\n"
+    "同時に押してください。";

@@ -392,7 +392,6 @@ script script_marching_orders_practice
         marching_orders_event02 -1
         rest 18
     loop_end
-    rest 24
     run gameplay_set_tutorial NULL
     mod_music_volume 0, 168
     print_text_f D_0805c8e0

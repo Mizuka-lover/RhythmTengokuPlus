@@ -453,30 +453,19 @@ script script_remix_2_main
     rest 24
     sneaky_spirits_draw_bow
     sneaky_spirits_show_ghost 4
-    sneaky_spirits_print_text D_0806801C
     beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
+    rest 24
     sneaky_spirits_show_ghost 5
-    sneaky_spirits_print_text D_0806801B
     beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
+    rest 24
     sneaky_spirits_show_ghost 6
-    sneaky_spirits_print_text D_08068019
-    spawn_cue CUE_TUTORIAL
-    beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
-    sneaky_spirits_print_text D_0806801D
+    spawn_cue CUE_STRICT
     beat_anim
     rest 24
     beat_anim
     rest 24
-    sneaky_spirits_print_text D_08068028
+    beat_anim
+    rest 24
     sneaky_spirits_show_ghost 1
     beat_anim
     rest 24
@@ -488,28 +477,17 @@ script script_remix_2_main
     rest 24
     sneaky_spirits_draw_bow
     sneaky_spirits_show_ghost 4
-    sneaky_spirits_print_text D_0806801C
-    beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
-    sneaky_spirits_show_ghost 5
-    sneaky_spirits_print_text D_0806801B
-    beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
-    sneaky_spirits_show_ghost 6
-    spawn_cue CUE_STRICT
-    sneaky_spirits_print_text D_08068019
-    beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
-    sneaky_spirits_print_text D_0806801D
     beat_anim
     rest 24
-    sneaky_spirits_print_text D_08068028
+    sneaky_spirits_show_ghost 5
+    beat_anim
+    rest 24
+    sneaky_spirits_show_ghost 6
+    spawn_cue CUE_STRICT
+    beat_anim
+    rest 24
+    beat_anim
+    rest 24
     beat_anim
     rest 24
     play_music L2_pat11_seqData
@@ -799,7 +777,6 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -851,7 +828,6 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -923,7 +899,6 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -966,7 +941,6 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
-    play_sfx s_rat_squeak_seqData
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -1038,7 +1012,6 @@ script script_remix_2_main
     sneaky_spirits_wind_sfx_enabled TRUE
     sneaky_spirits_set_ghost_height 256
     sneaky_spirits_show_ghost 0
-    sneaky_spirits_print_text D_0806801F
     beat_anim
     rest 24
     sneaky_spirits_set_ghost_height 192
@@ -1052,9 +1025,7 @@ script script_remix_2_main
     sneaky_spirits_set_ghost_height 64
     sneaky_spirits_show_ghost 3
     beat_anim
-    rest 23
-    sneaky_spirits_print_text D_08068028
-    rest 1
+    rest 24
     sneaky_spirits_draw_bow
     sneaky_spirits_set_ghost_height 128
     sneaky_spirits_show_ghost 4

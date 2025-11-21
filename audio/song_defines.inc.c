@@ -701,17 +701,6 @@
 /* 0698 */ DEFINE_SONG( &s_f_neko4_seqData,                  SFX_PLAYER_3   )
 /* 0699 */ DEFINE_SONG( &s_f_neko5_seqData,                  SFX_PLAYER_4   )
 /* 0700 */ DEFINE_SONG( &s_f_neko6_seqData,                  SFX_PLAYER_5   )
-#ifdef SFX
-/* 0701 */ DEFINE_SONG( &s_f_marcher2_v_zentai_seqData,      SFX_PLAYER_1   )
-/* 0702 */ DEFINE_SONG( &s_f_marcher2_v_susume_seqData,      SFX_PLAYER_1   )
-/* 0703 */ DEFINE_SONG( &s_f_marcher2_v_tomare_seqData,      SFX_PLAYER_1   )
-/* 0704 */ DEFINE_SONG( &s_f_marcher2_v_migimukeL_seqData,   SFX_PLAYER_1   )
-/* 0705 */ DEFINE_SONG( &s_f_marcher2_v_migimukeS_seqData,   SFX_PLAYER_1   )
-/* 0706 */ DEFINE_SONG( &s_f_marcher2_v_migi_seqData,        SFX_PLAYER_1   )
-/* 0707 */ DEFINE_SONG( &s_f_marcher2_v_hidarimukeL_seqData, SFX_PLAYER_1   )
-/* 0708 */ DEFINE_SONG( &s_f_marcher2_v_hidarimukeS_seqData, SFX_PLAYER_1   )
-/* 0709 */ DEFINE_SONG( &s_f_marcher2_v_hidari_seqData,      SFX_PLAYER_1   )
-#else
 /* 0701 */ DEFINE_SONG( &s_f_marcher2_v_zentai_jp_seqData,      SFX_PLAYER_1   )
 /* 0702 */ DEFINE_SONG( &s_f_marcher2_v_susume_jp_seqData,      SFX_PLAYER_1   )
 /* 0703 */ DEFINE_SONG( &s_f_marcher2_v_tomare_jp_seqData,      SFX_PLAYER_1   )
@@ -721,7 +710,6 @@
 /* 0707 */ DEFINE_SONG( &s_f_marcher2_v_hidarimukeL_jp_seqData, SFX_PLAYER_1   )
 /* 0708 */ DEFINE_SONG( &s_f_marcher2_v_hidarimukeS_jp_seqData, SFX_PLAYER_1   )
 /* 0709 */ DEFINE_SONG( &s_f_marcher2_v_hidari_jp_seqData,      SFX_PLAYER_1   )
-#endif
 /* 0710 */ DEFINE_SONG( NULL, 0 )
 /* 0711 */ DEFINE_SONG( NULL, 0 )
 /* 0712 */ DEFINE_SONG( NULL, 0 )
@@ -1287,7 +1275,7 @@
 /* 1272 */ DEFINE_SONG( &s_CC1_seqData,                      SFX_PLAYER_1   )
 /* 1273 */ DEFINE_SONG( &s_CC2_seqData,                      SFX_PLAYER_1   )
 /* 1274 */ DEFINE_SONG( &s_CC3_seqData,                      SFX_PLAYER_1   )
-/* 1275 */ DEFINE_SONG( &s_CC4_seqData,                      SFX_PLAYER_6   )
+/* 1275 */ DEFINE_SONG( &s_CC4_seqData,                      SFX_PLAYER_1   )
 /* 1276 */ DEFINE_SONG( &s_RC_seqData,                       SFX_PLAYER_2   )
 /* 1277 */ DEFINE_SONG( &s_HC_seqData,                       SFX_PLAYER_0   )
 /* 1278 */ DEFINE_SONG( &s_CC5_seqData,                      SFX_PLAYER_1   )
@@ -1574,13 +1562,8 @@
 /* 1550 */ DEFINE_SONG( &s_guntai_v_hidari_muke1_jp_seqData,    SFX_PLAYER_1   )
 #endif
 /* 1551 */ DEFINE_SONG( &s_guntai_v_hidari_muke2_seqData,    SFX_PLAYER_1   )
-#ifdef SFX
-/* 1552 */ DEFINE_SONG( &s_guntai_v_migi_seqData,            SFX_PLAYER_1   )
-/* 1553 */ DEFINE_SONG( &s_guntai_v_hidari_seqData,          SFX_PLAYER_1   )
-#else
 /* 1552 */ DEFINE_SONG( &s_guntai_v_migi_jp_seqData,            SFX_PLAYER_1   )
 /* 1553 */ DEFINE_SONG( &s_guntai_v_hidari_jp_seqData,       SFX_PLAYER_1   )
-#endif
 /* 1554 */ DEFINE_SONG( &s_guntai_v_yoh_seqData,             SFX_PLAYER_2   )
 /* 1555 */ DEFINE_SONG( &s_guntai_v_es_seqData,              SFX_PLAYER_2   )
 /* 1556 */ DEFINE_SONG( &s_guntai_v_ka_seqData,              SFX_PLAYER_2   )
@@ -1775,7 +1758,7 @@
 /* 1745 */ DEFINE_SONG( NULL, 0 )
 /* 1746 */ DEFINE_SONG( NULL, 0 )
 /* 1747 */ DEFINE_SONG( NULL, 0 )
-/* 1748 */ DEFINE_SONG( &s_rap_two_seqData,                  MUSIC_PLAYER_1 )
+/* 1748 */ DEFINE_SONG( NULL, 0 )
 /* 1749 */ DEFINE_SONG( &s_rap_bgm_renshu_seqData,           MUSIC_PLAYER_0 )
 /* 1750 */ DEFINE_SONG( &s_rap_bgm_seqData,                  MUSIC_PLAYER_0 )
 /* 1751 */ DEFINE_SONG( &s_rap_jazz_bgm_seqData,             MUSIC_PLAYER_0 )
@@ -1962,5 +1945,8 @@
 /* 1932 */ DEFINE_SONG( &s_guntai_v_muke_f_seqData,    SFX_PLAYER_1   )
 /* 1933 */ DEFINE_SONG( &s_f_marcher2_v_hidarimukeS2_seqData, SFX_PLAYER_1   )
 /* 1934 */ DEFINE_SONG( &s_f_marcher2_v_migimukeS2_seqData, SFX_PLAYER_1   )
-/* 1935 */ DEFINE_SONG( &s_rat_paw_seqData,                  SFX_PLAYER_0   )
-/* 1936 */ DEFINE_SONG( &s_rat_squeak_seqData,               SFX_PLAYER_0   )
+/* 1935 */ DEFINE_SONG( &s_karate_extra_bgm_seqData,          MUSIC_PLAYER_0 )
+/* 1936 */ DEFINE_SONG( &s_f_boxing_hit_sfx_seqData,       SFX_PLAYER_2   )
+/* 1937 */ DEFINE_SONG( &s_f_boxing_three_sfx_seqData,       SFX_PLAYER_2   )
+/* 1938 */ DEFINE_SONG( &s_f_boxing_two_sfx_seqData,       SFX_PLAYER_2   )
+/* 1939 */ DEFINE_SONG( &s_f_boxing_four_sfx_seqData,       SFX_PLAYER_2   )
