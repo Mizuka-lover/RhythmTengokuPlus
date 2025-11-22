@@ -928,8 +928,8 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "毛が速すぎるんだよなあ・・・",
-            /* OK        */ "なかなか手ごわい毛だなあ",
+            /* TRY_AGAIN */ "毛が速すぎるんだよなぁ・・・",
+            /* OK        */ "なかなか手ごわい毛だったなぁ",
             /* SUPERB    */ "うーん、スッキリ！花でも見るか！"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE

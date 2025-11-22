@@ -49,6 +49,7 @@ script script_toss_boys_2_prologue
     rest 6
     run func_08047aac, 6
     rest 6
+    run func_08047aac, 7
     rest 6
     rest 12
     rest 6
