@@ -1,51 +1,51 @@
 
-<img width="1535" height="1370" alt="image" src="https://github.com/user-attachments/assets/ffbfed42-a33c-4206-babf-9cfb250e39e8" />
+<img width="1535" height="989" alt="image" src="https://github.com/user-attachments/assets/b916317f-c038-4d1f-b9e5-f0beaed3a6c1" />
 
-# ƒŠƒYƒ€“V‘ƒvƒ‰ƒX:
-‚±‚ê‚ÍGBAƒQ[ƒ€‚Å‚ ‚éuƒŠƒYƒ€“V‘v‚Ì”ñŒöŽ®‹@”\’Ç‰ÁƒvƒƒWƒFƒNƒguƒŠƒYƒ€“V‘ƒvƒ‰ƒXv‚Å‚·B‚±‚ÌƒvƒƒWƒFƒNƒg‚ÍAæqƒQ[ƒ€‚Ì”ñŒöŽ®‰pŒê–|–óƒvƒƒWƒFƒNƒguRhythm Heaven Advancev‚¨‚æ‚Ñ‚»‚Ìˆê•”‚Å‚ ‚éuRhythm Heaven Advance Plusv‚É’Ç‰Á‚³‚ê‚éV‹@”\‚ð“ú–{Œê”Å‚ÌƒŠƒYƒ€“V‘‚ÉˆÚA‚µ‚½‚à‚Ì‚Æ‚È‚è‚Ü‚·B
-‚±‚ÌƒvƒƒWƒFƒNƒg‚ÍAŒ»Ý**is’†**‚Å‚·I‚Â‚Ü‚èA–¢Š®¬‚à‚µ‚­‚Í•sˆÀ’è‚Å‚ ‚é‚½‚ßƒpƒbƒ`“™‚Ìƒ_ƒEƒ“ƒ[ƒhƒŠƒ“ƒN‚Í’ñ‹Ÿ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB
-‚½‚¾‚µAƒvƒƒWƒFƒNƒg‚Ìƒrƒ‹ƒh‚Ì•û–@‚ÍˆÈ‰º‚Éà–¾‚ª‚ ‚è‚Ü‚·BƒvƒƒWƒFƒNƒg‚ªƒŠƒŠ[ƒX‰Â”\‚Èó‘Ô‚Ü‚Åi‚ñ‚¾Žž“_‚ÅAƒpƒbƒ`‚Ìƒ_ƒEƒ“ƒ[ƒh‚ª‰Â”\‚É‚È‚é—\’è‚Å‚·B
+# ãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹:
+ã“ã‚Œã¯GBAã‚²ãƒ¼ãƒ ã§ã‚ã‚‹ã€Œãƒªã‚ºãƒ å¤©å›½ã€ã®éžå…¬å¼æ©Ÿèƒ½è¿½åŠ ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€Œãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹ã€ã§ã™ã€‚ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ã€å…ˆè¿°ã‚²ãƒ¼ãƒ ã®éžå…¬å¼è‹±èªžç¿»è¨³ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€ŒRhythm Heaven Advanceã€ãŠã‚ˆã³ãã®ä¸€éƒ¨ã§ã‚ã‚‹ã€ŒRhythm Heaven Advance Plusã€ã«è¿½åŠ ã•ã‚Œã‚‹æ–°æ©Ÿèƒ½ã‚’æ—¥æœ¬èªžç‰ˆã®ãƒªã‚ºãƒ å¤©å›½ã«ç§»æ¤ã—ãŸã‚‚ã®ã¨ãªã‚Šã¾ã™ã€‚
+ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¯ã€ç¾åœ¨**é€²è¡Œä¸­**ã§ã™ï¼ã¤ã¾ã‚Šã€æœªå®Œæˆã‚‚ã—ãã¯ä¸å®‰å®šã§ã‚ã‚‹ãŸã‚ãƒ‘ãƒƒãƒç­‰ã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ãƒªãƒ³ã‚¯ã¯æä¾›ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚
+ãŸã ã—ã€ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ãƒ“ãƒ«ãƒ‰ã®æ–¹æ³•ã¯ä»¥ä¸‹ã«èª¬æ˜ŽãŒã‚ã‚Šã¾ã™ã€‚ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãŒãƒªãƒªãƒ¼ã‚¹å¯èƒ½ãªçŠ¶æ…‹ã¾ã§é€²ã‚“ã æ™‚ç‚¹ã§ã€ãƒ‘ãƒƒãƒã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ãŒå¯èƒ½ã«ãªã‚‹äºˆå®šã§ã™ã€‚
 
-‚²Ž¿–âA‚²’ñˆÄAƒvƒŒƒCƒeƒXƒg—p‚Ì“–ƒrƒ‹ƒh‚É‚Â‚¢‚Ä‚ÍˆÈ‰º‚ÌƒŠƒ“ƒN‚ðŽQÆ‰º‚³‚¢I
+ã”è³ªå•ã€ã”ææ¡ˆã€ãƒ—ãƒ¬ã‚¤ãƒ†ã‚¹ãƒˆç”¨ã®å½“ãƒ“ãƒ«ãƒ‰ã«ã¤ã„ã¦ã¯ä»¥ä¸‹ã®ãƒªãƒ³ã‚¯ã‚’å‚ç…§ä¸‹ã•ã„ï¼
 
-E[ƒŠƒYƒ€“V‘ƒvƒ‰ƒX@ƒcƒCƒbƒ^[](https://x.com/rhytngkplus)
+ãƒ»[ãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹ã€€ãƒ„ã‚¤ãƒƒã‚¿ãƒ¼](https://x.com/rhytngkplus)
 
-E[Rhythm Heaven Advance‚ÌdiscordƒT[ƒo[](https://discord.gg/8PET8w8PU8)
-**iŽ¿–â‚È‚ÇRhythm Heaven Advance‚æ‚èˆÚA‚³‚ê‚½‚à‚Ì‚É‚Â‚¢‚Ä‚Í‚±‚¿‚ç‚Å”­Œ¾‚µ‚Ä‚à\‚¢‚Ü‚¹‚ñ‚ªAƒŠƒYƒ€“V‘ƒvƒ‰ƒX“ÆŽ©‚Ì“à—e‚ÉŠÖ‚·‚éŽ¿–â‚Í‚±‚ÌdiscordƒT[ƒo[‚Å‚Í‚¨T‚¦‚­‚¾‚³‚¢Ij**
+ãƒ»[Rhythm Heaven Advanceã®discordã‚µãƒ¼ãƒãƒ¼](https://discord.gg/8PET8w8PU8)
+**ï¼ˆè³ªå•ãªã©Rhythm Heaven Advanceã‚ˆã‚Šç§»æ¤ã•ã‚ŒãŸã‚‚ã®ã«ã¤ã„ã¦ã¯ã“ã¡ã‚‰ã§ç™ºè¨€ã—ã¦ã‚‚æ§‹ã„ã¾ã›ã‚“ãŒã€ãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹ç‹¬è‡ªã®å†…å®¹ã«é–¢ã™ã‚‹è³ªå•ã¯ã“ã®discordã‚µãƒ¼ãƒãƒ¼ã§ã¯ãŠæŽ§ãˆãã ã•ã„ï¼ï¼‰**
 
-## ƒCƒ“ƒXƒg[ƒ‹•û–@
+## ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•
 
-‚±‚ÌƒCƒ“ƒXƒg[ƒ‹‚ÌƒvƒƒWƒFƒNƒg‚É‚ÍLinuxƒ^[ƒ~ƒiƒ‹‚ÉƒAƒNƒZƒX‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B‚à‚µWindows 10‚âWindows 11‚ð‚²Žg—p‚Å‚ ‚ê‚ÎA**WSL (Windows Subsystem for Linux)**‚ðŽg—p‚·‚é‚±‚Æ‚ÅŠÈ’P‚ÉƒCƒ“ƒXƒg[ƒ‹‰Â”\‚Å‚·BŠù‚ÉLinux‚ð‚²Žg—p‚Å‚ ‚ê‚ÎA**uˆË‘¶ŠÖŒW‚ÌƒCƒ“ƒXƒg[ƒ‹v**ƒZƒNƒVƒ‡ƒ“‚Ü‚ÅƒXƒLƒbƒv‚µ‚Ä‚à\‚¢‚Ü‚¹‚ñBWSL‚ðŽg—p‚·‚é‚Ì‚Å‚ ‚ê‚ÎAˆÈ‰º‚ÌƒKƒCƒh‚É]‚Á‚Ä‚­‚¾‚³‚¢F
+ã“ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã¯Linuxã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ã‚‚ã—Windows 10ã‚„Windows 11ã‚’ã”ä½¿ç”¨ã§ã‚ã‚Œã°ã€**WSL (Windows Subsystem for Linux)**ã‚’ä½¿ç”¨ã™ã‚‹ã“ã¨ã§ç°¡å˜ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¯èƒ½ã§ã™ã€‚æ—¢ã«Linuxã‚’ã”ä½¿ç”¨ã§ã‚ã‚Œã°ã€**ã€Œä¾å­˜é–¢ä¿‚ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€**ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã¾ã§ã‚¹ã‚­ãƒƒãƒ—ã—ã¦ã‚‚æ§‹ã„ã¾ã›ã‚“ã€‚WSLã‚’ä½¿ç”¨ã™ã‚‹ã®ã§ã‚ã‚Œã°ã€ä»¥ä¸‹ã®ã‚¬ã‚¤ãƒ‰ã«å¾“ã£ã¦ãã ã•ã„ï¼š
 
-#### WSL‚ÌƒCƒ“ƒXƒg[ƒ‹
+#### WSLã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
-‚Ü‚¸AƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚à‚µ‚­‚ÍPowershell‚ðŠÇ—ŽÒ‚Æ‚µ‚ÄŽÀs‚µ‚Ü‚·B
-`wsl --install` ‚Æ“ü—Í‚µ‚ÄŽÀs‚·‚é‚ÆAUbuntuƒfƒBƒXƒgƒŠƒrƒ…[ƒVƒ‡ƒ“‚ðƒfƒtƒHƒ‹ƒg‚Æ‚µ‚ÄWSL‚ªŽ©“®“I‚ÉƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ü‚·B‚±‚ÌŽè‡‚ªI‚í‚Á‚½‚çAƒfƒoƒCƒX‚ðÄ‹N“®‚·‚é‚±‚Æ‚ÅƒCƒ“ƒXƒg[ƒ‹‚ðI—¹‚µ‚Ü‚·B
+ã¾ãšã€ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‚‚ã—ãã¯Powershellã‚’ç®¡ç†è€…ã¨ã—ã¦å®Ÿè¡Œã—ã¾ã™ã€‚
+`wsl --install` ã¨å…¥åŠ›ã—ã¦å®Ÿè¡Œã™ã‚‹ã¨ã€Ubuntuãƒ‡ã‚£ã‚¹ãƒˆãƒªãƒ“ãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¨ã—ã¦WSLãŒè‡ªå‹•çš„ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¾ã™ã€‚ã“ã®æ‰‹é †ãŒçµ‚ã‚ã£ãŸã‚‰ã€ãƒ‡ãƒã‚¤ã‚¹ã‚’å†èµ·å‹•ã™ã‚‹ã“ã¨ã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚’çµ‚äº†ã—ã¾ã™ã€‚
 
-*’FWSL‚ðŽg—p‚·‚é‚É‚ÍBIOSÝ’è‚Å‰¼‘z‰»‹@”\‚ð—LŒø‚É‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B–â‘è‚ª”­¶‚µ‚½ê‡‚ÍABIOS‹N“®•û–@‚ðŠm”F‚µA‚¨Žg‚¢‚ÌƒRƒ“ƒsƒ…[ƒ^‚Å‰¼‘z‰»‹@”\‚ð—LŒø‚É‚µ‚Ä‚­‚¾‚³‚¢B‚»‚Ì‘¼‚ÌƒCƒ“ƒXƒg[ƒ‹‚ÉŠÖ‚·‚é–â‘è‚É‚Â‚¢‚Ä‚ÍA[MicrosoftŒöŽ®ƒCƒ“ƒXƒg[ƒ‹ƒKƒCƒh](https://docs.microsoft.com/ja-jp/windows/wsl/install)‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B*
+*æ³¨ï¼šWSLã‚’ä½¿ç”¨ã™ã‚‹ã«ã¯BIOSè¨­å®šã§ä»®æƒ³åŒ–æ©Ÿèƒ½ã‚’æœ‰åŠ¹ã«ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚å•é¡ŒãŒç™ºç”Ÿã—ãŸå ´åˆã¯ã€BIOSèµ·å‹•æ–¹æ³•ã‚’ç¢ºèªã—ã€ãŠä½¿ã„ã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã§ä»®æƒ³åŒ–æ©Ÿèƒ½ã‚’æœ‰åŠ¹ã«ã—ã¦ãã ã•ã„ã€‚ãã®ä»–ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã«é–¢ã™ã‚‹å•é¡Œã«ã¤ã„ã¦ã¯ã€[Microsoftå…¬å¼ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚¬ã‚¤ãƒ‰](https://docs.microsoft.com/ja-jp/windows/wsl/install)ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚*
 <br>
-WSL‚ÌƒCƒ“ƒXƒg[ƒ‹‚É¬Œ÷‚µA‹N“®‚·‚é‚Æƒ†[ƒU[–¼AƒpƒXƒ[ƒh‚Ì“ü—ÍAƒpƒXƒ[ƒh‚ÌŠm”F‚ª‹‚ß‚ç‚ê‚Ü‚·BƒpƒXƒ[ƒh‚ð“ü—Í‚·‚éÛAƒL[ƒ{[ƒhã‚Å•¶Žš‚ð“ü—Í‚µ‚Ä‚àƒAƒXƒ^ƒŠƒXƒN“™‚Í•\Ž¦‚³‚ê‚È‚¢‚½‚ß“ü—Í‚ÍTd‚És‚Á‚Ä‚­‚¾‚³‚¢B‚Ü‚½A“à—e‚ð–Y‚ê‚È‚¢‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B
+WSLã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã«æˆåŠŸã—ã€èµ·å‹•ã™ã‚‹ã¨ãƒ¦ãƒ¼ã‚¶ãƒ¼åã€ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã®å…¥åŠ›ã€ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã®ç¢ºèªãŒæ±‚ã‚ã‚‰ã‚Œã¾ã™ã€‚ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã™ã‚‹éš›ã€ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰ä¸Šã§æ–‡å­—ã‚’å…¥åŠ›ã—ã¦ã‚‚ã‚¢ã‚¹ã‚¿ãƒªã‚¹ã‚¯ç­‰ã¯è¡¨ç¤ºã•ã‚Œãªã„ãŸã‚å…¥åŠ›ã¯æ…Žé‡ã«è¡Œã£ã¦ãã ã•ã„ã€‚ã¾ãŸã€å†…å®¹ã‚’å¿˜ã‚Œãªã„ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚
 
-ƒ†[ƒU[‚ðì¬‚µ‚½‚çAƒ^[ƒ~ƒiƒ‹‚ÌÝ’è‚ðŠ®—¹‚·‚é‚½‚ß‚ÉÅŒã‚É‚¢‚­‚Â‚©ƒRƒ}ƒ“ƒh‚ð“ü—Í‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B‚Ü‚¸A`sudo apt update`‚Æ“ü—Í‚µŽÀsAŠ®—¹‚µ‚½‚çŽŸ‚É`sudo apt upgrade`‚Æ“ü—Í‚µŽÀs‚µ‚Ü‚·B‚±‚ê‚ç‚ÌƒRƒ}ƒ“ƒh‚Í“r’†‚ÅƒpƒXƒ[ƒh‚ð‹‚ß‚Ä‚­‚é‚Ì‚Å‚»‚Ì“s“xƒpƒXƒ[ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B‚à‚µ`Do you want to continue? [Y/n]`‚Æ•\Ž¦‚³‚ê‚½‚ç`y`‚Æ‚¾‚¯“ü—Í‚µAEnterƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B‚±‚ê‚ÅAWSL‚ÌÝ’è‚ÍŠ®—¹‚µ‚Ü‚µ‚½B
+ãƒ¦ãƒ¼ã‚¶ãƒ¼ã‚’ä½œæˆã—ãŸã‚‰ã€ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã®è¨­å®šã‚’å®Œäº†ã™ã‚‹ãŸã‚ã«æœ€å¾Œã«ã„ãã¤ã‹ã‚³ãƒžãƒ³ãƒ‰ã‚’å…¥åŠ›ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ã¾ãšã€`sudo apt update`ã¨å…¥åŠ›ã—å®Ÿè¡Œã€å®Œäº†ã—ãŸã‚‰æ¬¡ã«`sudo apt upgrade`ã¨å…¥åŠ›ã—å®Ÿè¡Œã—ã¾ã™ã€‚ã“ã‚Œã‚‰ã®ã‚³ãƒžãƒ³ãƒ‰ã¯é€”ä¸­ã§ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’æ±‚ã‚ã¦ãã‚‹ã®ã§ãã®éƒ½åº¦ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚ã‚‚ã—`Do you want to continue? [Y/n]`ã¨è¡¨ç¤ºã•ã‚ŒãŸã‚‰`y`ã¨ã ã‘å…¥åŠ›ã—ã€Enterã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚ã“ã‚Œã§ã€WSLã®è¨­å®šã¯å®Œäº†ã—ã¾ã—ãŸã€‚
 <br>
-‚Ü‚½AWindows‚©‚çLinux‚Ìƒtƒ@ƒCƒ‹‚ÉƒAƒNƒZƒX‚·‚é‚½‚ß‚Éƒhƒ‰ƒCƒu•¶Žš‚ðÝ’è‚µ‚Ä‚¨‚­‚Æ•Ö—˜‚Å‚·B‚à‚µs‚¤ê‡‚ÍA[‚±‚ÌƒTƒCƒgi‰pŒêj](https://github.com/HackerN64/HackerSM64/wiki/Mounting-WSL-to-Drive)‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+ã¾ãŸã€Windowsã‹ã‚‰Linuxã®ãƒ•ã‚¡ã‚¤ãƒ«ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ãŸã‚ã«ãƒ‰ãƒ©ã‚¤ãƒ–æ–‡å­—ã‚’è¨­å®šã—ã¦ãŠãã¨ä¾¿åˆ©ã§ã™ã€‚ã‚‚ã—è¡Œã†å ´åˆã¯ã€[ã“ã®ã‚µã‚¤ãƒˆï¼ˆè‹±èªžï¼‰](https://github.com/HackerN64/HackerSM64/wiki/Mounting-WSL-to-Drive)ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
 
-‚à‚µLinuxƒ^[ƒ~ƒiƒ‹‚É‚Â‚¢‚ÄÚ‚µ‚­‚È‚¯‚ê‚ÎAŠo‚¦‚Ä‚¨‚­‚×‚«d—v‚ÈƒRƒ}ƒ“ƒh‚Í`cd`‚Å‚·B‚±‚ê‚ÍŒ»ÝŽ©•ª‚Ì‚¢‚éƒfƒBƒŒƒNƒgƒŠ‚©‚çˆÚ“®‚·‚é‚½‚ß‚ÌƒRƒ}ƒ“ƒh‚Å‚·B`cd ~/`‚Åƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ÖˆÚ“®‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·BƒŠƒ|ƒWƒgƒŠ‚ð•Û‘¶‚·‚é‚Ì‚É‚±‚Ìƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ª„§‚³‚ê‚Ä‚¢‚Ü‚·B‚»‚µ‚ÄAWSLƒ^[ƒ~ƒiƒ‹‚Å‚ÌƒRƒs[&ƒy[ƒXƒg‚ÍCtrl+C‚ÆCtrl+V‚Å‚Í‚È‚­‰EƒNƒŠƒbƒN‚Ås‚¢‚Ü‚·B‚»‚Ì‚½‚ßA‚±‚ÌƒKƒCƒh‚ÌƒRƒ}ƒ“ƒh‚ðƒ^[ƒ~ƒiƒ‹‚É“\‚è•t‚¯‚é‚É‚ÍACtrl+C‚ÅƒRƒs[‚µ‚½ŒãAƒ^[ƒ~ƒiƒ‹“à‚Å‰EƒNƒŠƒbƒN‚µ‚Ä“\‚è•t‚¯‚Ä‚­‚¾‚³‚¢B
+ã‚‚ã—Linuxã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã«ã¤ã„ã¦è©³ã—ããªã‘ã‚Œã°ã€è¦šãˆã¦ãŠãã¹ãé‡è¦ãªã‚³ãƒžãƒ³ãƒ‰ã¯`cd`ã§ã™ã€‚ã“ã‚Œã¯ç¾åœ¨è‡ªåˆ†ã®ã„ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‹ã‚‰ç§»å‹•ã™ã‚‹ãŸã‚ã®ã‚³ãƒžãƒ³ãƒ‰ã§ã™ã€‚`cd ~/`ã§ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¸ç§»å‹•ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚ãƒªãƒã‚¸ãƒˆãƒªã‚’ä¿å­˜ã™ã‚‹ã®ã«ã“ã®ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªãŒæŽ¨å¥¨ã•ã‚Œã¦ã„ã¾ã™ã€‚ãã—ã¦ã€WSLã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã®ã‚³ãƒ”ãƒ¼&ãƒšãƒ¼ã‚¹ãƒˆã¯Ctrl+Cã¨Ctrl+Vã§ã¯ãªãå³ã‚¯ãƒªãƒƒã‚¯ã§è¡Œã„ã¾ã™ã€‚ãã®ãŸã‚ã€ã“ã®ã‚¬ã‚¤ãƒ‰ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã«è²¼ã‚Šä»˜ã‘ã‚‹ã«ã¯ã€Ctrl+Cã§ã‚³ãƒ”ãƒ¼ã—ãŸå¾Œã€ã‚¿ãƒ¼ãƒŸãƒŠãƒ«å†…ã§å³ã‚¯ãƒªãƒƒã‚¯ã—ã¦è²¼ã‚Šä»˜ã‘ã¦ãã ã•ã„ã€‚
 
 
-#### ˆË‘¶ŠÖŒW‚ÌƒCƒ“ƒXƒg[ƒ‹
+#### ä¾å­˜é–¢ä¿‚ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
-ƒvƒƒWƒFƒNƒg‚É•K—v‚ÈˆË‘¶ŠÖŒW‚ðƒCƒ“ƒXƒg[ƒ‹‚·‚é‚É‚ÍA‚Ü‚¸ŽŸ‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ä‚­‚¾‚³‚¢F
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«å¿…è¦ãªä¾å­˜é–¢ä¿‚ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹ã«ã¯ã€ã¾ãšæ¬¡ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼š
 
 `sudo apt install build-essential binutils-arm-none-eabi git libpng-dev ffmpeg`
 
-‚»‚ÌŒã‚±‚ÌƒRƒ}ƒ“ƒh‚àŽÀs‚·‚é•K—v‚ª‚ ‚è‚Ü‚·F
+ãã®å¾Œã“ã®ã‚³ãƒžãƒ³ãƒ‰ã‚‚å®Ÿè¡Œã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ï¼š
 
 `sudo ln -s /proc/self/mounts /etc/mtab`
 
-‚±‚ÌƒRƒ}ƒ“ƒh‚ÍAdevkitPro‚ÌƒCƒ“ƒXƒg[ƒ‹Žž‚ÉWSL‚Å”­¶‚·‚é–â‘è‚Ì‰ðŒˆ‚É–ð—§‚¿‚Ü‚·B•K‚¸‚µ‚àŽÀs‚·‚é•K—v‚Í‚È‚­AƒGƒ‰[‚ª”­¶‚·‚éê‡‚à‚ ‚è‚Ü‚·BƒGƒ‰[‚ª”­¶‚µ‚Ä‚àS”z‚¹‚¸AŽŸ‚ÌŽè‡‚Éi‚ñ‚Å‚­‚¾‚³‚¢B
+ã“ã®ã‚³ãƒžãƒ³ãƒ‰ã¯ã€devkitProã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ™‚ã«WSLã§ç™ºç”Ÿã™ã‚‹å•é¡Œã®è§£æ±ºã«å½¹ç«‹ã¡ã¾ã™ã€‚å¿…ãšã—ã‚‚å®Ÿè¡Œã™ã‚‹å¿…è¦ã¯ãªãã€ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã™ã‚‹å ´åˆã‚‚ã‚ã‚Šã¾ã™ã€‚ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ã¦ã‚‚å¿ƒé…ã›ãšã€æ¬¡ã®æ‰‹é †ã«é€²ã‚“ã§ãã ã•ã„ã€‚
 
-‚»‚ÌŒãAdevkitPro‚ðƒCƒ“ƒXƒg[ƒ‹‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B‚±‚ÌƒvƒƒZƒX‚Í”ñí‚É•¡ŽG‚Å‚·‚Ì‚ÅA•\Ž¦‚³‚ê‚éƒpƒXƒ[ƒh‚ð‹‚ß‚ç‚ê‚½‚ç“ü—Í‚µ‚È‚ª‚çAˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ð‹LÚ‚³‚ê‚½‡˜‚Å‘S‚ÄŽÀs‚µ‚Ä‚­‚¾‚³‚¢F
+ãã®å¾Œã€devkitProã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ã“ã®ãƒ—ãƒ­ã‚»ã‚¹ã¯éžå¸¸ã«è¤‡é›‘ã§ã™ã®ã§ã€è¡¨ç¤ºã•ã‚Œã‚‹ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’æ±‚ã‚ã‚‰ã‚ŒãŸã‚‰å…¥åŠ›ã—ãªãŒã‚‰ã€ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’è¨˜è¼‰ã•ã‚ŒãŸé †åºã§å…¨ã¦å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼š
 
 `wget https://apt.devkitpro.org/install-devkitpro-pacman`
 `chmod +x ./install-devkitpro-pacman`
@@ -56,37 +56,37 @@ WSL‚ÌƒCƒ“ƒXƒg[ƒ‹‚É¬Œ÷‚µA‹N“®‚·‚é‚Æƒ†[ƒU[–¼AƒpƒXƒ[ƒh‚Ì“ü—ÍAƒpƒXƒ[ƒh‚ÌŠ
 `sudo dkp-pacman -Sy`
 `sudo dkp-pacman -S gba-dev`
 
-ÅŒã‚Ü‚ÅƒRƒ}ƒ“ƒh‚ðŽÀs‚µI‚¦‚½‚çAEnterƒL[‚ð‰Ÿ‚µ‚Ä`y`‚Æ“ü—Í‚µ‚Ü‚·B‚±‚ê‚ÅˆË‘¶ŠÖŒW‚ÌƒCƒ“ƒXƒg[ƒ‹
+æœ€å¾Œã¾ã§ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—çµ‚ãˆãŸã‚‰ã€Enterã‚­ãƒ¼ã‚’æŠ¼ã—ã¦`y`ã¨å…¥åŠ›ã—ã¾ã™ã€‚ã“ã‚Œã§ä¾å­˜é–¢ä¿‚ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
 
-#### ƒŠƒ|ƒWƒgƒŠ‚ÌƒNƒ[ƒ“
+#### ãƒªãƒã‚¸ãƒˆãƒªã®ã‚¯ãƒ­ãƒ¼ãƒ³
 
-‚±‚ÌƒvƒƒWƒFƒNƒg‚ðƒNƒ[ƒ“‚·‚é—pˆÓ‚ª®‚¢‚Ü‚µ‚½B‚Å‚Í‚Ü‚¸A`cd ~/`‚ðŽÀs‚µ‚Äƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚ÉˆÚ“®‚µ‚½ŒãˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ä‚­‚¾‚³‚¢F
+ã“ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ã‚¯ãƒ­ãƒ¼ãƒ³ã™ã‚‹ç”¨æ„ãŒæ•´ã„ã¾ã—ãŸã€‚ã§ã¯ã¾ãšã€`cd ~/`ã‚’å®Ÿè¡Œã—ã¦ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ãŸå¾Œä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼š
 
 `git clone https://github.com/Mizuka-lover/RhythmTengokuPlus.git rt`
 
-‚±‚ê‚ÅƒŠƒ|ƒWƒgƒŠ‚ªV‚µ‚­ì¬‚³‚ê‚½`rt`ƒtƒHƒ‹ƒ_[‚ÉƒNƒ[ƒ“‚³‚ê‚Ü‚·B‚à‚µƒtƒHƒ‹ƒ_–¼‚ð•Ê‚Ì–¼‘O‚É‚µ‚½‚¢ê‡‚ÍA`rt`‚ð”CˆÓ‚Ì–¼‘O‚É•Ï‚¦‚é‚±‚Æ‚à‚Å‚«‚Ü‚·B
+ã“ã‚Œã§ãƒªãƒã‚¸ãƒˆãƒªãŒæ–°ã—ãä½œæˆã•ã‚ŒãŸ`rt`ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã«ã‚¯ãƒ­ãƒ¼ãƒ³ã•ã‚Œã¾ã™ã€‚ã‚‚ã—ãƒ•ã‚©ãƒ«ãƒ€åã‚’åˆ¥ã®åå‰ã«ã—ãŸã„å ´åˆã¯ã€`rt`ã‚’ä»»æ„ã®åå‰ã«å¤‰ãˆã‚‹ã“ã¨ã‚‚ã§ãã¾ã™ã€‚
 
-ROM‚ðƒrƒ‹ƒh‚·‚é‘O‚ÉAƒŠƒYƒ€“V‘‚ÅŽg‚í‚ê‚Ä‚¢‚éƒRƒ“ƒpƒCƒ‰[‚Å‚ ‚éagbcc‚ðƒCƒ“ƒXƒg[ƒ‹‚·‚é•K—v‚ª‚ ‚è‚Ü‚·Bƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ‚É‚¢‚é‚±‚Æ‚ðŠm”F‚µ‚ÄAˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ðŽÀs‚µ‚Ü‚·F
+ROMã‚’ãƒ“ãƒ«ãƒ‰ã™ã‚‹å‰ã«ã€ãƒªã‚ºãƒ å¤©å›½ã§ä½¿ã‚ã‚Œã¦ã„ã‚‹ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©ãƒ¼ã§ã‚ã‚‹agbccã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ãƒ›ãƒ¼ãƒ ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¦ã€ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¾ã™ï¼š
 
 `git clone https://github.com/pret/agbcc`
 
-‚»‚µ‚ÄA`cd ~/agbcc`‚Æ“ü—Í‚µ‚ÄagbccƒfƒBƒŒƒNƒgƒŠ‚ÖˆÚ“®‚µAƒRƒ“ƒpƒCƒ‰[‚ð`./build.sh`‚Æ“ü—Í‚·‚é‚±‚Æ‚Åƒrƒ‹ƒh‚µ‚Ü‚·B‚»‚µ‚Ä`./install.sh ~/rt`‚Æ“ü—Í‚·‚é‚±‚Æ‚ÅƒRƒ“ƒpƒCƒ‰[‚ðƒŠƒYƒ€“V‘ƒvƒ‰ƒX‚ÌƒtƒHƒ‹ƒ_[‚ÖƒCƒ“ƒXƒg[ƒ‹‚µ‚Ü‚·B
+ãã—ã¦ã€`cd ~/agbcc`ã¨å…¥åŠ›ã—ã¦agbccãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¸ç§»å‹•ã—ã€ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©ãƒ¼ã‚’`./build.sh`ã¨å…¥åŠ›ã™ã‚‹ã“ã¨ã§ãƒ“ãƒ«ãƒ‰ã—ã¾ã™ã€‚ãã—ã¦`./install.sh ~/rt`ã¨å…¥åŠ›ã™ã‚‹ã“ã¨ã§ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©ãƒ¼ã‚’ãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹ã®ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã¸ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¾ã™ã€‚
 
-ÅŒã‚ÉAƒIƒŠƒWƒiƒ‹‚ÌƒŠƒYƒ€“V‘‚ÌROMƒf[ƒ^‚ð—pˆÓ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·BiRev.0‹y‚ÑRev.1‚Ì2ƒo[ƒWƒ‡ƒ“‚ª‘¶Ý‚µ‚Ä‚¢‚Ü‚·‚ªA‚Ç‚¿‚ç‚Å‚à\‚¢‚Ü‚¹‚ñj–¼‘O‚ð`baserom.gba`‚É•ÏX‚µ‚Ä`rt`ƒfƒBƒŒƒNƒgƒŠ‚É”z’u‚µ‚Ä‚­‚¾‚³‚¢B
+æœ€å¾Œã«ã€ã‚ªãƒªã‚¸ãƒŠãƒ«ã®ãƒªã‚ºãƒ å¤©å›½ã®ROMãƒ‡ãƒ¼ã‚¿ã‚’ç”¨æ„ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚ï¼ˆRev.0åŠã³Rev.1ã®2ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãŒå­˜åœ¨ã—ã¦ã„ã¾ã™ãŒã€ã©ã¡ã‚‰ã§ã‚‚æ§‹ã„ã¾ã›ã‚“ï¼‰åå‰ã‚’`baserom.gba`ã«å¤‰æ›´ã—ã¦`rt`ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«é…ç½®ã—ã¦ãã ã•ã„ã€‚
 
 
-#### ROM‚Ìƒrƒ‹ƒh
+#### ROMã®ãƒ“ãƒ«ãƒ‰
 
-ƒŠƒ|ƒWƒgƒŠ‚ðƒrƒ‹ƒh‚·‚é€”õ‚ª®‚¢‚Ü‚µ‚½I`cd ~/rt`‚ÅƒŠƒ|ƒWƒgƒŠ‚ÌƒtƒHƒ‹ƒ_‚ÉˆÚ“®‚µA`make -j`‚Æ“ü—Í‚·‚é‚±‚Æ‚ÅROM‚ðƒrƒ‹ƒh‚µ‚Ü‚·B(`-j`ƒpƒ‰ƒ[ƒ^‚É‚æ‚èAƒrƒ‹ƒh‚ÍCPU‚Ì•¡”ƒRƒA‚ÅŽÀs‰Â”\‚Æ‚È‚èAˆ—‘¬“x‚ª‘å•‚ÉŒüã‚µ‚Ü‚·B) ROM‚Ìƒrƒ‹ƒh‚É¬Œ÷‚µ‚½‚çA`build/rhythmtengokuplus.gba`iRev.1‚ÌROM‚ðŽg—p‚µ‚½ê‡‚Í`build/rhythmtengokuplus_rev1.gba`j‚ÉROM‚ªƒrƒ‹ƒh‚³‚ê‚Ä‚¢‚Ü‚·I‚±‚ê‚ªƒŠƒYƒ€“V‘ƒvƒ‰ƒX‚ÌƒRƒ“ƒpƒCƒ‹‚³‚ê‚½ROM‚Å‚·B
+ãƒªãƒã‚¸ãƒˆãƒªã‚’ãƒ“ãƒ«ãƒ‰ã™ã‚‹æº–å‚™ãŒæ•´ã„ã¾ã—ãŸï¼`cd ~/rt`ã§ãƒªãƒã‚¸ãƒˆãƒªã®ãƒ•ã‚©ãƒ«ãƒ€ã«ç§»å‹•ã—ã€`make -j`ã¨å…¥åŠ›ã™ã‚‹ã“ã¨ã§ROMã‚’ãƒ“ãƒ«ãƒ‰ã—ã¾ã™ã€‚(`-j`ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã«ã‚ˆã‚Šã€ãƒ“ãƒ«ãƒ‰ã¯CPUã®è¤‡æ•°ã‚³ã‚¢ã§å®Ÿè¡Œå¯èƒ½ã¨ãªã‚Šã€å‡¦ç†é€Ÿåº¦ãŒå¤§å¹…ã«å‘ä¸Šã—ã¾ã™ã€‚) ROMã®ãƒ“ãƒ«ãƒ‰ã«æˆåŠŸã—ãŸã‚‰ã€`build/rhythmtengokuplus.gba`ï¼ˆRev.1ã®ROMã‚’ä½¿ç”¨ã—ãŸå ´åˆã¯`build/rhythmtengokuplus_rev1.gba`ï¼‰ã«ROMãŒãƒ“ãƒ«ãƒ‰ã•ã‚Œã¦ã„ã¾ã™ï¼ã“ã‚ŒãŒãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹ã®ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã•ã‚ŒãŸROMã§ã™ã€‚
 
-‚»‚Ì‘¼‚Ì‚²Ž¿–â‚â•s–¾“_‚ª‚²‚´‚¢‚Ü‚µ‚½‚çA[rhmodding discord serveri‰pŒêj](https://discord.com/invite/ps4rq53)‚Ö‚Ç‚¤‚¼IiƒŠƒYƒ€“V‘‚Ì‰ü‘¢ŠÖ˜A‚É‚Â‚¢‚Ä‚ÌƒT[ƒo[‚Å‚·j
+ãã®ä»–ã®ã”è³ªå•ã‚„ä¸æ˜Žç‚¹ãŒã”ã–ã„ã¾ã—ãŸã‚‰ã€[rhmodding discord serverï¼ˆè‹±èªžï¼‰](https://discord.com/invite/ps4rq53)ã¸ã©ã†ãžï¼ï¼ˆãƒªã‚ºãƒ å¤©å›½ã®æ”¹é€ é–¢é€£ã«ã¤ã„ã¦ã®ã‚µãƒ¼ãƒãƒ¼ã§ã™ï¼‰
 
-## ƒNƒŒƒWƒbƒgiŒã“ú’Ç‹L—\’èj
+## ã‚¯ãƒ¬ã‚¸ãƒƒãƒˆï¼ˆå¾Œæ—¥è¿½è¨˜äºˆå®šï¼‰
 
-#### Rhythm Heaven Advance‹y‚ÑƒŠƒYƒ€“V‘ƒvƒ‰ƒX‚ÍA‹¦—Í‚µ‚Ä‚­‚ê‚½ˆÈ‰º‚Ì‘f°‚ç‚µ‚¢lX‚È‚µ‚Å‚ÍŽÀŒ»‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½I
+#### Rhythm Heaven AdvanceåŠã³ãƒªã‚ºãƒ å¤©å›½ãƒ—ãƒ©ã‚¹ã¯ã€å”åŠ›ã—ã¦ãã‚ŒãŸä»¥ä¸‹ã®ç´ æ™´ã‚‰ã—ã„äººã€…ãªã—ã§ã¯å®Ÿç¾ã§ãã¾ã›ã‚“ã§ã—ãŸï¼
 
-ƒAƒZƒbƒgì¬:
+ã‚¢ã‚»ãƒƒãƒˆä½œæˆ:
 + SkyeStage
 + Cash Banooka
 + geometricentric
@@ -101,16 +101,16 @@ ROM‚ðƒrƒ‹ƒh‚·‚é‘O‚ÉAƒŠƒYƒ€“V‘‚ÅŽg‚í‚ê‚Ä‚¢‚éƒRƒ“ƒpƒCƒ‰[‚Å‚ ‚éagbcc‚ðƒCƒ“ƒXƒg[
 + patataofcourse
 + Nate Candles
 
-ƒOƒ‰ƒtƒBƒbƒNƒfƒUƒCƒ“:
+ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ãƒ‡ã‚¶ã‚¤ãƒ³:
 + Tailx
 + vincells
 + Borists
 
-ƒvƒƒOƒ‰ƒ~ƒ“ƒO:
+ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°:
 + Itaific
 + ShaffySwitcher
 
-ƒvƒƒOƒ‰ƒ~ƒ“ƒO•â•:
+ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°è£œåŠ©:
 + Deni_iguess
 + patataofcourse
 + Arthurtilly
@@ -119,26 +119,26 @@ ROM‚ðƒrƒ‹ƒh‚·‚é‘O‚ÉAƒŠƒYƒ€“V‘‚ÅŽg‚í‚ê‚Ä‚¢‚éƒRƒ“ƒpƒCƒ‰[‚Å‚ ‚éagbcc‚ðƒCƒ“ƒXƒg[
 + Conhlee
 + MissKnowledge
 
-–|–óEƒ[ƒJƒ‰ƒCƒ[[ƒVƒ‡ƒ“:
+ç¿»è¨³ãƒ»ãƒ­ãƒ¼ã‚«ãƒ©ã‚¤ã‚¼ãƒ¼ã‚·ãƒ§ãƒ³:
 + Mizuka Lover
 + ShaffySwitcher
 + somethingAccurate
 + patataofcourse
 + castle
 
-ƒ[ƒJƒ‰ƒCƒ[[ƒVƒ‡ƒ“•â•:
+ãƒ­ãƒ¼ã‚«ãƒ©ã‚¤ã‚¼ãƒ¼ã‚·ãƒ§ãƒ³è£œåŠ©:
 + Cash Banooka
 + SkyStage
 + RedRobocon
 + ThisIsMyUsername
 
-ƒTƒEƒ“ƒhƒGƒtƒFƒNƒg:
-+ ƒŠƒYƒ€“V‘ ƒUEƒxƒXƒg+
+ã‚µã‚¦ãƒ³ãƒ‰ã‚¨ãƒ•ã‚§ã‚¯ãƒˆ:
++ ãƒªã‚ºãƒ å¤©å›½ ã‚¶ãƒ»ãƒ™ã‚¹ãƒˆ+
 + Cherryberryfaygo
-+ Nabixi‚»‚µ‚Ä”Þ‚ÌŒZ’íŽo–…j
++ Nabixï¼ˆãã—ã¦å½¼ã®å…„å¼Ÿå§‰å¦¹ï¼‰
 
-ƒeƒXƒgƒvƒŒƒCF
-Rhythm Heaven AdvanceƒvƒƒWƒFƒNƒg‚ÌdiscordƒT[ƒo[‚É‚¢‚é‚Ý‚ñ‚Èi“Á‚ÉnqwolŽj
+ãƒ†ã‚¹ãƒˆãƒ—ãƒ¬ã‚¤ï¼š
+Rhythm Heaven Advanceãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®discordã‚µãƒ¼ãƒãƒ¼ã«ã„ã‚‹ã¿ã‚“ãªï¼ˆç‰¹ã«nqwolæ°ï¼‰
 
-ŠF‚³‚ñ‚ÌŽè•‚¯‚ÉŠ´ŽÓ‚µ‚Ü‚·I
+çš†ã•ã‚“ã®æ‰‹åŠ©ã‘ã«æ„Ÿè¬ã—ã¾ã™ï¼
 
