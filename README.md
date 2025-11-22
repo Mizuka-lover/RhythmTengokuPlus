@@ -8,14 +8,14 @@
 
 ご質問、ご提案、プレイテスト用の当ビルドについては以下のリンクを参照下さい！
 
-・[リズム天国プラス　ツイッター](https://x.com/rhytngkplus)
+・[リズム天国プラス　Twitter](https://x.com/rhytngkplus)
 
 ・[Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
 **（質問などRhythm Heaven Advanceより移植されたものについてはこちらで発言しても構いませんが、リズム天国プラス独自の内容に関する質問はこのdiscordサーバーではお控えください！）**
 
 ## インストール方法
 
-このインストールのプロジェクトにはLinuxターミナルにアクセスする必要があります。もしWindows 10やWindows 11をご使用であれば、**WSL (Windows Subsystem for Linux)**を使用することで簡単にインストール可能です。既にLinuxをご使用であれば、**「依存関係のインストール」**セクションまでスキップしても構いません。WSLを使用するのであれば、以下のガイドに従ってください：
+このインストールのプロジェクトにはLinuxターミナルにアクセスする必要があります。もしWindows 10やWindows 11をご使用であれば、**WSL (Windows Subsystem for Linux)** を使用することで簡単にインストール可能です。既にLinuxをご使用であれば、**「依存関係のインストール」** セクションまでスキップしても構いません。WSLを使用するのであれば、以下のガイドに従ってください：
 
 #### WSLのインストール
 
