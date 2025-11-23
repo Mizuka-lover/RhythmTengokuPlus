@@ -72,5 +72,3 @@ const char D_0805c090[] = "スピードに　やられてます。";
 const char D_0805c0ac[] = "速いのが　カンペキ！";
 
 const char D_0805c0c4[] = "つうしんぼ";
-
-const char D_0805c0c5[] = "すすめ！";

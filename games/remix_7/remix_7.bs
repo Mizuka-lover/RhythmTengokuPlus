@@ -580,13 +580,21 @@ script script_remix_7_main
     rest 24
     night_walk_set_platform 0
     spawn_cue CUE_KICK
-    rest 24
+    night_walk_play_drumtech_note 38, 256, 0
+    rest 17
+    night_walk_play_drumtech_note 38, 256, 0
+    rest 7
+    night_walk_play_drumtech_note 38, 256, 0
     spawn_cue CUE_CYMBAL
     rest 24
     spawn_cue CUE_KICK
     rest 24
     spawn_cue CUE_SNARE
-    rest 24
+    night_walk_play_drumtech_note 38, 256, 0
+    rest 17
+    night_walk_play_drumtech_note 38, 256, 0
+    rest 7
+    night_walk_play_drumtech_note 38, 256, 0
     spawn_cue CUE_KICK
     rest 24
     spawn_cue CUE_SNARE

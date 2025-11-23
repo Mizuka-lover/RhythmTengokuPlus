@@ -185,7 +185,7 @@ void init_campaign_notice(void) {
     sprite_set_origin_x_y(gSpriteHandler, notice->textAdvSprite, &vector->x, &vector->y);
 
     notice->printer = text_printer_create_new(get_current_mem_id(), 5, 120, 26);
-    text_printer_set_x_y(notice->printer, 104, 308);
+    text_printer_set_x_y(notice->printer, 104, 300);
     text_printer_set_layer(notice->printer, 0x800);
     text_printer_set_colors(notice->printer, 0);
     text_printer_set_palette(notice->printer, 1);
@@ -286,18 +286,18 @@ void start_campaign_notice(s32 id) {
     notice->y = campaign_gifts_table[id].y;
     level = get_level_data_from_grid_xy(notice->x, notice->y);
     string = notice->text;
-    memcpy(string, "ただいま「", 11);  // [Right now]
+    memcpy(string, "ただいま　「", 13);  // [Right now]
     strcat(string, level->name); // "<game_name>"
     if(level->flags & LEVEL_DATA_FLAG_IS_EXTRA) {
         strcat(string, " TEMPO UP!"); // Extra
     }
-    strcat(string, "」でパーフェクトを達成すると"); // Get a perfect on this
+    strcat(string, "」　でパーフェクトを達成すると、"); // Get a perfect on this
     if (!isSpecialSong) {
         strcat(string, "もれなく"); // game, and you'll receive
     }
-    strcat(string, "「"); // "
+    strcat(string, "　「"); // "
     strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
-    strcat(string, "」"); // "
+    strcat(string, "」　"); // "
     if (isStandardSong) {
         strcat(string, "の曲"); // 's song
     }
