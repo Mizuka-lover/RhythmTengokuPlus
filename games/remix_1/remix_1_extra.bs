@@ -249,13 +249,13 @@ script script_remix_1_extra_main
     beat_anim
     rest 24
     beat_anim
-    rest 24
     print_text_f 2
-    beat_anim
     rest 12
     play_sfx s_f_boxing_two_sfx_seqData
     rest 12
     play_sfx s_f_boxing_hit_sfx_seqData
+    beat_anim
+    rest 24
     clear_text_f
     spawn_cue CUE_LIGHT_BULB
     beat_anim
@@ -334,13 +334,13 @@ script script_remix_1_extra_main
     beat_anim
     rest 24
     beat_anim
-    rest 24
     print_text_f 2
-    beat_anim
     rest 12
     play_sfx s_f_boxing_two_sfx_seqData
     rest 12
     play_sfx s_f_boxing_hit_sfx_seqData
+    beat_anim
+    rest 24
     clear_text_f
     spawn_cue CUE_LIGHT_BULB
     beat_anim
@@ -765,11 +765,11 @@ script script_remix_1_extra_main
 
     load_karate_man_extra
     print_text_f 4
-    rest 24
     rest 12
     play_sfx s_f_boxing_four_sfx_seqData
     rest 12
     play_sfx s_f_boxing_hit_sfx_seqData
+    rest 24
     clear_text_f
     spawn_cue CUE_POT
     beat_anim
