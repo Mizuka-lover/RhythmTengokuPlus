@@ -10,6 +10,8 @@
 
 ・[リズム天国プラス　Twitter](https://x.com/rhytngkplus)
 
+・[リズム天国プラス　Bluesky](https://bsky.app/profile/rhythmtengokuplus.bsky.social)
+
 ・[Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
 **（質問などRhythm Heaven Advanceより移植されたものについてはこちらで発言しても構いませんが、リズム天国プラス独自の内容に関する質問はこのdiscordサーバーではお控えください！）**
 
