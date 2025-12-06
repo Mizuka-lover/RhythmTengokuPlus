@@ -123,15 +123,9 @@ union Instrument inst_bank_04[] = {
     /* 048 */ NULL,                            { .pcm = &instrument_pcm_0117 }, { .pcm = &instrument_pcm_0118 }, NULL,
     /* 052 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 056 */ NULL,                            NULL,                            NULL,                            NULL,
-    #ifdef SFX
     /* 060 */ { .pcm = &instrument_pcm_moRn }, { .pcm = &instrument_pcm_moLn }, NULL,                            NULL,
     /* 064 */ { .pcm = &instrument_pcm_moA2 }, { .pcm = &instrument_pcm_moA3 }, NULL,                            NULL,
-    /* 068 */ { .pcm = &instrument_pcm_moFf }, NULL,                            NULL,                            NULL,
-    #else
-    /* 060 */ NULL,                            NULL,                            NULL,                            NULL,
-    /* 064 */ NULL,                            NULL,                            NULL,                            NULL,
-    /* 068 */ NULL,                            NULL,                            NULL,                            NULL,
-    #endif
+    /* 068 */ { .pcm = &instrument_pcm_moFf }, { .pcm = &instrument_pcm_sufa }, NULL,                            NULL,
     /* 072 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 076 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 080 */ NULL,                            NULL,                            NULL,                            NULL,
@@ -148,6 +142,7 @@ union Instrument inst_bank_04[] = {
     /* 124 */ NULL,                            NULL,                            { .rhy = &instrument_rhy_0119 }, { .rhy = &instrument_rhy_0120 }
 
 // mo = Marching Orders; L = Left; R = Right; A = Attention; n = Normal; f = Fast; # = part
+// instrument_pcm_sufa = susume fast
 
 };
 

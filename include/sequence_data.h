@@ -755,3 +755,4 @@ extern struct SongHeader s_f_boxing_hit_sfx_seqData;
 extern struct SongHeader s_f_boxing_three_sfx_seqData;
 extern struct SongHeader s_f_boxing_two_sfx_seqData;
 extern struct SongHeader s_f_boxing_four_sfx_seqData;
+extern struct SongHeader s_guntai_v_susume_f_seqData;

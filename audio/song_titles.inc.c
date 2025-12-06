@@ -754,3 +754,4 @@ char s_f_boxing_hit_sfx_seqName[] = "";
 char s_f_boxing_three_sfx_seqName[] = "";
 char s_f_boxing_two_sfx_seqName[] = "";
 char s_f_boxing_four_sfx_seqName[] = "";
+char s_guntai_v_susume_f_seqName[] = "";

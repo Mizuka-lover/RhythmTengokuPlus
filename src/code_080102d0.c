@@ -4,7 +4,7 @@
 #include "scenes/game_select.h"
 #include "scenes/reading.h"
 #include "scenes/studio.h"
-
+#include "main.h"
 
 // [func_080102d0] Get Music Base Tempo
 u32 get_music_base_tempo(struct SongHeader *seqData) {
@@ -96,4 +96,8 @@ void reset_game_save_data(void) {
 // [func_08010478] Bulk Copy to Rhythm Tengoku Game Save Data
 void write_game_save_data(void) {
     write_save_buffer_data_to_sram((void *)&D_030046a8->data, sizeof(struct TengokuSaveData));
+}
+
+void request_game_save_data_write(void) {
+    trigger_req_save_data_sync();
 }
