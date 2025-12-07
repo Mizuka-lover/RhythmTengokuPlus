@@ -1941,3 +1941,5 @@
 /* 1938 */ DEFINE_SONG( &s_f_boxing_two_sfx_seqData,       SFX_PLAYER_2   )
 /* 1939 */ DEFINE_SONG( &s_f_boxing_four_sfx_seqData,       SFX_PLAYER_2   )
 /* 1940 */ DEFINE_SONG( &s_guntai_v_susume_f_seqData,          SFX_PLAYER_1   )
+/* 1941 */ DEFINE_SONG( &s_rat_paw_seqData,                  SFX_PLAYER_2   )
+/* 1942 */ DEFINE_SONG( &s_rat_squeak_seqData,               SFX_PLAYER_0   )

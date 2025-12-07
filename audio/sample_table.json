@@ -5318,6 +5318,14 @@
         {
             "sample": "four.wav",
             "pitch": "C5"
+        },
+        {
+            "sample": "rat_sfx_01.wav",
+            "pitch": "C5"
+        },
+        {
+            "sample": "rat_sfx_02.wav",
+            "pitch": "C5"
         }
     ]
 }

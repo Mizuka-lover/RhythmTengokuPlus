@@ -29,4 +29,12 @@ const char D_08068008[] = "アセるー！！";
 
 const char D_08068018[] = "がんばって～！";
 
+const char D_08068019[] = "１";
+
+const char D_0806801B[] = "２";
+
+const char D_0806801C[] = "３";
+
+const char D_0806801D[] = "ハイ！";
+
 const char D_08068028[] = "";

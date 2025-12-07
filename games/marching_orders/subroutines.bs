@@ -46,26 +46,9 @@ script marching_orders_sub_08a837ac
     beat_anim
 return
 
-script marching_orders_sub_08a837ac_tempo
-    marching_orders_event01
-    play_sfx s_guntai_v_susume_f_seqData
-    print_text_f D_0805c8e3
-    rest 24
-    marching_orders_play_voice_sfx SHOUT_START
-    marching_orders_event00 263
-    spawn_cue CUE_STEP
-    beat_anim
-return
-
 script marching_orders_sub_08a83848
     call marching_orders_sub_08a83758
     call marching_orders_sub_08a837ac
-    rest 24
-return
-
-script marching_orders_sub_08a83848_tempo
-    call marching_orders_sub_08a83758
-    call marching_orders_sub_08a837ac_tempo
     rest 24
 return
 
@@ -80,20 +63,9 @@ script marching_orders_sub_08a83848_beatstop
     rest 24
 return
 
-script marching_orders_sub_08a83848_beatstop_tempo
-    call marching_orders_sub_08a83758beatstop
-    call marching_orders_sub_08a837ac_tempo
-    rest 24
-return
-
 script marching_orders_sub_08a83848_beatstop_nobeat
     call marching_orders_sub_08a83758beatstop
     call marching_orders_sub_08a837ac
-return
-
-script marching_orders_sub_08a83848_beatstop_nobeat_tempo
-    call marching_orders_sub_08a83758beatstop
-    call marching_orders_sub_08a837ac_tempo
 return
 
 script marching_orders_sub_08a8386c

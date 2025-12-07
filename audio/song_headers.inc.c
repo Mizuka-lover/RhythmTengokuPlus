@@ -2662,6 +2662,18 @@ struct SongHeader s_rat_dash_seqData = {
     /* Song Number   */ 1426
 };
 
+extern const u8 s_rat_squeak_mid[];
+struct SongHeader s_rat_squeak_seqData = {
+    /* MIDI Sequence */ s_rat_squeak_mid,
+    /* Sound Player  */ SFX_PLAYER_1,
+    /* Bank Number   */ INST_BANK_6,
+    /* Volume        */ 110,
+    /* Priority      */ 80,
+    /* unk8          */ 0x40,
+    /* Song Title    */ s_rat_squeak_seqName,
+    /* Song Number   */ 1942
+};
+
 extern const u8 s_rat_stop_mid[];
 struct SongHeader s_rat_stop_seqData = {
     /* MIDI Sequence */ s_rat_stop_mid,
@@ -9044,4 +9056,16 @@ struct SongHeader s_guntai_v_susume_f_seqData = {
     /* unk8          */ 0x40,
     /* Song Title    */ s_guntai_v_susume_f_seqName,
     /* Song Number   */ 1940
+};
+
+extern const u8 s_rat_paw_mid[];
+struct SongHeader s_rat_paw_seqData = {
+    /* MIDI Sequence */ s_rat_paw_mid,
+    /* Sound Player  */ SFX_PLAYER_0,
+    /* Bank Number   */ INST_BANK_6,
+    /* Volume        */ 100,
+    /* Priority      */ 80,
+    /* unk8          */ 0x40,
+    /* Song Title    */ s_rat_paw_seqName,
+    /* Song Number   */ 1941
 };
