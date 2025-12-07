@@ -1943,3 +1943,4 @@
 /* 1940 */ DEFINE_SONG( &s_guntai_v_susume_f_seqData,          SFX_PLAYER_1   )
 /* 1941 */ DEFINE_SONG( &s_rat_paw_seqData,                  SFX_PLAYER_2   )
 /* 1942 */ DEFINE_SONG( &s_rat_squeak_seqData,               SFX_PLAYER_0   )
+/* 1943 */ DEFINE_SONG( &s_f_boxing_two_fast_sfx_seqData,       SFX_PLAYER_2   )

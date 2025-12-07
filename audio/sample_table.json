@@ -5316,6 +5316,10 @@
             "pitch": "C5"
         },
         {
+            "sample": "two_fast.wav",
+            "pitch": "C5"
+        },
+        {
             "sample": "four.wav",
             "pitch": "C5"
         },

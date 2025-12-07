@@ -792,12 +792,12 @@ struct MarchingSfxData marching_sfx_table[][18] = {
         /* SHOUT_START */ {
             /* Sound  */ &s_guntai_v_es_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(5.0)
+            /* Pitch  */ INT_TO_FIXED(4.6)
         },
         /* SHOUT_HALT */ {
             /* Sound  */ &s_guntai_v_yoh_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(4.45)
+            /* Pitch  */ INT_TO_FIXED(4.2)
         },
         /* SHOUT_TURN */ {
             /* Sound  */ &s_guntai_v_ka_seqData,
