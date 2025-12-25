@@ -1083,7 +1083,6 @@ script script_studio_rat_race
     rest 24
     return
 
-
 @ Remix 7
 script script_studio_remix7
     set_tempo 120
@@ -1249,6 +1248,132 @@ script script_studio_remix6
     rest_beats 28
     rest_beats 32
     rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    return
+
+@ Remix 2
+script script_studio_remix2
+    set_tempo 133
+    set_music_volume 0x100
+    run mute_studio_mus_tracks, (MIDI_TRACK_4 | MIDI_TRACK_8 | MIDI_TRACK_9)
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    dms_start_bg_monitor 2
+    play_music L2_pat00_seqData
+    rest_beats 4
+    play_music L2_pat00_seqData
+    rest_beats 4
+    play_music L2_pat00_seqData
+    rest_beats 4
+    play_music L2_pat00_seqData
+    rest_beats 4
+    play_music L2_pat01_seqData
+    rest_beats 32
+    play_music L2_pat01_seqData
+    rest_beats 16
+    play_music L2_pat09_seqData
+    rest_beats 16
+    play_music L2_pat11_seqData
+    rest_beats 16
+    play_music L2_pat11_seqData
+    rest_beats 16
+    play_music L2_pat01_seqData
+    rest_beats 28
+    mute_music_track MIDI_TRACK_5
+    rest_beats 3
+    mod_music_track_volume MIDI_TRACK_5, 250, 48
+    rest_beats 1
+    play_music L2_pat01_seqData
+    rest_beats 32
+    play_music L2_pat11_seqData
+    rest_beats 16
+    play_music L2_pat11_seqData
+    rest_beats 16
+    play_music L2_pat14_seqData
+    rest_beats 32
+    play_music L2_pat16_seqData
+    rest_beats 33
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    return
+
+
+@ Remix 4
+script script_studio_remix4
+    set_tempo 128
+    set_music_volume 0x100
+    run mute_studio_mus_tracks, (MIDI_TRACK_5 | MIDI_TRACK_6 | MIDI_TRACK_7)
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    play_music L3_intro_seqData
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    dms_start_bg_monitor 2
+    play_music L3_C37_seqData
+    rest_beats 32
+    play_music L3_C39_seqData
+    rest_beats 32
+    play_music L3_C35_seqData
+    rest_beats 32
+    play_music L3_C32_seqData
+    rest_beats 80
+    play_music L3_C40_seqData
+    rest_beats 32
+    play_music L3_C41_end_seqData
+    rest_beats 32
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    return
+
+
+@ Remix 1
+script script_studio_remix1
+    set_tempo 120
+    set_music_volume 0x100
+    run mute_studio_mus_tracks, (MIDI_TRACK_6 | MIDI_TRACK_8 | MIDI_TRACK_9)
+    play_music Lesson1_seqData
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    dms_start_bg_monitor 2
+    play_music L1_pat01_seqData
+    rest_beats 28
+    play_music L1_pat02_seqData
+    rest_beats 32
+    play_music L1_pat03_seqData
+    rest_beats 32
+    play_music L1_pat06_seqData
+    rest_beats 36
+    play_music L1_pat09_seqData
+    rest_beats 36
+    play_music L1_pat10_seqData
+    rest_beats 36
+    play_music L1_pat13_seqData
+    rest_beats 36
+    play_music L1_pat16_seqData
+    rest_beats 41
     rest 24
     rest 24
     rest 24

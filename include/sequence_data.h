@@ -713,6 +713,7 @@ extern struct SongHeader s_f_base_1note_seqData;
 extern struct SongHeader s_f_drumtech_miss_seqData;
 extern struct SongHeader s_f_drumtech_fall_seqData;
 extern struct SongHeader s_f_drumtech_damage_seqData;
+extern struct SongHeader s_f_shock_seqData;
 extern struct SongHeader s_f_neko1_seqData;
 extern struct SongHeader s_f_neko2_seqData;
 extern struct SongHeader s_f_neko3_seqData;

@@ -101,3 +101,4 @@ void write_game_save_data(void) {
 void request_game_save_data_write(void) {
     trigger_req_save_data_sync();
 }
+

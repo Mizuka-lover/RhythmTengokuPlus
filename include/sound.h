@@ -162,7 +162,8 @@ enum InstrumentBanksEnum {
 	/* 108 */ INST_BANK_UNUSED_108,
 	/* 109 */ INST_BANK_UNUSED_109,
 	/* 110 */ INST_BANK_62,
-	/* 111 */ INST_BANK_63
+	/* 111 */ INST_BANK_63,
+    /* 112 */ INST_BANK_69,
 };
 
 

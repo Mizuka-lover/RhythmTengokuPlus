@@ -487,7 +487,7 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_RIGHT_FACE_F */ {
-            /* Sound  */ &s_guntai_v_migi_muke1_seqData,
+            /* Sound  */ &s_guntai_v_migi_muke2_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
@@ -502,7 +502,7 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_LEFT_FACE_F */ {
-            /* Sound  */ &s_guntai_v_hidari_muke1_seqData,
+            /* Sound  */ &s_guntai_v_hidari_muke2_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
@@ -528,16 +528,6 @@ struct MarchingSfxData marching_sfx_table[][18] = {
         },
         /* CMD_RIGHT_FACE */ {
             /* Sound  */ &s_guntai_v_migi_muke1_face_seqData,
-            /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(0.0)
-        },
-        /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
-            /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(0.0)
-        },
-        /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         }
@@ -622,16 +612,6 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Sound  */ &s_guntai_v_migi_muke1_face_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
-        },
-        /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
-            /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(0.0)
-        },
-        /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
-            /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(0.0)
         }
     },
     /* ver2 */ {
@@ -671,7 +651,7 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_RIGHT_FACE_F */ {
-            /* Sound  */ &s_guntai_v_migi_muke1_seqData,
+            /* Sound  */ &s_guntai_v_migi_muke2_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
@@ -686,7 +666,7 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_LEFT_FACE_F */ {
-            /* Sound  */ &s_guntai_v_hidari_muke1_seqData,
+            /* Sound  */ &s_guntai_v_hidari_muke2_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
@@ -712,16 +692,6 @@ struct MarchingSfxData marching_sfx_table[][18] = {
         },
         /* CMD_RIGHT_FACE */ {
             /* Sound  */ &s_guntai_v_migi_muke1_face_seqData,
-            /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(0.0)
-        },
-        /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
-            /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(0.0)
-        },
-        /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         }
@@ -792,12 +762,12 @@ struct MarchingSfxData marching_sfx_table[][18] = {
         /* SHOUT_START */ {
             /* Sound  */ &s_guntai_v_es_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(4.6)
+            /* Pitch  */ INT_TO_FIXED(5.0)
         },
         /* SHOUT_HALT */ {
             /* Sound  */ &s_guntai_v_yoh_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
-            /* Pitch  */ INT_TO_FIXED(4.2)
+            /* Pitch  */ INT_TO_FIXED(4.45)
         },
         /* SHOUT_TURN */ {
             /* Sound  */ &s_guntai_v_ka_seqData,

@@ -48,13 +48,13 @@
 /* 0800009c */ .byte 0x21, 0xD4, 0xF8, 0x07
 
 @ Game Title
-/* 080000a0 */ .ascii "RHYTHMTNGKPL"
+/* 080000a0 */ .ascii "RHYTNGK PLUS"
 
 @ Game Code
 /* 080000ac */ .ascii "BTPJ"
 
 @ Maker Code
-/* 080000b0 */ .ascii "00"
+/* 080000b0 */ .ascii "01"
 
 @ 0x96 Fixed
 /* 080000b2 */ .byte 0x96
@@ -72,7 +72,7 @@
 /* 080000bc */ .byte REV
 
 @ Compliment Check
-/* 080000bd */ .byte 0x45 - REV
+/* 080000bd */ .byte 0x35 - REV
 
 @ Reserved Area
 /* 080000be */ .hword 0x0000

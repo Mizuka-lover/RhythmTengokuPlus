@@ -43,8 +43,12 @@ extern const struct Beatscript script_studio_try_again[];
 extern const struct Beatscript script_studio_ok[];
 extern const struct Beatscript script_studio_superb[];
 extern const struct Beatscript script_studio_perfect[];
+extern const struct Beatscript script_studio_remix4[];
+extern const struct Beatscript script_studio_remix2[];
+extern const struct Beatscript script_studio_remix1[];
 
 
+// [D_089d81b4] Studio Song Entries
 struct StudioEntry studio_song_table[] = {
     /* SILENCE */ {
         /* Full Title  */ "ƒTƒCƒŒƒ“ƒg",
