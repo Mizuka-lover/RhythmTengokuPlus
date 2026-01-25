@@ -218,9 +218,9 @@ s32 text_glyph_is_end_punctuation(const char *c) {
 extern u8 haveSeenDisclamer;
 
 char* badBoyMessages[3] = {
-    "good job removing it",
-    "you arent getting away with this",
-    "how do you think doing this is moral?"
+    "警告画面消すな",
+    "今すぐ使用停止しろ",
+    "人の心とかないんか？"
 };
 
 // Print Formatted Line to VRAM (return width in pixels)
