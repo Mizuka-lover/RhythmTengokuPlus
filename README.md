@@ -1,5 +1,5 @@
 
-<img width="1535" height="989" alt="image" src="https://github.com/user-attachments/assets/b916317f-c038-4d1f-b9e5-f0beaed3a6c1" />
+<img width="1575" height="989" alt="image" src="https://github.com/user-attachments/assets/692c2c84-d627-414c-825c-9b3ee769cd88" />
 
 # リズム天国プラス:
 これはGBAゲームである「リズム天国」の非公式機能追加プロジェクト「リズム天国プラス」です。このプロジェクトは、先述ゲームの非公式英語翻訳プロジェクト「Rhythm Heaven Advance」およびその一部である「Rhythm Heaven Advance Plus」に追加される新機能を日本語版のリズム天国に移植したものとなります。
@@ -86,7 +86,9 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 
 ## クレジット（後日追記予定）
 
-#### Rhythm Heaven Advance及びリズム天国プラスは、協力してくれた以下の素晴らしい人々なしでは実現できませんでした！
+### Rhythm Heaven Advance及びリズム天国プラスにおいて、協力してくれた以下の素晴らしい人々を以下に記載いたします。
+
+#### Rhythm Heaven Advance
 
 アセット作成:
 + SkyeStage
@@ -122,7 +124,7 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 + MissKnowledge
 
 翻訳・ローカライゼーション:
-+ Mizuka Lover
++ Mizuka Lover（みずらば）
 + ShaffySwitcher
 + somethingAccurate
 + patataofcourse
@@ -137,10 +139,35 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 サウンドエフェクト:
 + リズム天国 ザ・ベスト+
 + Cherryberryfaygo
-+ Nabix（そして彼の兄弟姉妹）
++ Nabixと彼の兄弟姉妹
 
 テストプレイ：
 Rhythm Heaven Advanceプロジェクトのdiscordサーバーにいるみんな（特にnqwol氏）
 
-皆さんの手助けに感謝します！
+#### リズム天国プラス
 
+アセット作成：
++ Cash Banooka
++ TinyCastleguy
++ geometricentric
++ Objectly
+
+グラフィックデザイン：
++ Tailx
+
+プログラミング：
++ Itaific
++ ShaffySwitcher
+
+プログラミング補助：
++ Deni_iguess
++ patataofcourse
+
+日本語版MOD制作：
++ Mizuka Lover（みずらば）
+
+サウンドエフェクト：
++ リズム天国 ザ・ベスト+
++ Nununu_god.（ぬぬぬごっど。）
+
+皆さんの手助けに感謝します！
