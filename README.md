@@ -128,6 +128,7 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 + Mizuka Lover（みずらば）
 + somethingAccurate
 + ShaffySwitcher
++ castIe
 + patataofcourse
 
 ローカライゼーション補助:
