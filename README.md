@@ -104,6 +104,7 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 + amdree
 + patataofcourse
 + Nate Candles
++ Itaific
 
 グラフィックデザイン:
 + Tailx
@@ -125,10 +126,9 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 
 翻訳・ローカライゼーション:
 + Mizuka Lover（みずらば）
-+ ShaffySwitcher
 + somethingAccurate
++ ShaffySwitcher
 + patataofcourse
-+ castle
 
 ローカライゼーション補助:
 + Cash Banooka
@@ -140,6 +140,13 @@ ROMをビルドする前に、リズム天国で使われているコンパイ�
 + リズム天国 ザ・ベスト+
 + Cherryberryfaygo
 + Nabixと彼の兄弟姉妹
++ Itaific
++ Sesu
+
+サウンドエフェクト編集：
++ FireChat
++ castIe
++ Kievit
 
 テストプレイ：
 Rhythm Heaven Advanceプロジェクトのdiscordサーバーにいるみんな（特にnqwol氏）
@@ -168,6 +175,8 @@ Rhythm Heaven Advanceプロジェクトのdiscordサーバーにいるみんな�
 
 サウンドエフェクト：
 + リズム天国 ザ・ベスト+
+
+サウンドエフェクト編集：
 + Nununu_god.（ぬぬぬごっど。）
 
 皆さんの手助けに感謝します！
