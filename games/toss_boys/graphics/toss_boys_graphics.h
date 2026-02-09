@@ -61,7 +61,6 @@ extern struct CompressedData toss_boys_action_lines_bg_map;
 extern struct CompressedData toss_boys_remix_5_bg_tiles;
 extern struct CompressedData toss_boys_remix_5_bg_map;
 extern struct CompressedData toss_boys_remix_5_obj;
-extern struct CompressedData toss_boys_remix_5_obj_rev1;
 
 /* TOSS BOYS - PALETTES */
 

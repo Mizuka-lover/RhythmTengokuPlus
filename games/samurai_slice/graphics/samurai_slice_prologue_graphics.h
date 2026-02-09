@@ -13,7 +13,6 @@ extern struct CompressedData samurai_slice_prologue_bg_tiles;
 extern struct CompressedData samurai_slice_prologue_bg_map;
 extern struct CompressedData samurai_slice_prologue_bg_map_slice;
 extern struct CompressedData samurai_slice_prologue_obj;
-extern struct CompressedData samurai_slice_prologue_obj_rev1;
 
 /* PROLOGUE (SAMURAI SLICE) - PALETTES */
 
