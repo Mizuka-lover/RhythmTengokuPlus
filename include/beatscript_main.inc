@@ -372,13 +372,9 @@ endstruct
     beatscript_cmd 0x29, 0, 0, \sound
 .endm
 
-@ [0x29] Play Sound Effect (Localized)
+@ [0x29] Play Sound Effect (Localized) but eng_sound is used for tengoku plus 
 .macro play_sfx_localized jap_sound, eng_sound
-#ifdef SFX
     beatscript_cmd 0x29, 0, 0, \eng_sound
-#else
-    beatscript_cmd 0x29, 0, 0, \jap_sound
-#endif
 .endm
 
 
