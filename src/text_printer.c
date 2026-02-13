@@ -215,12 +215,17 @@ s32 text_glyph_is_end_punctuation(const char *c) {
     return FALSE;
 }
 
-extern u8 haveSeenDisclamer;
+extern u8 haveSeenDisclaimer;
 
-char* badBoyMessages[3] = {
+//なんだろうね、これ。
+
+char* badBoyMessages[6] = {
     "警告画面消すな",
     "今すぐ使用停止しろ",
-    "人の心とかないんか？"
+    "人の心とかないんか？",
+    "3800円",
+    "チェックしちゃうもんね。",
+    "m9（＾Д＾）プギャーwwww"
 };
 
 // Print Formatted Line to VRAM (return width in pixels)
@@ -233,7 +238,7 @@ s32 text_printer_print_formatted_line(s32 tileBaseX, s32 tileBaseY, s32 font, co
     s32 glyphID;
     u32 i;
 
-    if (!haveSeenDisclamer){
+    if (!haveSeenDisclaimer){
         i = agb_random(ARRAY_COUNT(badBoyMessages));
         stream = badBoyMessages[i];
     } else {

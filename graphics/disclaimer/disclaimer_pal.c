@@ -3,7 +3,7 @@
 #include "global.h"
 #include "graphics.h"
 
-Palette disclamer_pal[] = {
+Palette disclaimer_pal[] = {
     /* PALETTE 00 */ {
         /* 00 */ TO_RGB555(0xffffff),
         /* 01 */ TO_RGB555(0xffef00),

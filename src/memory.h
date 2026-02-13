@@ -15,7 +15,7 @@
 enum {
     ADVANCE_FLAG_SAVE_CONVERTED            = 1,
     ADVANCE_FLAG_USE_ALT_GAME_SELECT_MUSIC = 2,
-    ADVANCE_FLAG_SEEN_DISCLAMER            = 4,
+    ADVANCE_FLAG_SEEN_disclaimer           = 4,
 };
 
 extern struct SaveBuffer {

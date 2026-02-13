@@ -102,7 +102,7 @@ script script_tap_trial_2_main
     start_tracking_inputs
     run gameplay_set_mercy_count, 2
     run gameplay_set_miss_punishment_duration, 36
-    set_tempo 165
+    set_tempo 166
     set_music_volume 256
     rest 24
     enable_pause_menu
@@ -190,6 +190,7 @@ script script_tap_trial_2_main
     rest 24
     beat_anim
     rest 24
+    set_tempo 167
     call tap_trial_sub_08a85f00
     call tap_trial_sub_08a85de0
     beat_anim
@@ -234,8 +235,9 @@ script script_tap_trial_2_main
     play_sfx_vol s_rabbit_jet_seqData, 384
     rest 24
     rest 24
+    set_tempo 240
     rest 24
-    set_tempo 180
+    set_tempo 181
     beat_anim
     rest 24
     beat_anim
@@ -286,6 +288,7 @@ script script_tap_trial_2_main
     call tap_trial_sub_08a85de0
     beat_anim
     rest 24
+    set_tempo 182
     call tap_trial_sub_08a85e88
     call tap_trial_sub_08a85c78
     call tap_trial_sub_08a85c78
@@ -321,6 +324,7 @@ script script_tap_trial_2_main
     rest 24
     beat_anim
     rest 24
+    set_tempo 181
     set_marking_criteria 0
     call tap_trial_sub_08a85c78
     set_marking_criteria 2

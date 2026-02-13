@@ -603,7 +603,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Epil. */ FALSE
     },
     /* Disclaimer */ {
-        /* Scene */ &scene_disclamer,
+        /* Scene */ &scene_disclaimer,
         /* Label */ "ÇØÇ¢Ç±Ç≠Å@ÇQ",
         /* Epil. */ FALSE
     },
