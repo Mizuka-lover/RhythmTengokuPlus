@@ -220,12 +220,12 @@ extern u8 haveSeenDisclaimer;
 //なんだろうね、これ。
 
 char* badBoyMessages[6] = {
-    "警告画面消すな",
+    "海賊版だよこれ",
     "今すぐ使用停止しろ",
     "人の心とかないんか？",
     "3800円",
-    "チェックしちゃうもんね。",
-    "m9（＾Д＾）プギャーwwww"
+    "やりませんねぇ！",
+    "m9（＾Д＾）プギャーwwwww"
 };
 
 // Print Formatted Line to VRAM (return width in pixels)

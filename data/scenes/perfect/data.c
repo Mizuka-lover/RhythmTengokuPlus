@@ -78,5 +78,8 @@ s8 unassigned_campaign_gift_songs[] = {
     STUDIO_SONG_OK,
     STUDIO_SONG_SUPERB,
     STUDIO_SONG_PERFECT,
+    STUDIO_SONG_REMIX1,
+    STUDIO_SONG_REMIX2,
+    STUDIO_SONG_REMIX4,
     -1
 };

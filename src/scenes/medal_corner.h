@@ -53,6 +53,7 @@ enum DrumLessonsEnum {
     /* 16 */ DRUM_LESSON_LONG_6,
     /* 17 */ DRUM_LESSON_HI_TECH_1,
     /* 18 */ DRUM_LESSON_HI_TECH_2,
+    /* 19 */ DRUM_LESSON_TANUKI_AND_MONKEY,
 
     /* -- */ TOTAL_DRUM_LESSONS
 };

@@ -54,6 +54,9 @@ enum StudioSongsEnum {
     /* 42 */ STUDIO_SONG_OK,
     /* 43 */ STUDIO_SONG_SUPERB,
     /* 44 */ STUDIO_SONG_PERFECT,
+    /* 45 */ STUDIO_SONG_REMIX1,
+    /* 46 */ STUDIO_SONG_REMIX2,
+    /* 47 */ STUDIO_SONG_REMIX4,
 
     /* -- */ TOTAL_STUDIO_SONGS
 };

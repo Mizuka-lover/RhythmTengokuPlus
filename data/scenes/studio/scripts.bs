@@ -1267,7 +1267,6 @@ script script_studio_remix2
     rest 24
     run play_studio_mus_count_in
     rest 24
-    dms_start_bg_monitor 2
     play_music L2_pat00_seqData
     rest_beats 4
     play_music L2_pat00_seqData

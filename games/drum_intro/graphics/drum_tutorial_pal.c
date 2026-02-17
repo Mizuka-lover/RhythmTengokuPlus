@@ -4,16 +4,16 @@
 // [D_088c2fe0] Drum Intro (Player Scene) Palette (BG & OBJ)
 Palette drum_intro_play_pal[] = {
     /* PALETTE 00 */ {
-        /* 00 */ TO_RGB555(0xF8F8F8),
-        /* 01 */ TO_RGB555(0x302020),
-        /* 02 */ TO_RGB555(0x586058),
-        /* 03 */ TO_RGB555(0x98A098),
-        /* 04 */ TO_RGB555(0xD8D0D8),
-        /* 05 */ TO_RGB555(0xF8F8F8),
-        /* 06 */ TO_RGB555(0x000000),
-        /* 07 */ TO_RGB555(0x000000),
-        /* 08 */ TO_RGB555(0x000000),
-        /* 09 */ TO_RGB555(0x000000),
+        /* 00 */ TO_RGB555(0xffffff),
+        /* 01 */ TO_RGB555(0x2f2f2f),
+        /* 02 */ TO_RGB555(0x696969),
+        /* 03 */ TO_RGB555(0xa2a2a2),
+        /* 04 */ TO_RGB555(0xd9d9d9),
+        /* 05 */ TO_RGB555(0xffffff),
+        /* 06 */ TO_RGB555(0xff0000),
+        /* 07 */ TO_RGB555(0xffec00),
+        /* 08 */ TO_RGB555(0xfff583),
+        /* 09 */ TO_RGB555(0x8b0000),
         /* 10 */ TO_RGB555(0x000000),
         /* 11 */ TO_RGB555(0x000000),
         /* 12 */ TO_RGB555(0x000000),
@@ -56,5 +56,23 @@ Palette drum_intro_play_pal[] = {
         /* 13 */ TO_RGB555(0x000000),
         /* 14 */ TO_RGB555(0xF8F8F8),
         /* 15 */ TO_RGB555(0x000000)
-    }
+    },
+    /* PALETTE 03 */ {
+        /* 00 */ TO_RGB555(0x08D040),
+        /* 01 */ TO_RGB555(0x000000),
+        /* 02 */ TO_RGB555(0x884008),
+        /* 03 */ TO_RGB555(0xF8C8C8),
+        /* 04 */ TO_RGB555(0x484848),
+        /* 05 */ TO_RGB555(0xC8C8C8),
+        /* 06 */ TO_RGB555(0xC08800),
+        /* 07 */ TO_RGB555(0xE8A800),
+        /* 08 */ TO_RGB555(0xF8D048),
+        /* 09 */ TO_RGB555(0xB86010),
+        /* 10 */ TO_RGB555(0xF8B078),
+        /* 11 */ TO_RGB555(0xF8F8F8),
+        /* 12 */ TO_RGB555(0xF80000),
+        /* 13 */ TO_RGB555(0x989898),
+        /* 14 */ TO_RGB555(0xF8F8F8),
+        /* 15 */ TO_RGB555(0x000000)
+    },
 };

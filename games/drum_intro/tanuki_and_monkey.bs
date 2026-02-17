@@ -160,6 +160,13 @@ struct tanuki_and_monkey_text_table_08a2f378
     .word D_08a2f278
 endstruct
 
+struct tanuki_and_monkey_grade_comments
+    .word D_0805d054
+    .word D_0805d034
+    .word D_0805d014
+    .word D_0805dff4
+    .word D_0805dfd8
+endstruct
 
 script tanuki_and_monkey_sub_08a2f3b4
     rest 24
@@ -179,6 +186,7 @@ script tanuki_and_monkey_sub_08a2f3b4
     rest 24
     rest 24
     rest 24
+    run set_next_scene, scene_results_ver_score
 return
 
 
@@ -192,6 +200,7 @@ script script_tanuki_and_monkey_main
     set_tempo 120
     @ set_results_header tanuki_and_monkey_results_header
     import_marking_criteria tanuki_and_monkey_marking_criteria
+    run score_results_set_grade_comments, tanuki_and_monkey_grade_comments
     enable_pause_menu
     dmi_event0D
     dmi_event0B tanuki_and_monkey_text_table_08a2f378, 0
@@ -585,7 +594,7 @@ script script_tanuki_and_monkey_intro
     print_text_s D_0805dd40
     rest 24
     init_tutorial scene_tanuki_and_monkey_skipped_intro
-    set_tempo 112
+    set_tempo 105
     dmi_event08 10
     rest 24
     rest 24
@@ -594,6 +603,28 @@ script script_tanuki_and_monkey_intro
     rest 24
     dmi_event08 11
     print_text_s D_0805dd50
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    clear_text_s
+    rest 24
+    dmi_event08 12
+    print_text_s D_0805dd60
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+    clear_text_s
+    rest 24
+    dmi_event08 11
+    print_text_s D_0805dd70
     rest 24
     rest 24
     rest 24
@@ -812,84 +843,6 @@ script script_tanuki_and_monkey_intro
         spawn_cue CUE_AUTO
         rest 24
         dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 12
-        dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 6
-        dmi_event0A 0
-        spawn_cue CUE_AUTO
-        rest 6
-        dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 12
-        dmi_event09 1
-        rest 12
-        rest 24
-        rest 24
-        rest 24
-        rest 12
-    loop_end
-    rest 12
-    dmi_event09 -1
-    dmi_event08 11
-    print_text_s D_0805de88
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    clear_text_s
-    rest 24
-    dmi_event08 12
-    print_text_s D_0805dea0
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    rest 24
-    clear_text_s
-    dmi_event09 0
-    rest 12
-    loop_start
-        dmi_event09 0
-        rest 12
-        run beatscript_disable_loops
-        dmi_event08 13
-        rest 24
-        dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 24
-        dmi_event0A 2
-        spawn_cue CUE_AUTO
-        rest 12
-        dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 6
-        dmi_event0A 0
-        spawn_cue CUE_AUTO
-        rest 6
-        dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 12
-        dmi_event09 1
-        rest 12
-        rest 24
-        rest 24
-        rest 24
-        rest 12
-        dmi_event09 0
-        rest 12
-        dmi_event08 14
-        rest 24
-        dmi_event0A 1
-        spawn_cue CUE_AUTO
-        rest 24
-        dmi_event0A 2
         spawn_cue CUE_AUTO
         rest 12
         dmi_event0A 1

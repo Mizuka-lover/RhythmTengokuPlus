@@ -164,6 +164,8 @@ extern struct Scene scene_drum_studio_ver2;
 extern struct Scene scene_drum_intro_unused;
 extern struct Scene scene_drum_intro_unused_2;
 extern struct Scene scene_drum_intro_unused_3;
+
+// Drum lessons...? (bonus game)
 extern struct Scene scene_tanuki_and_monkey;
 
 // Bitmap Fonts from WarioWare

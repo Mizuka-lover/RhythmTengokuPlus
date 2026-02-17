@@ -137,20 +137,29 @@ void perfect_scene_start(void *sVar, s32 dArg) {
     gPerfect->inputsEnabled = FALSE;
 }
 
+s32 is_studio_song_registered(s32 songID) {
+    s32 i;
+    s32 total = D_030046a8->data.totalSongs;
+    for (i = 0; i < total; i++) {
+        if (D_030046a8->data.studioSongs[i].songID == songID) {
+            return 1;
+        }
+    }
+    return 0;
+}
 
 // Unlock Studio Songs
 void unlock_all_unassigned_campaign_gift_songs(void) {
     s8 *studioSongs;
-
     if (*unassigned_campaign_gift_songs < 0) {
         return;
     }
-
     for (studioSongs = unassigned_campaign_gift_songs; *studioSongs >= 0; studioSongs++) {
-        save_studio_song(*studioSongs, -1, 1, 0);
+        if (!is_studio_song_registered(*studioSongs)) {
+            save_studio_song(*studioSongs, -1, 1, 0);
+        }
     }
 }
-
 
 // Scene Update (Paused)
 void perfect_scene_paused(void *sVar, s32 dArg) {

@@ -41,6 +41,7 @@ extern struct Animation anim_lessons_menu_hi_tech_unused[];
 extern struct Animation anim_lessons_menu_basic_1[];
 extern struct Animation anim_lessons_menu_basic_2[];
 extern struct Animation anim_lessons_menu_basic_3[];
+extern struct Animation anim_lessons_menu_tanuki_and_monkey[];
 
 /* DRUM LESSONS MENU - COMPRESSED GRAPHICS */
 

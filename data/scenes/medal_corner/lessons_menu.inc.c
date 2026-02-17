@@ -113,6 +113,12 @@ struct MedalCornerLevel lessons_menu_levels[] = {
         /* Title  */ "ハイテク　２",
         /* Anim   */ anim_lessons_menu_hi_tech_1_2,
         /* Medals */ 48
+    },
+    /* TANUKI_AND_MONKEY */ {
+        /* Scene  */ &scene_tanuki_and_monkey,
+        /* Title  */ "サルとポン太",
+        /* Anim   */ anim_lessons_menu_tanuki_and_monkey,
+        /* Medals */ 50
     }
 };
 

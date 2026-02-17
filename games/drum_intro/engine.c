@@ -33,9 +33,9 @@ struct DrumTechNote *tanuki_and_monkey_bgm_seq_table[] = {
 
 // [D_089dfe94] Input Buttons
 u16 D_089dfe94[] = {
-    /* 0x00 */ (A_BUTTON | DPAD_RIGHT),
-    /* 0x01 */ (A_BUTTON | DPAD_RIGHT),
-    /* 0x02 */ DPAD_DOWN,
+    /* 0x00 */ (A_BUTTON | DPAD_LEFT),
+    /* 0x01 */ (A_BUTTON | DPAD_LEFT),
+    /* 0x02 */ DPAD_RIGHT,
     /* 0x03 */ 0,
 };
 
@@ -297,7 +297,7 @@ u8 D_089e01c4[] = {
 // [D_089e01c8] Cue 00 (Bass Drum)
 struct CueDefinition drum_intro_cue_bass = {
     /* Unknown Param.  */ 0,
-    /* Input Buttons   */ PRESS_BUTTON(B_BUTTON | DPAD_LEFT),
+    /* Input Buttons   */ PRESS_BUTTON(B_BUTTON | DPAD_DOWN),
     /* Total Duration  */ 0x18,
     /* Hit Window      */ -0x02, 0x02,
     /* Barely Window   */ -0x04, 0x04,
@@ -321,7 +321,7 @@ struct CueDefinition drum_intro_cue_bass = {
 // [D_089e0208] Cue 01 (Snare Drum)
 struct CueDefinition drum_intro_cue_snare = {
     /* Unknown Param.  */ 0,
-    /* Input Buttons   */ PRESS_BUTTON(A_BUTTON | DPAD_RIGHT),
+    /* Input Buttons   */ PRESS_BUTTON(A_BUTTON | DPAD_LEFT),
     /* Total Duration  */ 0x18,
     /* Hit Window      */ -0x02, 0x02,
     /* Barely Window   */ -0x04, 0x04,
@@ -369,7 +369,7 @@ struct CueDefinition drum_intro_cue_cymbal = {
 // [D_089e0288] Cue 03 (Tom Drum)
 struct CueDefinition drum_intro_cue_tom = {
     /* Unknown Param.  */ 0,
-    /* Input Buttons   */ PRESS_BUTTON(DPAD_DOWN),
+    /* Input Buttons   */ PRESS_BUTTON(DPAD_RIGHT),
     /* Total Duration  */ 0x18,
     /* Hit Window      */ -0x02, 0x02,
     /* Barely Window   */ -0x04, 0x04,

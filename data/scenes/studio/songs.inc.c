@@ -274,5 +274,20 @@ struct StudioEntry studio_song_table[] = {
         /* Full Title  */ "パーフェクト",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_perfect,
-    }
+    },
+    /* REMIX1 */ {
+        /* Full Title  */ "リミックス１",
+        /* Short Title */ NULL,
+        /* Drum Script */ script_studio_remix1
+    },
+    /* REMIX2 */ {
+        /* Full Title  */ "リミックス２",
+        /* Short Title */ NULL,
+        /* Drum Script */ script_studio_remix2
+    },
+    /* REMIX4 */ {
+        /* Full Title  */ "リミックス４",
+        /* Short Title */ NULL,
+        /* Drum Script */ script_studio_remix4
+    },
 };
