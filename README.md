@@ -89,6 +89,7 @@ macOSでのビルド方法は近日公開予定です。ご迷惑をお掛けし
 
 ## クレジット
 リズム天国プラスのクレジットは[こちら](CREDITS_rtp.md)
+
 本家プロジェクト・Rhythm Heaven Advanceのクレジットは[こちら](CREDITS_rha.md)
 
 ## 連絡先
