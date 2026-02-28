@@ -1,183 +1,119 @@
 
-<img width="1575" height="989" alt="image" src="https://github.com/user-attachments/assets/692c2c84-d627-414c-825c-9b3ee769cd88" />
+# リズム天国プラス
 
-# リズム天国プラス:
+![リズム天国プラス](media/rtp.png?raw=true "リズム天国プラス")
+
 これはGBAゲームである「リズム天国」の非公式機能追加プロジェクト「リズム天国プラス」です。このプロジェクトは、先述ゲームの非公式英語翻訳プロジェクト「Rhythm Heaven Advance」およびその一部である「Rhythm Heaven Advance Plus」に追加される新機能を日本語版のリズム天国に移植したものとなります。
 このプロジェクトは、現在**進行中**です！つまり、未完成もしくは不安定であるためパッチ等のダウンロードリンクは提供されていません。
 ただし、プロジェクトのビルドの方法は以下に説明があります。プロジェクトがリリース可能な状態まで進んだ時点で、パッチのダウンロードが可能になる予定です。
 
-ご質問、ご提案、プレイテスト用の当ビルドについては以下のリンクを参照下さい！
+ご質問、ご提案については[こちら](#連絡先)を参照下さい！
 
-・[リズム天国プラス　Twitter](https://x.com/rhytngkplus)
+## インストール方法（ソースコードからビルドする）
 
-・[リズム天国プラス　Bluesky](https://bsky.app/profile/rhythmtengokuplus.bsky.social)
+### 必要条件
 
-・[Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
-**（質問などRhythm Heaven Advanceより移植されたものについてはこちらで発言しても構いませんが、リズム天国プラス独自の内容に関する質問はこのdiscordサーバーではお控えください！）**
+使用しているプラットフォームに限らず以下の物を用意する必要があります:
+- 合法的に入手したリズム天国のROMデータ（前期、後期版どちらでも可） (CRC32: 前期 `349D7025` 後期 `A6CD88E1`)
+- Git
 
-## インストール方法
+### Windows
 
-このインストールのプロジェクトにはLinuxターミナルにアクセスする必要があります。もしWindows 10やWindows 11をご使用であれば、**WSL (Windows Subsystem for Linux)** を使用することで簡単にインストール可能です。既にLinuxをご使用であれば、**「依存関係のインストール」** セクションまでスキップしても構いません。WSLを使用するのであれば、以下のガイドに従ってください：
+WSL(Windows Subsystem for Linux)を使用して、[Linux向けのインストール手順](#Linux)を踏んで下さい。 DebianもしくはUbuntuディストリビューションを推奨します。
 
-#### WSLのインストール
+WSLをセットアップするには:
+```bash
+wsl --install
+```
 
-まず、コマンドプロンプトもしくはPowershellを管理者として実行します。
-`wsl --install` と入力して実行すると、UbuntuディストリビューションをデフォルトとしてWSLが自動的にインストールされます。この手順が終わったら、デバイスを再起動することでインストールを終了します。
+このコマンドをコマンドプロンプトで入力した後、下記の手順に従ってください。
 
-*注：WSLを使用するにはBIOS設定で仮想化機能を有効にする必要があります。問題が発生した場合は、BIOS起動方法を確認し、お使いのコンピュータで仮想化機能を有効にしてください。その他のインストールに関する問題については、[Microsoft公式インストールガイド](https://docs.microsoft.com/ja-jp/windows/wsl/install)を参照してください。*
-<br>
-WSLのインストールに成功し、起動するとユーザー名、パスワードの入力、パスワードの確認が求められます。パスワードを入力する際、キーボード上で文字を入力してもアスタリスク等は表示されないため入力は慎重に行ってください。また、内容を忘れないようにしてください。
-
-ユーザーを作成したら、ターミナルの設定を完了するために最後にいくつかコマンドを入力する必要があります。まず、`sudo apt update`と入力し実行、完了したら次に`sudo apt upgrade`と入力し実行します。これらのコマンドは途中でパスワードを求めてくるのでその都度パスワードを入力してください。もし`Do you want to continue? [Y/n]`と表示されたら`y`とだけ入力し、Enterキーを押してください。これで、WSLの設定は完了しました。
-<br>
-また、WindowsからLinuxのファイルにアクセスするためにドライブ文字を設定しておくと便利です。もし行う場合は、[このサイト（英語）](https://github.com/HackerN64/HackerSM64/wiki/Mounting-WSL-to-Drive)を参照してください。
-
-もしLinuxターミナルについて詳しくなければ、覚えておくべき重要なコマンドは`cd`です。これは現在自分のいるディレクトリから移動するためのコマンドです。`cd ~/`でホームディレクトリへ移動することができます。リポジトリを保存するのにこのホームディレクトリが推奨されています。そして、WSLターミナルでのコピー&ペーストはCtrl+CとCtrl+Vではなく右クリックで行います。そのため、このガイドのコマンドをターミナルに貼り付けるには、Ctrl+Cでコピーした後、ターミナル内で右クリックして貼り付けてください。
-
+### Linux
 
 #### 依存関係のインストール
 
-プロジェクトに必要な依存関係をインストールするには、まず次のコマンドを実行してください：
+ビルドに必要なパッケージをインストールします(Ubuntu/Debian):
+```bash
+sudo apt update
+sudo apt install build-essential binutils-arm-none-eabi git libpng-dev ffmpeg
+```
 
-`sudo apt install build-essential binutils-arm-none-eabi git libpng-dev ffmpeg`
+#### devkitProのインストール
 
-その後このコマンドも実行する必要があります：
+```bash
+# ダウンロードおよびインストール (現在はShaffySwitcher氏のミラーを使用するようになっています)
+wget https://www.shaffy.fr/install-devkitpro-pacman
+chmod +x ./install-devkitpro-pacman
+sudo ./install-devkitpro-pacman
 
-`sudo ln -s /proc/self/mounts /etc/mtab`
+# 環境変数の設定
+export DEVKITPRO=/opt/devkitpro
+export DEVKITARM=/opt/devkitpro/devkitARM
+export DEVKITPPC=/opt/devkitpro/devkitPPC
 
-このコマンドは、devkitProのインストール時にWSLで発生する問題の解決に役立ちます。必ずしも実行する必要はなく、エラーが発生する場合もあります。エラーが発生しても心配せず、次の手順に進んでください。
+# GBA開発ツールのインストール
+sudo dkp-pacman -Sy
+sudo dkp-pacman -S gba-dev
+```
 
-その後、devkitProをインストールする必要があります。このプロセスは非常に複雑ですので、表示されるパスワードを求められたら入力しながら、以下のコマンドを記載された順序で全て実行してください：
+#### クローン及びビルド
 
-`wget https://apt.devkitpro.org/install-devkitpro-pacman`
-`chmod +x ./install-devkitpro-pacman`
-`sudo ./install-devkitpro-pacman`
-`export DEVKITPRO=/opt/devkitpro`
-`export DEVKITARM=/opt/devkitpro/devkitARM`
-`export DEVKITPPC=/opt/devkitpro/devkitPPC`
-`sudo dkp-pacman -Sy`
-`sudo dkp-pacman -S gba-dev`
+1. **このリポジトリをクローンします:**
+   ```bash
+   git clone https://github.com/Mizuka-lover/RhythmTengokuPlus.git
+   ```
 
-最後までコマンドを実行し終えたら、Enterキーを押して`y`と入力します。これで依存関係のインストールは完了です。
+2. **agbcc（ビルドに使用するツール）をクローンし、インストールします:**
+   ```bash
+   git clone https://github.com/pret/agbcc.git
+   cd agbcc
+   ./build.sh
+   ./install.sh ../RhythmTengokuPlus
+   cd ../RhythmTengokuPlus
+   ```
 
+3. **ROMファイルの配置:**
+   - 先ほどの手順で作成されたRhythmTengokuPlusフォルダにリズム天国のROMファイルをコピーします。
+   - 名前を`baserom.gba`(もしくはMakefileで指定された名前)に変更します。
 
-#### リポジトリのクローン
+4. **ビルドを開始します:**
+   ```bash
+   make -j$(nproc)
+   ```
 
-このプロジェクトをクローンする用意が整いました。ではまず、`cd ~/`を実行してホームディレクトリに移動した後以下のコマンドを実行してください：
+リズム天国プラスのROMデータが`build/`ディレクトリに生成されます。
 
-`git clone https://github.com/Mizuka-lover/RhythmTengokuPlus.git rt`
+### macOS
 
-これでリポジトリが新しく作成された`rt`フォルダーにクローンされます。もしフォルダ名を別の名前にしたい場合は、`rt`を任意の名前に変えることもできます。
+macOSでのビルド方法は近日公開予定です。ご迷惑をお掛けします。
 
-ROMをビルドする前に、リズム天国で使われているコンパイラーであるagbccをインストールする必要があります。ホームディレクトリにいることを確認して、以下のコマンドを実行します：
+## クレジット
+リズム天国プラスのクレジットは[こちら](CREDITS_rtp.md)
+本家プロジェクト・Rhythm Heaven Advanceのクレジットは[こちら](CREDITS_rha.md)
 
-`git clone https://github.com/pret/agbcc`
+## 連絡先
 
-そして、`cd ~/agbcc`と入力してagbccディレクトリへ移動し、コンパイラーを`./build.sh`と入力することでビルドします。そして`./install.sh ~/rt`と入力することでコンパイラーをリズム天国プラスのフォルダーへインストールします。
+- [リズム天国プラス　Twitter](https://x.com/rhytngkplus)
 
-最後に、オリジナルのリズム天国のROMデータを用意する必要があります。（Rev.0及びRev.1の2バージョンが存在していますが、どちらでも構いません）名前を`baserom.gba`に変更して`rt`ディレクトリに配置してください。
+- [リズム天国プラス　Bluesky](https://bsky.app/profile/rhythmtengokuplus.bsky.social)
 
+- [Rhythm Heaven Advanceのdiscordサーバー](https://discord.gg/8PET8w8PU8)
+**（質問などRhythm Heaven Advanceより移植されたものについてはこちらで発言しても構いませんが、リズム天国プラス独自の内容に関する質問はこのdiscordサーバーではお控えください！）**
 
-#### ROMのビルド
-
-リポジトリをビルドする準備が整いました！`cd ~/rt`でリポジトリのフォルダに移動し、`make -j`と入力することでROMをビルドします。(`-j`パラメータにより、ビルドはCPUの複数コアで実行可能となり、処理速度が大幅に向上します。) ROMのビルドに成功したら、`build/rhythmtengokuplus.gba`（Rev.1のROMを使用した場合は`build/rhythmtengokuplus_rev1.gba`）にROMがビルドされています！これがリズム天国プラスのコンパイルされたROMです。
-
+- **GitHub(Issues):** [バグを報告](https://github.com/Mizuka-lover/RhythmTengokuPlus/issues)
 その他のご質問や不明点がございましたら、[rhmodding discord server（英語）](https://discord.com/invite/ps4rq53)へどうぞ！（リズム天国の改造関連についてのサーバーです）
 
-## クレジット（後日追記予定）
+## 注意事項
 
-### Rhythm Heaven Advance及びリズム天国プラスにおいて、協力してくれた以下の素晴らしい人々を以下に記載いたします。
+これは非公式のファンプロジェクトであり、任天堂と提携・承認・関連するものではありません。全ての商標権及び著作権はそれぞれの所有者に帰属します。本パッチは合法的に入手したゲームソフトでの個人利用のみを目的としています。
 
-#### Rhythm Heaven Advance
+本パッチを商業目的で使用することは一切禁止されています。
 
-アセット作成:
-+ SkyeStage
-+ Cash Banooka
-+ geometricentric
-+ somethingAccurate
-+ TinyCastleGuy
-+ The Eggo55
-+ Vincells
-+ WindowsTiger
-+ Kievit
-+ NotWario
-+ amdree
-+ patataofcourse
-+ Nate Candles
-+ Itaific
+リズム天国に関するアセット及びソースコードの全ての権利は、オリジナル作者及び任天堂が保有します。
 
-グラフィックデザイン:
-+ Tailx
-+ Vincells
-+ Borists
 
-プログラミング:
-+ Itaific
-+ ShaffySwitcher
+This is an unofficial fan project and is not affiliated with, endorsed by, or associated with Nintendo. All trademarks and copyrights belong to their respective owners. This patch is intended for personal use only with legally obtained copies of the game.
 
-プログラミング補助:
-+ Deni_iguess
-+ patataofcourse
-+ Arthurtilly
-+ Estexnt
-+ Nibblez
-+ Conhlee
-+ MissKnowledge
+You are NOT permitted to use the patch for commercial purposes.
 
-翻訳・ローカライゼーション:
-+ Mizuka Lover（みずらば）
-+ somethingAccurate
-+ ShaffySwitcher
-+ castIe
-+ patataofcourse
-
-ローカライゼーション補助:
-+ Cash Banooka
-+ SkyStage
-+ RedRobocon
-+ ThisIsMyUsername
-
-サウンドエフェクト:
-+ リズム天国 ザ・ベスト+
-+ Cherryberryfaygo
-+ Nabixと彼の兄弟姉妹
-+ Itaific
-+ SesuRescue
-
-サウンドエフェクト編集：
-+ FireChat
-+ castIe
-+ Kievit
-
-テストプレイ：
-Rhythm Heaven Advanceプロジェクトのdiscordサーバーにいるみんな（特にnqwol氏）
-
-#### リズム天国プラス
-
-アセット作成：
-+ Cash Banooka
-+ TinyCastleguy
-+ geometricentric
-+ Objectly
-
-グラフィックデザイン：
-+ Tailx
-
-プログラミング：
-+ Itaific
-+ ShaffySwitcher
-
-プログラミング補助：
-+ Deni_iguess
-+ patataofcourse
-
-日本語版MOD制作：
-+ Mizuka Lover（みずらば）
-
-サウンドエフェクト：
-+ リズム天国 ザ・ベスト+
-
-サウンドエフェクト編集：
-+ Nununu_god.（ぬぬぬごっど。）
-
-皆さんの手助けに感謝します！
+All rights concerning the assets or source code are reserved by the original authors and Nintendo for Rhythm Tengoku.
