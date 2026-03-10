@@ -63,7 +63,7 @@ endif
 
 # Preprocessor defines
 
-# Features: PLAYTEST
+# Features: PLAYTEST, DEBUG
 FEATURES ?= 
 DEFINES := REV=$(REV) $(FEATURES)
 C_DEFINES := $(foreach d,$(DEFINES),-D$(d))

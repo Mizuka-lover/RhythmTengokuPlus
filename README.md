@@ -21,12 +21,20 @@
 
 WSL(Windows Subsystem for Linux)を使用して、[Linux向けのインストール手順](#Linux)を踏んで下さい。 DebianもしくはUbuntuディストリビューションを推奨します。
 
+*注：WSLを使用するにはBIOS設定で仮想化機能を有効にする必要があります。問題が発生した場合は、BIOS起動方法を確認し、お使いのコンピュータで仮想化機能を有効にしてください。その他のインストールに関する問題については、[Microsoft公式インストールガイド](https://docs.microsoft.com/ja-jp/windows/wsl/install)を参照してください。*
+<br>
+WSLのインストールに成功し、起動するとユーザー名、パスワードの入力、パスワードの確認が求められます。パスワードを入力する際、キーボード上で文字を入力してもアスタリスク等は表示されないため入力は慎重に行ってください。また、内容を忘れないようにしてください。
+<br>
 WSLをセットアップするには:
 ```bash
 wsl --install
 ```
-
-このコマンドをコマンドプロンプトで入力した後、下記の手順に従ってください。
+<br>
+ユーザーを作成したら、ターミナルの設定を完了するために最後にいくつかコマンドを入力する必要があります。まず、`sudo apt update`と入力し実行、完了したら次に`sudo apt upgrade`と入力し実行します。これらのコマンドは途中でパスワードを求めてくるのでその都度パスワードを入力してください。もし`Do you want to continue? [Y/n]`と表示されたら`y`とだけ入力し、Enterキーを押してください。これで、WSLの設定は完了しました。
+<br>
+また、WindowsからLinuxのファイルにアクセスするためにドライブ文字を設定しておくと便利です。もし行う場合は、[このサイト（英語）](https://github.com/HackerN64/HackerSM64/wiki/Mounting-WSL-to-Drive)を参照してください。
+<br>
+このコマンドをコマンドプロンプトで入力した後、下記の手順に従ってコマンドを入力してください。
 
 ### Linux
 
@@ -86,6 +94,28 @@ sudo dkp-pacman -S gba-dev
 ### macOS
 
 macOSでのビルド方法は近日公開予定です。ご迷惑をお掛けします。
+
+## インストール後のカスタマイズ
+リズム天国プラスでは「PLAYTEST」と「DEBUG」の二つの機能をカスタマイズすることができます。
+<br>
+- **PLAYTEST:** メダル99枚　全ゲームを解放する
+- **DEBUG:** メインメニューで「リズムゲーム」選択時にL+R同時押しでデバッグメニュー　ゲーム中にL+Rでオートプレイ
+<br>
+Makefileの中、66行目より
+```Makefile
+# Features: PLAYTEST, DEBUG
+FEATURES ?= 
+DEFINES := REV=$(REV) $(FEATURES)
+C_DEFINES := $(foreach d,$(DEFINES),-D$(d))
+```
+という記載がございます。
+<br>
+この`FEATURES ?= `の中に`PLAYTEST, DEBUG`（複数選択する場合は間にコンマを入力）など入力して保存し、
+```bash
+make distclean
+make -j$(nproc)
+```
+を実行すると指定した機能を入れてROMを再ビルドできます。
 
 ## クレジット
 リズム天国プラスのクレジットは[こちら](CREDITS_rtp.md)
