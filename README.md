@@ -101,21 +101,16 @@ macOSでのビルド方法は近日公開予定です。ご迷惑をお掛けし
 - **PLAYTEST:** メダル99枚　全ゲームを解放する
 - **DEBUG:** メインメニューで「リズムゲーム」選択時にL+R同時押しでデバッグメニュー　ゲーム中にL+Rでオートプレイ
 
-Makefileの中、66行目より
-```Makefile
-# Features: PLAYTEST, DEBUG
-FEATURES ?= 
-DEFINES := REV=$(REV) $(FEATURES)
-C_DEFINES := $(foreach d,$(DEFINES),-D$(d))
-```
-という記載がございます。
-
-この`FEATURES ?= `の中に`PLAYTEST, DEBUG`（複数選択する場合は間にコンマを入力）など入力して保存し、
+ビルドを開始する際に
+（初めてROMをビルドする場合は1行目を省くことができます）
 ```bash
 make distclean
-make -j$(nproc)
+make -j$(nproc) FEATURES="PLAYTEST DEBUG"
 ```
-を実行すると指定した機能を入れてROMを再ビルドできます。
+のように実行すると指定した機能を入れてROMを再ビルドできます。
+また、入れたい機能が1つだけの場合
+`make -j$(nproc) FEATURES=PLAYTEST`
+のように`""`を省略できます。
 
 ## クレジット
 リズム天国プラスのクレジットは[こちら](CREDITS_rtp.md)

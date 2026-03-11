@@ -304,7 +304,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
     },
     /* Drum Girls LIVE */ {
         /* Scene */ &scene_drum_girls_live_unused,
-        /* Label */ "ドラムガールズ",
+        /* Label */ "ドラムガールズ　（みしよう）",
         /* Epil. */ TRUE
     },
     /* Power Calligraphy */ {

@@ -14,6 +14,7 @@ tools/agbcc/*
 .reapeaks
 .vscode/*
 ctx.c
+Flips/*
 
 # my handy graphics tool
 bitesthedust.py
