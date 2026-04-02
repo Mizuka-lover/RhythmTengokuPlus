@@ -24,7 +24,7 @@ s32 save_studio_song(s32 song, s32 replay, s32 drumKit, s32 flags) {
 
     id = D_030046a8->data.totalSongs;
 
-    if (id >= 68) {
+    if (id >= 69) {
         return -1;
     }
 

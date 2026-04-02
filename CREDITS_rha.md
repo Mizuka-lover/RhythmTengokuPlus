@@ -7,6 +7,7 @@
 ### 寄稿者
 - Deni_iguess
 - patataofcourse
+- Conhlee
 - [リズム天国のデコンパイルプロジェクト](https://github.com/arthurtilly/rhythmtengoku)に携わった皆様
 
 ## アセット作成
@@ -44,9 +45,7 @@
 - itaific
 - SesuRescue
 - FireChat
-- castIe
 - Kievit
-
 
 ## スペシャルサンクス
 - nwqol

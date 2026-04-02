@@ -47,6 +47,7 @@ extern const struct Beatscript script_studio_drum_lesson[];
 extern const struct Beatscript script_studio_marching_orders_practice[];
 extern const struct Beatscript script_studio_rapmen[];
 extern const struct Beatscript script_studio_rapwomen[];
+extern const struct Beatscript script_studio_ninja_bodyguard[];
 extern const struct Beatscript script_studio_remix1[];
 extern const struct Beatscript script_studio_remix2[];
 extern const struct Beatscript script_studio_remix4[];
@@ -304,6 +305,11 @@ struct StudioEntry studio_song_table[] = {
         /* Full Title  */ "ラップウィメン",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_rapwomen,
+    },
+    /* NINJA_BODYGUARD */ {
+        /* Full Title  */ "忍者",
+        /* Short Title */ NULL,
+        /* Drum Script */ script_studio_ninja_bodyguard,
     },
     /* REMIX1 */ {
         /* Full Title  */ "リミックス１",

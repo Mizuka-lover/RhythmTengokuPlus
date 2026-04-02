@@ -2183,7 +2183,6 @@ script script_studio_clappy_trio_tempo
 script script_studio_remix1_tempo
     set_tempo 180
     set_music_volume 0xFF
-    mute_music_track MIDI_TRACK_9
     run mute_studio_mus_tracks, (MIDI_TRACK_6 | MIDI_TRACK_8 | MIDI_TRACK_9)
     play_music Lesson1_seqData
     run play_studio_mus_count_in
@@ -2216,5 +2215,87 @@ script script_studio_remix1_tempo
     rest 24
     rest 24
     return
+
+script script_studio_ninja_bodyguard
+    set_tempo 140
+    set_music_volume 0xFF
+    run mute_studio_mus_tracks, (MIDI_TRACK_4)
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    run play_studio_mus_count_in
+    rest 24
+    dms_start_bg_monitor 2
+    play_music s_ninja_bgm1_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm1_seqData
+    set_music_key 2
+    rest_beats 8
+
+    play_music s_ninja_bgm1_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm1_seqData
+    set_music_key 2
+    rest_beats 8
+
+    play_music s_ninja_bgm1_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm1_seqData
+    set_music_key 2
+    rest_beats 8
+
+    play_music s_ninja_bgm1_seqData
+    set_music_key -3
+    rest_beats 8
+    play_music s_ninja_bgm1_seqData
+    set_music_key -2
+    rest_beats 8
+
+    play_music s_ninja_bgm2_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm2_seqData
+    set_music_key -2
+    rest_beats 8
+
+    play_music s_ninja_bgm2_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm2_seqData
+    set_music_key -2
+    rest_beats 8
+
+    play_music s_ninja_bgm2_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm2_seqData
+    set_music_key -2
+    rest_beats 8
+
+    play_music s_ninja_bgm2_seqData
+    set_music_key 2
+    rest_beats 8
+    play_music s_ninja_bgm2_seqData
+    set_music_key 0
+    rest_beats 8
+
+    play_music s_ninja_bgm1_seqData
+    set_music_key 0
+    rest_beats 8
+    play_music s_ninja_bgm1_seqData
+    set_music_key 2
+    rest_beats 8
+
+    rest 24
+    rest 24
+    rest 24
+    rest 24
+return
 
 .end

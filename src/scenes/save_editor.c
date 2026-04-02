@@ -45,7 +45,7 @@ struct SaveEditorMember gSaveEditorMembers[SE_MBR_COUNT] = {
     /* SE_MBR_ADVANCE_FLAGS */
     { "天国プラス系フラグ",                       SE_KIND_BITFLAGS,    0,  -1, -1, sAdvanceFlags, 3, NULL,               0 },
     /* SE_MBR_TOTAL_SONGS */
-    { "Total Songs",                         SE_KIND_U8,          0,  -1, -1, NULL,          0, NULL,               0 },
+    { "合計スタジオ曲数",                         SE_KIND_U8,          0,  -1, -1, NULL,          0, NULL,               0 },
     /* SE_MBR_UNK_B3 */
     { "unkB3（未使用）",                               SE_KIND_U8,    0,  -1, -1, NULL,   8, NULL,               0 },
     /* SE_MBR_STUDIO_SONGS */

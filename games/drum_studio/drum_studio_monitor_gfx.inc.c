@@ -332,6 +332,12 @@ struct DrumStudioMonitorData drum_studio_bg_table[] = {
         /* BG2 Vel.  */ -0x80, 0x00,
         /* BG3 Vel.  */ -0x40, 0x00
     },
+    /* NINJA_BODYGUARD */ {
+        /* Palette   */ studio_bg_monitor_02_pal,
+        /* GFX Table */ BG_GFX_TABLE_CHECKERBOARD,
+        /* BG2 Vel.  */ 0x90, 0x00,
+        /* BG3 Vel.  */ 0x00, 0x64
+    },
     /* REMIX1 */ {
         /* Palette   */ studio_bg_monitor_20_pal,
         /* GFX Table */ BG_GFX_TABLE_SPARKLES,
